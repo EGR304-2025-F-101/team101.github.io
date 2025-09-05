@@ -6,12 +6,12 @@ tags:
 ---
 <center>
 <font size="8">Project Name<br>
-<font size="5">Team ###<br>
+<font size="5">Team 101<br>
 **Submission: month, DD, YYYY**<br>
-Semester and Year<br>
+Fall and 2025<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
-Professor Name<br>
+Daniel Aukes<br>
   
 
 </center>
