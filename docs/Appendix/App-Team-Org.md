@@ -15,19 +15,20 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
-|Member 1 |  ? | ? | ? |
-|Member 2 |  ? | ? | ? |
-|Member 3 |  ? | ? | ? |
-|Member 4 |  ? | ? | ? |
+|Isaiah LaCombe| Messages | Discord | Email |
+|Liam Mabbutt| Messages | Discord | Email |
+|Ragul Raj| Messages | Discord | Email |
 
 ### Main Method for Group Communication
 
-Based on the information provided on in the "Team Member Communication Modes," the group primary method of communication is ......
+Based on the information provided on in the "Team Member Communication Modes," the group primary method of communication is phone messages for communication and Discord for virtually meeting communication.
  
 ## Communication Procedures
 
 1. How will your team communicate?
-2. How will you handle instructor correspondence? Who is responsible? How will that be communicated with/back to the group?
+   Our team wll communicate using phone messages and discord.
+3. How will you handle instructor correspondence? Who is responsible? How will that be communicated with/back to the group?
+   Our team will designate one member as the primary point of contact for instructor correspondence. This person will be responsible for checking messages regularly, responding in a timely manner, and sharing all communication with the team. If the designated member is unavailable, another teammate will temporarily take over as the contact.
 
 ## Meeting Schedule
 
@@ -35,37 +36,41 @@ _**Appendix Table 2**: Weekly Schedule_
 
 | Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
-| 8:00 AM | - | - | M | - | M | - | - |
-| 9:00 AM | - | F | M | - | M | - | - |
-| 10:00 AM | - | B | M | - | M | - | - |
-| 11:00 AM | - | B | M | - | M | - | - |
-| 12:00 PM | Z | B, Z | M | - | M | - | - |
-| 1:00 PM | Z, F |  | M | - | M | - | - |
-| 2:00 PM | Z, F | - | M | - | M | - | - |
-| 3:00 PM | Z | - | M | - | M | - | - |
-| 4:00 PM | - | - | M | - | M | - | - |
-| 5:00 PM | - | - | M | - | M | - | - |
-| 6:00 PM | - | - | M | - | M | - | - |
-| 7:00 PM | - | - | M | - | M | - | - |
-| 8:00 PM | - | - | M | - | M | - | - |
-| 9:00 PM | - | - | M | - | M | - | - |
+| 8:00 AM | - | - | I | - | I | - | - |
+| 9:00 AM | - | - | I | - | I | - | - |
+| 10:00 AM | - | - | - | - | - | I | - |
+| 11:00 AM | - | - | - | - | - | I | - |
+| 12:00 PM | - | - | - | - | - | I | - |
+| 1:00 PM | - |  | I | - | I | I | - |
+| 2:00 PM | - | - | I | - | I | I | - |
+| 3:00 PM | - | - | I | - | I | I | - |
+| 4:00 PM | - | - | I | - | I | I | - |
+| 5:00 PM | - | - | I | - | I | I | - |
+| 6:00 PM | - | - | I | - | I | I | - |
+| 7:00 PM | - | - | - | - | - | - | - |
+| 8:00 PM | - | - | - | - | - | - | - |
+| 9:00 PM | - | - | - | - | - | - | - |
 
 _**Table Legend for Appendix Table 2**_
 
 | Name | Abbreviation |
 | ----- | :------: |
-| Bill | B |
-| Mary | M |
-| Zane | Z |
-| Felicity | F |
+| Isaiah | I |
+| Raj | R |
+| Liam | L |
 
 
 ## Meeting Coordination
 
 1. What method will you use to remind yourselves of meetings (a shared calendar?)
-1. How will your team go about changing or adding meeting times?
-1. What's the preferred format for meetings (face-to-face or virtually)?
-1. Are there any other procedures that your team feels are necessary?
+   We will be using google Calendar (shared), everyone gets event invites with notifications on their phone/computer.
+   We can also set up a weekly Routine, Agree on a fixed time so reminders aren’t as critical.
+2. How will your team go about changing or adding meeting times?
+   We will discuss everyone’s schedules and agree on a meeting time that works for all team members.
+   Our team will primarily meet virtually through Discord for scheduling flexibility.
+3. Are there any other procedures that your team feels are necessary?
+   Our team will work to distribute the workload fairly. We will regularly review progress to ensure no single member is overloaded.
+   
 
 ## Roles & Responsibilities
 
@@ -75,7 +80,7 @@ _**Appendix Table 2**: Project Roles and Duties_
 | :---------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
 | Meeting leader    | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                        |
 | Meeting recorder  | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
-| Assignment leader | Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
+| Isaiah LaCombe - Assignment leader | Coordinates the team's work on a given assignment to Canvas before the due date                                          |
 | Project monitor   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
 
 ## Conflict Recognition & Resolution
@@ -85,5 +90,5 @@ Need to add content!!
 
 ## Signatures
 
-Need to add content!!
+~Isaiah LaCombe
 
