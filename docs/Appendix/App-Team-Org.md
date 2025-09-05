@@ -63,13 +63,13 @@ _**Table Legend for Appendix Table 2**_
 ## Meeting Coordination
 
 1. What method will you use to remind yourselves of meetings (a shared calendar?)
-   We will be using google Calendar (shared), everyone gets event invites with notifications on their phone/computer.
+-> We will be using google Calendar (shared), everyone gets event invites with notifications on their phone/computer.
    We can also set up a weekly Routine, Agree on a fixed time so reminders aren’t as critical.
-2. How will your team go about changing or adding meeting times?
-   We will discuss everyone’s schedules and agree on a meeting time that works for all team members.
+3. How will your team go about changing or adding meeting times?
+-> We will discuss everyone’s schedules and agree on a meeting time that works for all team members.
    Our team will primarily meet virtually through Discord for scheduling flexibility.
-3. Are there any other procedures that your team feels are necessary?
-   Our team will work to distribute the workload fairly. We will regularly review progress to ensure no single member is overloaded.
+4. Are there any other procedures that your team feels are necessary?
+-> Our team will work to distribute the workload fairly. We will regularly review progress to ensure no single member is overloaded.
    
 
 ## Roles & Responsibilities
@@ -80,15 +80,21 @@ _**Appendix Table 2**: Project Roles and Duties_
 | :---------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
 | Meeting leader    | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                        |
 | Meeting recorder  | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
-| Isaiah LaCombe Assignment leader | Coordinates the team's work on a given assignment to Canvas before the due date                                          |
+|  (Isaiah LaCombe) Assignment leader | Coordinates the team's work on a given assignment to Canvas before the due date                                          |
 | Project monitor   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
 
 ## Conflict Recognition & Resolution
 
-Need to add content!!
+1. Acknowledge differences in opinion openly without hostility.
+2. Listen to each member’s perspective before making decisions.
+3. Work towards an all member agreement; if that is not possible, resolve disagreements through majority vote.
+4. Revisit and adjust roles or responsibilities if certain conflicts from workload imbalance arise.
+5. If a issues cant be resolved internally only then will it escalate to instructor intervention.
 
 
 ## Signatures
 
 ~Isaiah LaCombe
+~
+~
 
