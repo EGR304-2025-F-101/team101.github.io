@@ -34,7 +34,7 @@ Based on the information provided on in the "Team Member Communication Modes," t
  
 ## Communication Procedures
 
-1. How will your team communicate?
+1. How will your team communicate?  
 -> Our team wll communicate using phone messages and discord.
 3. How will you handle instructor correspondence? Who is responsible? How will that be communicated with/back to the group?  
 -> Our team will designate one member as the primary point of contact for instructor correspondence. This person will be responsible for checking messages regularly, responding in a timely manner, and sharing all communication with the team. If the designated member is unavailable, another teammate will temporarily take over as the contact.
