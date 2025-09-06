@@ -8,11 +8,11 @@ tags:
 ## Team Goals
 
 
-1. Have a collaborative team that will support each other and 
-2.
-3.
-4.
-5.
+1. Have a collaborative team that will support each other and distribute fair workload/accountability. 
+2. Devolop functional projects that meet design requirements and shows reliable performance. 
+3. Gain better professional engineering skills that will aid in project planning and technical documentation.
+4. Work to build and deveopment a design to showcase a implementation into other systems.
+5. Gain better debugging strategies to fix design challenges and improve our system. 
 
 ## Mission Statement
 
@@ -87,8 +87,8 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 | **Role**          | **Duties**                                                                                                                                |
 | :---------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
-| (Liam Mabbutt) Meeting leader    | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                        |
-| Meeting recorder  | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
+| (Liam Mabbutt)  Meeting leader    | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                        |
+| (Everyone)  Meeting recorder  | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
 | (Isaiah LaCombe) Assignment leader | Coordinates the team's work on a given assignment to Canvas before the due date                                         |
 | (Ragul Raj) Project monitor   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
 
@@ -104,6 +104,6 @@ _**Appendix Table 2**: Project Roles and Duties_
 ## Signatures
 
 ~Isaiah LaCombe  
-~Liam Mabbutt
-~Ragul Raj
+~Liam Mabbutt  
+~Ragul Raj  
 
