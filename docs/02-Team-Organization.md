@@ -7,12 +7,8 @@ tags:
 
 ## Team Charter
 
-From the ... which can be reviewed in ["Appendix: Team Organization"](https://embedded-systems-design.github.io/EGR304TeamTemplate/Appendix/App-Team-Org/), the team's charter formed to be (showing ASU's Charter as an Example):
-
-> "ASU is a comprehensive public research university, measured not by whom it excludes, but by whom it includes and how they succeed; advancing research and discovery of public value; and assuming fundamental responsibility for the economic, social, cultural and overall health of the communities it serves." (ASU's Charter)
+From the team appendix which can be reviewed in [https://egr304-2025-f-101.github.io/team101.github.io/Appendix/App-Team-Org/], the team's charter formed to be focused on designing, building, and testing an embedded system that works well and shows decication to our product. We’ll share ideas, fairly distribute the work, and help each other along the way. Our goal is to finish with a completed working project, improve our skills in the process, and build good design habits we can carry beyond this class. We want to create something we’re proud to share and improve our abilties as future engineers.  
 
 ## Product Mission Statement
 
-Describe the distilled purpose, function, or reason for your product to exist. From this form a team mission statement. Google's mission statement is:
-
- > "Google's mission is to organize the world's information and make it universally accessible and useful."
+“We want to explore new ideas in engineering, build real projects together, learn how to work as a team, and grow our skills through hands-on experience.”  
