@@ -14,6 +14,9 @@ tags:
 4.
 5.
 
+## Mission Statement
+
+“We want to explore new ideas in engineering, build real projects together, learn how to work as a team, and grow our skills through hands-on experience.”
 
 ## Communication Channels
 
