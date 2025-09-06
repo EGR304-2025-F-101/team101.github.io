@@ -16,7 +16,7 @@ tags:
 
 ## Mission Statement
 
-"We strive to ignite curiosity and innovation in engineering, turning ideas into tangible projects, developing leadership and collaboration skills, and making a meaningful impact through hands-on learning and teamwork."
+“We want to explore new ideas in engineering, build real projects together, learn how to work as a team, and grow our skills through hands-on experience.”
 
 ## Communication Channels
 
