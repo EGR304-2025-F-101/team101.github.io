@@ -5,13 +5,13 @@ tags:
 - tag2
 ---
 <center>
-<font size="8">Project Name<br>
+<font size="8">Projectz<br>
 <font size="5">Team 101<br>
-**Submission: month, DD, YYYY**<br>
+**Submission: September, 05, 2025**<br>
 Fall and 2025<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
-Daniel Aukes<br>
+Liam, Isaiah, and Raj<br>
   
 
 </center>
