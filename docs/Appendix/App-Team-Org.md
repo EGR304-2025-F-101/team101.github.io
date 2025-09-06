@@ -94,7 +94,7 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 ## Signatures
 
-~Isaiah LaCombe \
+~Isaiah LaCombe  
 ~
 ~
 
