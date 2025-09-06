@@ -34,9 +34,9 @@ Based on the information provided on in the "Team Member Communication Modes," t
  
 ## Communication Procedures
 
-1. How will your team communicate?\
+1. How will your team communicate?  
    Our team wll communicate using phone messages and discord.
-2. How will you handle instructor correspondence? Who is responsible? How will that be communicated with/back to the group?\
+2. How will you handle instructor correspondence? Who is responsible? How will that be communicated with/back to the group?  
    Our team will designate one member as the primary point of contact for instructor correspondence. This person will be responsible for checking messages regularly, responding in a timely manner, and sharing all communication with the team. If the designated member is unavailable, another teammate will temporarily take over as the contact.
 
 ## Meeting Schedule
@@ -87,10 +87,10 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 | **Role**          | **Duties**                                                                                                                                |
 | :---------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
-| (Liam Mabbutt)  Meeting leader    | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                        |
-| (Everyone)  Meeting recorder  | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
-| (Isaiah LaCombe) Assignment leader | Coordinates the team's work on a given assignment to Canvas before the due date                                         |
-| (Ragul Raj) Project monitor   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
+| (Liam Mabbutt)   Meeting leader    | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting       |
+| (Everyone)   Meeting recorder  | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned  |
+| (Isaiah LaCombe) Assignment leader | Coordinates the team's work on a given assignment to Canvas before the due date                         |
+| (Ragul Raj)  Project monitor   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
 
 ## Conflict Recognition & Resolution
 
