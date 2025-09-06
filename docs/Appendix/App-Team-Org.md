@@ -14,6 +14,9 @@ tags:
 4.
 5.
 
+## Mission Statement
+
+"We strive to ignite curiosity and innovation in engineering, turning ideas into tangible projects, developing leadership and collaboration skills, and making a meaningful impact through hands-on learning and teamwork."
 
 ## Communication Channels
 
