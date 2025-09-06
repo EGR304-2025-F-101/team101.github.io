@@ -26,7 +26,7 @@ Liam, Isaiah, and Raj<br>
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
-| Name #1                | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/) |
+| Ragul Raj RG #1        | [rrangasa.GitHub](https://rrangasa.github.io/EGR304raj.github.io/) |
 | Name #2                | link |
 | Name #3                | link |
 | Name #4                | link |
