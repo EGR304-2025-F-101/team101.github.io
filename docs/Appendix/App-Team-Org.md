@@ -7,7 +7,13 @@ tags:
 
 ## Team Goals
 
-List at least five shared goals that reflect a successful product with regard to EGR3X4. Focus on team / product goals that are deeper than "getting an A".
+
+1. Have a collaborative team that will support each other and 
+2.
+3.
+4.
+5.
+
 
 ## Communication Channels
 
