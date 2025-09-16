@@ -86,7 +86,7 @@ Easy Installation - Installs or replaces in around 15 minutes with basic tools. 
 | "I tried updating the app and it did not help at all. I ended up have to click on every date to manually turn off each zone..."                               | I need app updates that actually fix problems and improve usability.                 | Explicit        |
 
 ---
-
+![Alt Text](https://m.media-amazon.com/images/I/71ZeJzK90WL._AC_SX679_.jpg)
 ### Product 3: Rain Bird ARC8 Smart Irrigation WiFi Timer/Controller  
 **Price:** $119.99  
 **Vendor:** Amazon / Lowe’s  
@@ -124,7 +124,7 @@ Easy Installation - Installs or replaces in around 15 minutes with basic tools. 
 | “Alexa and smart home integration often fail or don’t work as advertised.” | Device should reliably integrate with Alexa and smart home systems | Explicit |
 
 ---
-
+![Alt Text](https://m.media-amazon.com/images/I/71Y2ACQ14CL._AC_SY300_SX300_QL70_FMwebp_.jpg)
 ### Product 4: Hunter Hydrawise HPC400 Smart WiFi Irrigation Controller  
 **Price:** $275.00  
 **Vendor:** Hunter Official / Irrigation Suppliers  
