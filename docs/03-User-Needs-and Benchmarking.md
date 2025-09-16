@@ -9,12 +9,10 @@ tags:
 ## Introduction  
 The purpose of this assignment is to identify user needs from benchmarking competitive devices and to distill those needs into a weighted set of design objectives.
 
-Our group is designing a **Water-Efficient Lawn Watering System**. We aim to help **homeowners, renters, and community members** who want to maintain healthy lawns and landscaping while minimizing **water usage, cost, and environmental impact**.
+Our group is designing a Water-Efficient Lawn Watering System. We aim to help homeowners, renters, and community members who want to maintain healthy lawns and landscaping while minimizing water usage, cost, and environmental impact.
 
 ## Benchmarking Competitive Products
-
 ---
-
 ### Product 1: Rachio Gen 3 Smart Sprinkler Controller (8-Zone)  
 **Price:** $229.99  
 **Vendor:** Amazon / Rachio Official  
@@ -91,7 +89,7 @@ Our group is designing a **Water-Efficient Lawn Watering System**. We aim to hel
 
 ---
 
-#### Positive Comments → Needs
+#### Positive Comments - Needs
 
 | Review Quote | Restated User Need | Explicit / Latent |
 |--------------|--------------------|-------------------|
@@ -105,10 +103,8 @@ Our group is designing a **Water-Efficient Lawn Watering System**. We aim to hel
 | “Compact design makes it fit easily in my garage.” | Device is physically compact and space-efficient | Explicit |
 | “It will not go off when we have rain in our area.” | Device avoids unnecessary watering during rain | Explicit |
 | “There is a ton of customization for each zone and so much information about watering days, time and weather.” | Device provides detailed customization and flexibility | Explicit |
-
 ---
-
-#### Negative Comments → Needs  
+#### Negative Comments - Needs  
 
 | Review Quote | Restated User Need | Explicit / Latent |
 |--------------|--------------------|-------------------|
@@ -123,57 +119,56 @@ Our group is designing a **Water-Efficient Lawn Watering System**. We aim to hel
 | “Limited to 7 zones – not great for bigger yards.” | Device scales to larger properties | Explicit |
 | “Battery drains too fast if WiFi is used.” | Device has long-lasting and efficient power management | Explicit |
 
-
 ## Organized Need Statements
 
 ### Categories with Meta-Needs
 
 1. **Efficiency**
-- The device reduces household water use.  
-- The device avoids watering during rain.  
-- **Meta Need:** *The device waters lawns efficiently and conserves resources.*  
+The device reduces household water use.  
+The device avoids watering during rain.  
+**Main Need:** *The device waters lawns efficiently and conserves resources.*  
 
-2. **Convenience & Usability**
-- The device is easy to install.  
-- The device requires little training.  
-- The device has an intuitive app.  
-- **Meta Need:** *The device is simple and accessible for all users.*  
+3. **Convenience & Usability**
+The device is easy to install.  
+The device requires little training.  
+The device has an intuitive app.  
+**Main Need:** *The device is simple and accessible for all users.*  
 
-3. **Durability & Reliability**
-- The device works in outdoor conditions.  
-- The device has backup power options.  
-- The device resists WiFi or server interruptions.  
-- **Meta Need:** *The device is reliable in all environments.*  
+4. **Durability & Reliability**
+The device works in outdoor conditions.  
+The device has backup power options.  
+The device resists WiFi or server interruptions.  
+**Main Need:** *The device is reliable in all environments.*  
 
-4. **Cost & Sustainability** 
-- The device is affordable.  
-- The device reduces water bills.  
-- The device uses renewable energy (solar).  
-- **Meta Need:** *The device is cost-effective and environmentally friendly.*  
+5. **Cost & Sustainability** 
+The device is affordable.  
+The device reduces water bills.  
+The device uses renewable energy (solar).  
+**Main Need:** *The device is cost-effective and environmentally friendly.*  
 
-5. **Smart Features**
-- The device integrates with smart homes (Alexa, Google).  
-- The device tracks and reports water usage.  
-- The device adapts to soil moisture levels.  
-- **Meta Need:** *The device is intelligent and adaptable.*  
+6. **Smart Features**
+The device integrates with smart homes (Alexa, Google).
+The device tracks and reports water usage.
+The device adapts to soil moisture levels.
+**Main Need:** *The device is intelligent and adaptable.*  
 
 ## Prioritization of Needs (Weighted)
 
 **High Priority (Weight = 5)**
-- Reduce water use and household bills.  
-- Simple installation and setup.  
-- Reliable automatic watering.  
-- Durable outdoor design.  
-- Intuitive app-based remote control.  
+Reduce water use and household bills.  
+Simple installation and setup.  
+Reliable automatic watering.  
+Durable outdoor design.  
+Intuitive app-based remote control.  
 
 **Medium Priority (Weight = 3)**
-- Smart home integration.  
-- Affordable cost (under $200).  
-- Flexible zone control.  
+Smart home integration.  
+Affordable cost (under $200).  
+Flexible zone control.  
 
 **Low Priority (Weight = 1)**
-- Aesthetic design.  
-- Expandable accessories.  
+Aesthetic design.  
+Expandable accessories.  
 
 
 
