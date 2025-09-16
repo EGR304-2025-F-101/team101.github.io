@@ -7,10 +7,10 @@ tags:
 # User Needs and Benchmarking
 
 ## Introduction  
-The purpose of this assignment is to identify user needs from benchmarking competitive devices and to distill those needs into a weighted set of design goals. Our group is designing a Water-Efficient Lawn Watering System. Our aim to help homeowners, renters, and those who want to maintain healthy lawns and landscaping while being conscious of water usage, cost, and concern for the environmental.
+The purpose of this page is to identify user needs from benchmarking competitive devices and to integrate those needs into a weighted set of design goals. Our group is designing a Water-Efficient Lawn Watering System project. Our aim to help homeowners, renters, and those who want to maintain healthy lawns and landscaping while being conscious of water usage, cost, and concern for the environmental.
 
 ## Benchmarking Competitive Products
----
+
 ![Alt Text](https://m.media-amazon.com/images/I/71asdFrVrlL._SX522_.jpg)
 ### Product 1: [Rachio Gen 3 Smart Sprinkler Controller (8-Zone)](https://www.amazon.com/Rachio-Smart-Sprinkler-Controller-8-Zone/dp/B07CZ864Y9/ref=sr_1_1_mod_primary_new?crid=Q8WJIMUXE74A&dib=eyJ2IjoiMSJ9.0NowlzX_lX6O0Dr9R9QzDs_DyTJjy8lIZFmxlEDQN8Is6aXXizEQ6t2oegK18cAbwfNf-s_VkPK93RP3_W5wdo6p3uyRT4owkESKcAB0lng.k2WyCIMmcOmx0wDDIYWZ2Mgn7J4MeWMTAog4adlMvfI&dib_tag=se&keywords=Rachio%2B3%2BSmart%2BSprinkler%2BController&qid=1757993621&s=home-garden&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=rachio%2B3%2Bsmart%2Bsprinkler%2Bcontroller%2Cgarden%2C177&sr=1-1&th=1)  
 **Price:** $199.00 
@@ -48,7 +48,7 @@ FAST DIY INSTALL – Install in 30 min or less, compatible with 99% of existing 
 | "The Rachio 3 failed to connect to the phone App, via the home WIFI, after 5 attempts... reset the controller and try again."                                    | I need a reliable, smooth connection between the controller, app, and WiFi.          | Explicit        |
 | "Cloud only / App only operation. Not a huge deal for me now, but could be concerning if you plan on keeping it for many years."                                 | I need local/manual control options in case cloud services are unavailable.          | Explicit        |
 
----
+
 ![Alt Text](https://m.media-amazon.com/images/I/61VZFwEQLZL._AC_SX679_.jpg)
 ### Product 2: [Netro Smart Sprinkler Controller, Pearl White, Sprite-12, WiFi, 12 Zone, WaterSense Certified, Compatible with Alexa](https://www.amazon.com/Netro-Sprinkler-Controller-Weather-Compatible/dp/B06XCRZWMN/ref=sr_1_1_sspa?crid=2K7UD1XSPWW1E&dib=eyJ2IjoiMSJ9.rvN4UuoTPvI50njRyKO8iA6ieOTmntYcQ6Vna2svT5cW7AamgfrYl3PsB-edb-noEZ-hIRU_rTUQGoHGtlAcBl2M6V0Rs9CELmEDhItQRyHM5dZjzcfqlorCJWyGjODTOaqtltvP4eYEjOcf39NfGcWJ0SmVxqlK83Ew-pPnuyYKx-l354o-2R-DPx4Ds52udonlbdXJ5KBNVAyqfhe5SNj4Ms44e18VPGYhNTqqGvqCG8LOVJkI2iB_IP7lWa4cnpZdrRXYay_LqrjqihkIFwcJLczE3NVa0xyB2GOy3M4.5W3BgUzXKXUnvMpmvljf2fOfpTH0_TvmFQZOeyYU1Es&dib_tag=se&keywords=Netro%2BSmart%2BSprinkler&qid=1757994017&sprefix=netro%2Bsmart%2Bsprinkler%2B%2Caps%2C161&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)  
 **Price:** $119.99
@@ -85,7 +85,7 @@ Easy Installation - Installs or replaces in around 15 minutes with basic tools. 
 | "Watered one zone for 7 hours because it lost internet connection... now have a $700 water bill."                                                             | I need safeguards to prevent overwatering if the internet connection fails.          | Explicit        |
 | "I tried updating the app and it did not help at all. I ended up have to click on every date to manually turn off each zone..."                               | I need app updates that actually fix problems and improve usability.                 | Explicit        |
 
----
+
 ![Alt Text](https://m.media-amazon.com/images/I/71ZeJzK90WL._AC_SX679_.jpg)
 ### Product 3: [Rain Bird ARC8 Smart Irrigation WiFi Timer/Controller](http://us.amazon.com/gp/aw/d/B0B1NZ2WF4/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=f490091f1a9c571563b1c745a4e4c793&hsa_cr_id=0&qid=1757990050&sr=1-2-9e67e56a-6f64-441f-a281-df67fc737124&ref_=sbx_s_sparkle_sbtcd_asin_1_title&pd_rd_w=8Hh35&content-id=amzn1.sym.9f2b2b9e-47e9-4764-a4dc-2be2f6fca36d%3Aamzn1.sym.9f2b2b9e-47e9-4764-a4dc-2be2f6fca36d&pf_rd_p=9f2b2b9e-47e9-4764-a4dc-2be2f6fca36d&pf_rd_r=HPSHJN6QT37J764KJVV8&pd_rd_wg=J2x4C&pd_rd_r=ed6a471c-40a9-4251-83c8-e733c95db401&th=1)  
 **Price:** $119.99  
@@ -167,9 +167,9 @@ Easy Installation - Installs or replaces in around 15 minutes with basic tools. 
 ---
 ![Alt Text](https://i5.walmartimages.com/seo/Gro-7-Zone-Controller-from-Scotts-2nd-Generation-Smart-Watering-Sprinkler-Irrigation-7-Zone-Control-System_cd0245ba-8f45-4f17-89ca-9c0751927b14_4.8347290ef388640957ccc52d02450930.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF)
 ### Product 5: Scotts GRO 7-Zone (2nd Gen) Smart Watering System  
+[Scotts GRO 7-Zone (2nd Gen) Smart Watering System](https://www.walmart.com/ip/Gro-7-Zone-Controller-from-Scotts-2nd-Generation-Smart-Watering-Sprinkler-Irrigation-7-Zone-Control-System/743185232  )  
 **Price:** $34.39  
 **Vendor:** Walmart  
-**Product Link:** https://www.walmart.com/ip/Gro-7-Zone-Controller-from-Scotts-2nd-Generation-Smart-Watering-Sprinkler-Irrigation-7-Zone-Control-System/743185232  
 **Description:** Portable smart watering system with Bluetooth-only app control and suitable for small to medium lawns.  
 
 ---
@@ -188,7 +188,9 @@ Easy Installation - Installs or replaces in around 15 minutes with basic tools. 
 | “Compact design makes it fit easily in my garage.” | Device is physically compact and space-efficient | Explicit |
 | “It will not go off when we have rain in our area.” | Device avoids unnecessary watering during rain | Explicit |
 | “There is a ton of customization for each zone and so much information about watering days, time and weather.” | Device provides detailed customization and flexibility | Explicit |
+
 ---
+
 ## Scotts GRO Negative Comments - Needs  
 
 | Review Quote | Restated User Need | Explicit / Latent |
@@ -203,7 +205,6 @@ Easy Installation - Installs or replaces in around 15 minutes with basic tools. 
 | “Setup instructions are confusing.” | Device includes clear, easy-to-follow documentation | Explicit |
 | “Limited to 7 zones – not great for bigger yards.” | Device scales to larger properties | Explicit |
 | “Battery drains too fast if WiFi is used.” | Device has long-lasting and efficient power management | Explicit |  
-## Organized Need Statements
 
 ### Categories with Important - Must Needs
 
@@ -219,22 +220,22 @@ Easy Installation - Installs or replaces in around 15 minutes with basic tools. 
 -Main Need: *The device should be simple and accessible for all users.*  
 
 5. **Durability & Reliability**
-The device needs to work well in outdoor conditions.  
-The device needs to have backup power options.  
-The device needs to resists WiFi or server interruptions.  
-Main Need: *The device needs to be reliable in all environments.*  
+-The device needs to work well in outdoor conditions.  
+-The device needs to have backup power options.  
+-The device needs to resists WiFi or server interruptions.  
+-Main Need: *The device needs to be reliable in all environments.*  
 
 6. **Cost & Sustainability** 
-The device needs to be affordable.  
-The device needs to reduces water bills.  
-The device uses renewable energy (solar).  
-Main Need: *The device needs to be cost-effective and environmentally friendly.*  
+-The device needs to be affordable.  
+-The device needs to reduces water bills.  
+-The device uses renewable energy (solar).  
+-Main Need: *The device needs to be cost-effective and environmentally friendly.*  
 
 7. **Smart Features**
-The device integrates its system with smart homes (Alexa or Google).  
-The device can track and report water usage.  
-The device can adapt/adjust to soil moisture levels.  
-Main Need: *The device needs to be intelligent and adaptable.*  
+-The device integrates its system with smart homes (Alexa or Google).  
+-The device can track and report water usage.  
+-The device can adapt/adjust to soil moisture levels.  
+-Main Need: *The device needs to be intelligent and adaptable.*  
 
 ## Prioritization of Needs (Weighted)
 
