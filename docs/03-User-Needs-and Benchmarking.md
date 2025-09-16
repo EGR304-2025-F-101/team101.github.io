@@ -88,7 +88,7 @@ Easy Installation - Installs or replaces in around 15 minutes with basic tools. 
 
 ![Alt Text](https://m.media-amazon.com/images/I/71ZeJzK90WL._AC_SX679_.jpg)
 ### Product 3: [Rain Bird ARC8 Smart Irrigation WiFi Timer/Controller](http://us.amazon.com/gp/aw/d/B0B1NZ2WF4/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=f490091f1a9c571563b1c745a4e4c793&hsa_cr_id=0&qid=1757990050&sr=1-2-9e67e56a-6f64-441f-a281-df67fc737124&ref_=sbx_s_sparkle_sbtcd_asin_1_title&pd_rd_w=8Hh35&content-id=amzn1.sym.9f2b2b9e-47e9-4764-a4dc-2be2f6fca36d%3Aamzn1.sym.9f2b2b9e-47e9-4764-a4dc-2be2f6fca36d&pf_rd_p=9f2b2b9e-47e9-4764-a4dc-2be2f6fca36d&pf_rd_r=HPSHJN6QT37J764KJVV8&pd_rd_wg=J2x4C&pd_rd_r=ed6a471c-40a9-4251-83c8-e733c95db401&th=1)  
-**Price:** $119.99  
+**Price:** $107.73 
 **Vendor:** Amazon / Lowe’s  
 **Description:** App-based irrigation controller with weather data integration and 8-zone control.  
 
@@ -207,30 +207,30 @@ Easy Installation - Installs or replaces in around 15 minutes with basic tools. 
 
 ### Categories with Important - Must Needs
 
-1. **Efficiency**
+1. **Efficiency**  
 -The device needs to reduce household water use.  
 -The device needs to avoid watering during rain/saturation.  
 -Main Need: *The device needs to water lawns efficiently and conserves water/power resources.*  
 
-3. **Convenience & Usability**
+3. **Convenience & Usability**  
 -The device should be easy to install.  
 -The device should requires minimal parts/components.  
 -The device has an intuitive app/user interface.  
 -Main Need: *The device should be simple and accessible for all users.*  
 
-5. **Durability & Reliability**
+5. **Durability & Reliability**  
 -The device needs to work well in outdoor conditions.  
 -The device needs to have backup power options.  
 -The device needs to resists WiFi or server interruptions.  
 -Main Need: *The device needs to be reliable in all environments.*  
 
-6. **Cost & Sustainability** 
+6. **Cost & Sustainability**  
 -The device needs to be affordable.  
 -The device needs to reduces water bills.  
 -The device uses renewable energy (solar).  
 -Main Need: *The device needs to be cost-effective and environmentally friendly.*  
 
-7. **Smart Features**
+7. **Smart Features**  
 -The device integrates its system with smart homes (Alexa or Google).  
 -The device can track and report water usage.  
 -The device can adapt/adjust to soil moisture levels.  
@@ -238,19 +238,19 @@ Easy Installation - Installs or replaces in around 15 minutes with basic tools. 
 
 ## Prioritization of Needs (Weighted)
 
-**High Priority (Weight = 5)**
+**High Priority (Weight = 5)**  
 Reduces water use and household bills.  
 It is simple installation and setup.  
 Has reliable automatic watering.  
 It is durable outdoor design.  
 Has an intuitive app-based remote control.  
 
-**Medium Priority (Weight = 3)**
+**Medium Priority (Weight = 3)**  
 Includes smart home integration.  
 device has a affordable cost (under $200).  
 user flexible zone control.  
 
-**Low Priority (Weight = 1)**
+**Low Priority (Weight = 1)**  
 shows a attractable sesthetic design.  
 offers expandable accessories.  
 
