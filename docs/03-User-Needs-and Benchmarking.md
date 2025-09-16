@@ -87,50 +87,69 @@ Easy Installation - Installs or replaces in around 15 minutes with basic tools. 
 
 
 ---
+#### Rain Bird Negative Comments - Needs  
 
-### Product 3: Rain Bird ARC8 Smart Irrigation WiFi Timer/Controller  
-**Price:** $119.99  
-**Vendor:** Amazon / Lowe’s  
-**Description:** App-based irrigation controller with weather data integration and 8-zone control.  
-
-**Positive Comments → Needs**  
-- “Lawn looks greener without extra water.” → Device maintains lawn health while saving water (explicit).  
-- “Great integration with Alexa.” → Device is compatible with smart home ecosystems (explicit).  
-- “Rain skip feature is excellent.” → Device avoids unnecessary watering during rain (explicit).  
-
-**Negative Comments → Needs**  
-- “Hard to set up for older users.” → Device is accessible for non-tech-savvy users (explicit).  
-- “WiFi signal doesn’t reach garage.” → Device works with weak WiFi (latent).  
-- “Plastic feels cheap.” → Device is durable outdoors (explicit).  
-
+| Review Quote | Restated User Need | Explicit / Latent |
+|--------------|--------------------|-------------------|
+| “Frequent Wi-Fi disconnections make the controller unreliable.” | Device should maintain consistent Wi-Fi connectivity for reliable operation | Explicit |
+| “Firmware updates often fail, forcing factory resets and reprogramming.” | Device should update firmware smoothly without requiring resets | Explicit |
+| “New app version is confusing and loses saved settings.” | App should retain user settings and remain easy to use after updates | Explicit |
+| “Controller only works on 2.4GHz, causing hassles with dual/multi-band routers.” | Device should support modern Wi-Fi standards for easier connectivity | Explicit |
+| “App is slow, glitchy, and sometimes can’t communicate with the unit.” | App should run smoothly and reliably connect to the device | Explicit |
+| “Tech support is unhelpful and provides poor troubleshooting.” | Customer support should provide effective and helpful troubleshooting | Explicit |
+| “Loses connection or freezes after power outages, requires manual resets.” | Device should recover automatically after power outages without manual intervention | Latent |
+| “Limited to only three programs, not flexible for complex watering needs.” | Device should support more flexible programming for advanced schedules | Explicit |
+| “Missing internal pump relay, requiring extra hardware.” | Device should include built-in pump relay for easier setup | Explicit |
+| “Alexa and smart home integration often fail or don’t work as advertised.” | Device should reliably integrate with Alexa and smart home systems | Explicit |
 ---
 
 ### Product 4: Hunter Hydrawise HPC400 Smart WiFi Irrigation Controller  
 **Price:** $275.00  
 **Vendor:** Hunter Official / Irrigation Suppliers  
 **Description:** Professional-grade smart irrigation controller with multiple zone support and advanced weather integration.  
+---
+#### Hunter Hydrawise Positive Comments - Needs  
+| Review Quote | Restated User Need | Explicit / Latent |
+|--------------|--------------------|-------------------|
+| “Likes that it knows weather and adjusts watering” | Device uses weather data to optimize watering schedules | Explicit |
+| “Works great” | Device performs reliably and as expected | Explicit |
+| “Easy to install / DIY installation was a snap” | Device is simple to install without professional help | Explicit |
+| “Able to control sprinklers from phone” | Device offers convenient app-based remote control | Explicit |
+| “So convenient” | Device makes managing watering more convenient overall | Latent |
+| “Love it, user-friendly” | Device is easy to use and understand | Explicit |
+| “Hydrawise app offers flexible scheduling” | Device provides customizable scheduling through its app | Explicit |
+| “Better than Rain Bird controller” | Device outperforms competing sprinkler controllers | Explicit |
+| “Excellent app interface” | Device offers a well-designed, intuitive app experience | Explicit |
+| “Easy to set up / Easy to program” | Device setup and programming process is straightforward | Explicit | 
 
-**Positive Comments → Needs**  
-- “Handles big properties easily.” → Device supports multiple zones for large lawns (explicit).  
-- “Really precise watering schedules.” → Device provides detailed control over irrigation timing (explicit).  
-- “Integrates well with landscaper services.” → Device allows professional integration (latent).  
+---
+#### Hunter Hydrawise Negative Comments - Needs  
 
-**Negative Comments → Needs**  
-- “App feels confusing.” → Device offers simple, user-friendly app design (explicit).  
-- “More expensive than others.” → Device is affordable relative to performance (explicit).  
-- “Takes time to learn features.” → Device is easy to learn with clear instructions (explicit).  
+| Review Quote | Restated User Need | Explicit / Latent |
+|--------------|--------------------|-------------------|
+| “Defective touch screen, seller charged unfair restocking fee.” | Device quality and seller return policy should be reliable and fair | Explicit |
+| “Controller won’t stay online, support unresponsive.” | Device should maintain stable connectivity and provide responsive customer support | Explicit |
+| “Weather forecast not always used.” | Device should consistently use weather data for watering decisions | Latent |
+| “Only 1 module included (4 zones).” | Device should include sufficient modules for standard zone coverage | Explicit |
+| “Wiring slack issue for expansion.” | Device design should allow flexible and convenient wiring for expansion | Latent |
+| “App buggy, crashes during scheduling.” | App should be stable and reliable during scheduling | Explicit |
+| “Setup instructions unclear.” | Device should come with clear and understandable setup documentation | Explicit |
+| “Device resets, loses schedules.” | Device should not reset unexpectedly or lose programmed schedules | Explicit |
+| “Support very slow, generic answers.” | Customer support should be timely and provide useful, specific solutions | Explicit |
+| “Box not sealed, water leaks inside.” | Device should have proper packaging and water resistance | Explicit |
+| “Interface feels outdated, not intuitive enough.” | Device interface should be modern, clear, and easy to use | Latent |
 
 ---
 
 ### Product 5: Scotts GRO 7-Zone (2nd Gen) Smart Watering System  
 **Price:** $34.39  
 **Vendor:** Walmart  
-**Product Link:** Gro 7 Zone Controller from Scotts https://www.walmart.com/ip/Gro-7-Zone-Controller-from-Scotts-2nd-Generation-Smart-Watering-Sprinkler-Irrigation-7-Zone-Control-System/743185232  
+**Product Link:** Gro 7 Zone Controller from Scotts: https://www.walmart.com/ip/Gro-7-Zone-Controller-from-Scotts-2nd-Generation-Smart-Watering-Sprinkler-Irrigation-7-Zone-Control-System/743185232  
 **Description:** Portable smart watering system with Bluetooth-only app control and suitable for small to medium lawns.  
 
 ---
 
-#### Positive Comments - Needs
+#### Scotts GRO Positive Comments - Needs
 
 | Review Quote | Restated User Need | Explicit / Latent |
 |--------------|--------------------|-------------------|
@@ -145,7 +164,7 @@ Easy Installation - Installs or replaces in around 15 minutes with basic tools. 
 | “It will not go off when we have rain in our area.” | Device avoids unnecessary watering during rain | Explicit |
 | “There is a ton of customization for each zone and so much information about watering days, time and weather.” | Device provides detailed customization and flexibility | Explicit |
 ---
-#### Negative Comments - Needs  
+#### Scotts GRO Negative Comments - Needs  
 
 | Review Quote | Restated User Need | Explicit / Latent |
 |--------------|--------------------|-------------------|
@@ -164,33 +183,33 @@ Easy Installation - Installs or replaces in around 15 minutes with basic tools. 
 ### Categories with Important - Must Needs
 
 1. **Efficiency**
-The device needs to reduce household water use.  
-The device needs to avoid watering during rain/saturation.  
-**Main Need:** *The device needs to water lawns efficiently and conserves water/power resources.*  
+-The device needs to reduce household water use.  
+-The device needs to avoid watering during rain/saturation.  
+-Main Need: *The device needs to water lawns efficiently and conserves water/power resources.*  
 
 3. **Convenience & Usability**
-The device should be easy to install.  
-The device should requires minimal parts/components.  
-The device has an intuitive app/user interface.  
-**Main Need:** *The device should be simple and accessible for all users.*  
+-The device should be easy to install.  
+-The device should requires minimal parts/components.  
+-The device has an intuitive app/user interface.  
+-Main Need: *The device should be simple and accessible for all users.*  
 
-4. **Durability & Reliability**
+5. **Durability & Reliability**
 The device needs to work well in outdoor conditions.  
 The device needs to have backup power options.  
 The device needs to resists WiFi or server interruptions.  
-**Main Need:** *The device needs to be reliable in all environments.*  
+Main Need: *The device needs to be reliable in all environments.*  
 
-5. **Cost & Sustainability** 
+6. **Cost & Sustainability** 
 The device needs to be affordable.  
 The device needs to reduces water bills.  
 The device uses renewable energy (solar).  
-**Main Need:** *The device needs to be cost-effective and environmentally friendly.*  
+Main Need: *The device needs to be cost-effective and environmentally friendly.*  
 
-6. **Smart Features**
+7. **Smart Features**
 The device integrates its system with smart homes (Alexa or Google).  
 The device can track and report water usage.  
 The device can adapt/adjust to soil moisture levels.  
-**Main Need:** *The device needs to be intelligent and adaptable.*  
+Main Need: *The device needs to be intelligent and adaptable.*  
 
 ## Prioritization of Needs (Weighted)
 
@@ -209,6 +228,11 @@ user flexible zone control.
 **Low Priority (Weight = 1)**
 shows a attractable sesthetic design.  
 offers expandable accessories.  
+
+
+
+
+
 
 
 
