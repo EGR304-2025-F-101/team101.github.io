@@ -127,50 +127,50 @@ Our group is designing a **Water-Efficient Lawn Watering System**. We aim to hel
 
 ### Categories with Meta-Needs
 
-1. **Efficiency**  
-   - The device reduces household water use.  
-   - The device avoids watering during rain.  
-   - **Meta Need:** *The device waters lawns efficiently and conserves resources.*  
+1. **Efficiency**
+- The device reduces household water use.  
+- The device avoids watering during rain.  
+- **Meta Need:** *The device waters lawns efficiently and conserves resources.*  
 
-2. **Convenience & Usability**  
-   - The device is easy to install.  
-   - The device requires little training.  
-   - The device has an intuitive app.  
-   - **Meta Need:** *The device is simple and accessible for all users.*  
+2. **Convenience & Usability**
+- The device is easy to install.  
+- The device requires little training.  
+- The device has an intuitive app.  
+- **Meta Need:** *The device is simple and accessible for all users.*  
 
-3. **Durability & Reliability**  
-   - The device works in outdoor conditions.  
-   - The device has backup power options.  
-   - The device resists WiFi or server interruptions.  
-   - **Meta Need:** *The device is reliable in all environments.*  
+3. **Durability & Reliability**
+- The device works in outdoor conditions.  
+- The device has backup power options.  
+- The device resists WiFi or server interruptions.  
+- **Meta Need:** *The device is reliable in all environments.*  
 
-4. **Cost & Sustainability**  
-   - The device is affordable.  
-   - The device reduces water bills.  
-   - The device uses renewable energy (solar).  
-   - **Meta Need:** *The device is cost-effective and environmentally friendly.*  
+4. **Cost & Sustainability** 
+- The device is affordable.  
+- The device reduces water bills.  
+- The device uses renewable energy (solar).  
+- **Meta Need:** *The device is cost-effective and environmentally friendly.*  
 
-5. **Smart Features**  
-   - The device integrates with smart homes (Alexa, Google).  
-   - The device tracks and reports water usage.  
-   - The device adapts to soil moisture levels.  
-   - **Meta Need:** *The device is intelligent and adaptable.*  
+5. **Smart Features**
+- The device integrates with smart homes (Alexa, Google).  
+- The device tracks and reports water usage.  
+- The device adapts to soil moisture levels.  
+- **Meta Need:** *The device is intelligent and adaptable.*  
 
 ## Prioritization of Needs (Weighted)
 
-**High Priority (Weight = 5)**  
+**High Priority (Weight = 5)**
 - Reduce water use and household bills.  
 - Simple installation and setup.  
 - Reliable automatic watering.  
 - Durable outdoor design.  
 - Intuitive app-based remote control.  
 
-**Medium Priority (Weight = 3)**  
+**Medium Priority (Weight = 3)**
 - Smart home integration.  
 - Affordable cost (under $200).  
 - Flexible zone control.  
 
-**Low Priority (Weight = 1)**  
+**Low Priority (Weight = 1)**
 - Aesthetic design.  
 - Expandable accessories.  
 
