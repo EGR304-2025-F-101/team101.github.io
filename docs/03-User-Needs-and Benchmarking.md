@@ -84,7 +84,7 @@ Our group is designing a Water-Efficient Lawn Watering System. We aim to help ho
 ### Product 5: Scotts GRO 7-Zone (2nd Gen) Smart Watering System  
 **Price:** $34.39  
 **Vendor:** Walmart  
-**Product Link:** Gro 7 Zone Controller from Scotts https://www.walmart.com/ip/Gro-7-Zone-Controller-from-Scotts-2nd-Generation-Smart-Watering-Sprinkler-Irrigation-7-Zone-Control-System/743185232
+**Product Link:** Gro 7 Zone Controller from Scotts https://www.walmart.com/ip/Gro-7-Zone-Controller-from-Scotts-2nd-Generation-Smart-Watering-Sprinkler-Irrigation-7-Zone-Control-System/743185232  
 **Description:** Portable smart watering system with Bluetooth-only app control and suitable for small to medium lawns.  
 
 ---
@@ -117,8 +117,7 @@ Our group is designing a Water-Efficient Lawn Watering System. We aim to help ho
 | “No integration with Alexa or Google Home.” | Device connects to smart home ecosystems | Explicit |
 | “Setup instructions are confusing.” | Device includes clear, easy-to-follow documentation | Explicit |
 | “Limited to 7 zones – not great for bigger yards.” | Device scales to larger properties | Explicit |
-| “Battery drains too fast if WiFi is used.” | Device has long-lasting and efficient power management | Explicit |
-
+| “Battery drains too fast if WiFi is used.” | Device has long-lasting and efficient power management | Explicit |  
 ## Organized Need Statements
 
 ### Categories with Meta-Needs
@@ -147,9 +146,9 @@ The device uses renewable energy (solar).
 **Main Need:** *The device is cost-effective and environmentally friendly.*  
 
 6. **Smart Features**
-The device integrates with smart homes (Alexa, Google).
-The device tracks and reports water usage.
-The device adapts to soil moisture levels.
+The device integrates with smart homes (Alexa, Google).  
+The device tracks and reports water usage.  
+The device adapts to soil moisture levels.  
 **Main Need:** *The device is intelligent and adaptable.*  
 
 ## Prioritization of Needs (Weighted)
