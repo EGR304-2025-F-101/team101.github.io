@@ -7,135 +7,171 @@ tags:
 
 # User Needs and Benchmarking
 
-## Introduction  
-Our team is designing a Water-Efficient Lawn Watering System that reduces water waste, lowers utility bills, and maintains healthy lawns. This system will combine smart sensors, weather data, and automated scheduling with user-friendly installation and control.  
+# User Needs and Benchmarking
 
-**Target Users:**  
-- Homeowners with lawns and gardens  
-- Property managers and HOAs  
-- Environmentally conscious communities  
+## Introduction
+The purpose of this assignment is to identify user needs from benchmarking competitive devices and to distill those needs into a weighted set of design objectives.
 
-## Benchmarking Competitive Products  
+Our group is designing a **Water-Efficient Lawn Watering System**. We aim to help **homeowners, renters, and community members** who want to maintain healthy lawns and landscaping while minimizing **water usage, cost, and environmental impact**.
 
-### 1. 8 Zone Rachio Gen 3 Smart Sprinkler Controller  
-- **Features:** WiFi-enabled, weather forecast integration, app control.  
-- **Pros:** Saves 20–50% water, intuitive interface.  
-- **Cons:** Expensive, requires WiFi.  
+---
 
-### 2. Orbit 57915 B-hyve 4-Zone Indoor Smart Sprinkler Controller 
-- **Features:** Connects to outdoor spigot, Bluetooth/WiFi app control.  
-- **Pros:** Affordable, simple installation.  
-- **Cons:** Limited to hose use, battery powered.  
+## Voice of the Customer (VOC) Benchmarking
 
-### 3. Rain Bird ARC8 Smart Irrigation WiFi Timer/Controller 
-- **Features:** App-based scheduling, weather data integration.  
-- **Pros:** Trusted irrigation brand, reliable.  
-- **Cons:** App less intuitive than competitors.  
+### Search #1
+**Keywords:** “smart sprinkler system”  
+**Search Results Link:** [Amazon Results](https://www.amazon.com/s?k=smart+sprinkler+system)
 
-### 4. Hunter Hydrawise HPC400 Smart WiFi Irrigation Controller 
-- **Features:** Professional-grade, multiple zones, weather integration.  
-- **Pros:** Flexible and powerful for larger yards.  
-- **Cons:** More expensive, complex setup.  
+---
 
-### 5. 7 zone Scotts GRO Scotts-2nd Generation Smart Watering Sprinkler/Irrigation System
-- **Features:** Bluetooth-only app control.  
-- **Pros:** Portable and easy to use.  
-- **Cons:** Limited range, less automation.  
+### Product 1: Rachio 3 Smart Sprinkler Controller
+- **Price:** $149.99  
+- **Vendor:** Amazon  
+- **Description:** A WiFi-enabled controller that adjusts watering schedules based on local weather data.
 
-**Patents that should be observed:**  
-- Weather-based irrigation scheduling systems.  
-- Soil-moisture sensing irrigation controllers.  
+**Positive Comments → Needs**
+- “Saves me so much money on my water bill.” → Device lowers household water usage (explicit). → System reduces environmental footprint (latent).  
+- “Automatically stops when it rains, so no wasted water.” → Device shuts off during rain (explicit). → Weather-adaptive intelligence (latent).  
+- “Easy app setup and scheduling.” → Device is simple to install and program (explicit).  
 
-## User Needs  
+**Negative Comments → Needs**
+- “Sometimes skips watering even when the lawn needs it.” → Device provides consistent coverage (explicit). → Algorithm balances efficiency with lawn health (latent).  
+- “Pricey compared to manual timers.” → Device is cost-effective (explicit).  
+- “WiFi drops disconnect system.” → Device operates reliably without internet interruptions (latent).  
 
-| **User Quote (example)** | **Restated User Need** | **Explicit / Latent** |  
-|--------------------------|-------------------------|-----------------------|  
-| “My water bill dropped after installing this.” | Reduce household water usage and bills. | Explicit |  
-| “It was confusing to set up zones.” | Simple installation and clear setup instructions. | Explicit |  
-| “I want to know my lawn won’t dry out if I’m on vacation.” | Reliable automatic watering. | Latent |  
-| “I don’t want to replace batteries constantly.” | Low-maintenance power system. | Explicit |  
-| “Wish it worked with Alexa/Google.” | Smart home compatibility. | Latent |  
+---
 
-## Grouping User Needs  
+### Product 2: Orbit B-hyve Smart Hose Faucet Timer
+- **Price:** $69.99  
+- **Vendor:** Home Depot / Amazon  
+- **Description:** Attaches to outdoor faucet, Bluetooth + WiFi app control, rain delay features.
 
-- **Water Efficiency:** Sensors, weather data, optimized scheduling.  
-- **Ease of Use:** Quick installation, intuitive app, simple setup.  
-- **Reliability:** Waters consistently, functions without constant oversight.  
-- **Cost:** Affordable purchase and long-term water savings.  
-- **Durability:** Weather-resistant design for outdoor use.  
-- **Sustainability:** Environmentally friendly and resource-efficient.  
+**Positive Comments → Needs**
+- “Great for renters, easy install.” → Device is easy to install (explicit).  
+- “I can control it from anywhere.” → Device offers remote control (explicit). → Cloud-based flexibility (latent).  
+- “Affordable smart watering solution.” → Device is cost-friendly (explicit).  
 
-**Meta-Needs:**  
-- The system must conserve water while maintaining lawn health.  
-- The system should be easy to install and operate.  
+**Negative Comments → Needs**
+- “Battery drains fast.” → Device has long-lasting power (explicit).  
+- “App glitches sometimes.” → Device has stable software (explicit).  
+- “Watering patterns aren’t precise.” → Device provides accurate coverage (latent).  
 
-## Prioritization (Sample)  
+---
 
-**Top Needs (High Weight):**  
-1. Reduce water use and household bills.  
-2. Simple installation and setup.  
-3. Reliable automatic watering.  
-4. Durable outdoor design.  
-5. App-based remote control.  
+### Product 3: Rain Bird ST8I Smart Irrigation Controller
+- **Price:** $109.99  
+- **Vendor:** Amazon / Lowe’s  
+- **Description:** Indoor irrigation controller with smartphone scheduling and weather sensing.
 
-**Medium Needs:**  
+**Positive Comments → Needs**
+- “Lawn looks greener without extra water.” → Device maintains lawn health while saving water (explicit).  
+- “Great integration with Alexa.” → Device is compatible with smart home ecosystems (explicit).  
+- “Rain skip feature is excellent.” → Device avoids watering in rain (explicit).  
+
+**Negative Comments → Needs**
+- “Hard to set up for older users.” → Device is accessible for non-tech-savvy users (explicit).  
+- “WiFi signal doesn’t reach garage.” → Device works with weak WiFi (latent).  
+- “Plastic feels cheap.” → Device is durable outdoors (explicit).  
+
+---
+
+### Product 4: Netro Sprite Smart Sprinkler Controller
+- **Price:** $129.99  
+- **Vendor:** Amazon  
+- **Description:** Solar-powered smart sprinkler controller with weather forecasting.
+
+**Positive Comments → Needs**
+- “Love that it’s solar powered.” → Device can run on renewable energy (explicit).  
+- “Water bill dropped by 30%.” → Device reduces water cost (explicit).  
+- “Nice app interface.” → Device has intuitive controls (explicit).  
+
+**Negative Comments → Needs**
+- “Stopped working in heavy rain.” → Device is weather-resistant (explicit).  
+- “Solar doesn’t charge well in shade.” → Device has reliable power backup (latent).  
+- “Customer support is slow.” → Device comes with strong vendor support (latent).  
+
+---
+
+### Product 5: GreenIQ Smart Garden Hub (discontinued but benchmarked)
+- **Price:** $149 (historical)  
+- **Vendor:** Amazon / SmartHome shops  
+- **Description:** Smart irrigation controller with weather-based watering and sensor integration.
+
+**Positive Comments → Needs**
+- “Loved the soil sensor integration.” → Device measures soil moisture (explicit).  
+- “Great analytics of water usage.” → Device provides water tracking data (explicit).  
+- “Worked well with drip irrigation.” → Device adapts to multiple irrigation types (explicit).  
+
+**Negative Comments → Needs**
+- “Company shut down servers, device became useless.” → Device functions independently of external servers (latent).  
+- “App updates broke some features.” → Device software is reliable (explicit).  
+- “Hard to replace parts.” → Device uses modular, replaceable parts (latent).  
+
+---
+
+## Organized Need Statements
+
+### Categories with Meta-Needs
+
+1. **Efficiency**  
+   - The device reduces household water use.  
+   - The device avoids watering during rain.  
+   - **Meta Need:** *The device waters lawns efficiently and conserves resources.*  
+
+2. **Convenience & Usability**  
+   - The device is easy to install.  
+   - The device requires little training.  
+   - The device has an intuitive app.  
+   - **Meta Need:** *The device is simple and accessible for all users.*  
+
+3. **Durability & Reliability**  
+   - The device works in outdoor conditions.  
+   - The device has backup power options.  
+   - The device resists WiFi or server interruptions.  
+   - **Meta Need:** *The device is reliable in all environments.*  
+
+4. **Cost & Sustainability**  
+   - The device is affordable.  
+   - The device reduces water bills.  
+   - The device uses renewable energy (solar).  
+   - **Meta Need:** *The device is cost-effective and environmentally friendly.*  
+
+5. **Smart Features**  
+   - The device integrates with smart homes (Alexa, Google).  
+   - The device tracks and reports water usage.  
+   - The device adapts to soil moisture levels.  
+   - **Meta Need:** *The device is intelligent and adaptable.*  
+
+---
+
+## Prioritization of Needs (Weighted)
+
+**High Priority (Weight = 5)**  
+- Reduce water use and household bills.  
+- Simple installation and setup.  
+- Reliable automatic watering.  
+- Durable outdoor design.  
+- Intuitive app-based remote control.  
+
+**Medium Priority (Weight = 3)**  
 - Smart home integration.  
-- Cost under $200.  
+- Affordable cost (under $200).  
 - Flexible zone control.  
 
-**Lower Needs:**  
+**Low Priority (Weight = 1)**  
 - Aesthetic design.  
 - Expandable accessories.  
 
-## Next Steps  
-- Expand benchmarking with more product reviews.  
-- Extract ~100 user needs from online reviews, patents, and product manuals.  
-- Cluster user needs into categories and finalize weighted objectives.
+---
 
-## Next Steps (Completed)
+## Next Steps
+1. Expand benchmarking with additional product reviews.  
+2. Extract ~100 user needs from online reviews, patents, and product manuals.  
+3. Group user needs into categories and finalize weighted objectives.  
+4. Document process screenshots (initial notes → grouping → ranking).  
 
-1. **Benchmarking Expansion**  
-   - Collected 5 key commercial products: Rachio 3, Orbit B-hyve, Rain Bird ST8I, Hunter Hydrawise, and Scotts Gro™ Timer.  
-   - Reviewed online marketplaces (Amazon, Home Depot, Lowe’s) with search keywords:  
-     *“smart sprinkler controller,” “water-saving irrigation,” “wifi hose timer,” “automatic lawn watering system.”*  
-   - Found common themes in reviews: installation difficulty, WiFi reliability, long-term durability, and real water savings.
+---
 
-2. **User Needs Collection**  
-   - From product reviews and VOC analysis, we extracted a wide set of needs.  
-   - **Example sources:**  
-     - 4–5 star reviews (positive functionality, user satisfaction).  
-     - 1–2 star reviews (pain points, failures).  
-   - Converted quotes to 100 unique **need statements**.  
-   - Marked each as **explicit** (direct requests) or **latent** (implied expectations).
-
-3. **Needs Organization**  
-   - Grouped needs into 6 main categories:  
-     - Water Efficiency  
-     - Ease of Use  
-     - Reliability  
-     - Cost & Value  
-     - Durability  
-     - Sustainability  
-   - Created **meta-needs** summarizing each group (e.g., “The system must conserve water while maintaining lawn health”).  
-
-4. **Needs Prioritization**  
-   - Ranked by frequency in reviews and team judgment.  
-   - **Top Priorities:** water efficiency, ease of installation, reliable operation, durable hardware.  
-   - **Secondary Priorities:** affordability, smart home compatibility, flexibility across yard sizes.  
-
-5. **Documentation**  
-   - Screenshots/notes captured at each stage:  
-     - Raw needs statements  
-     - Grouped needs clusters  
-     - Final weighted ranking  
-   - This ensures traceability for the design process.  
-
-6. **Design Objectives Drafted**  
-   - Translate high-priority needs into measurable objectives for the next phase. Examples:  
-     - Reduce water use by at least 30% compared to manual watering.  
-     - Installation completed by a non-technical homeowner in under 30 minutes.  
-     - Operates reliably for at least 3 years in outdoor conditions.  
-     - Compatible with at least 2 major smart home platforms.  
 
 
 
