@@ -11,82 +11,92 @@ The purpose of this assignment is to identify user needs from benchmarking compe
 
 Our group is designing a **Water-Efficient Lawn Watering System**. We aim to help **homeowners, renters, and community members** who want to maintain healthy lawns and landscaping while minimizing **water usage, cost, and environmental impact**.
 
-## Voice of the Customer (VOC) Benchmarking  
+## Benchmarking Competitive Products
 
-### Product 1: Rachio 3 Smart Sprinkler Controller  
-- **Price:** $149.99  
-- **Vendor:** Amazon  
-- **Description:** A WiFi-enabled controller that adjusts watering schedules based on local weather data.
+---
 
-**Positive Comments → Needs**  
-- “Saves me so much money on my water bill.” → Device lowers household water usage (explicit). → System reduces environmental footprint (latent).  
-- “Automatically stops when it rains, so no wasted water.” → Device shuts off during rain (explicit). → Weather-adaptive intelligence (latent).  
-- “Easy app setup and scheduling.” → Device is simple to install and program (explicit).  
-
-**Negative Comments → Needs**  
-- “Sometimes skips watering even when the lawn needs it.” → Device provides consistent coverage (explicit). → Algorithm balances efficiency with lawn health (latent).  
-- “Pricey compared to manual timers.” → Device is cost-effective (explicit).  
-- “WiFi drops disconnect system.” → Device operates reliably without internet interruptions (latent).  
-
-### Product 2: Orbit B-hyve Smart Hose Faucet Timer  
-- **Price:** $69.99  
-- **Vendor:** Home Depot / Amazon  
-- **Description:** Attaches to outdoor faucet, Bluetooth + WiFi app control, rain delay features.
+### Product 1: Rachio Gen 3 Smart Sprinkler Controller (8-Zone)  
+**Price:** $229.99  
+**Vendor:** Amazon / Rachio Official  
+**Description:** WiFi-enabled smart sprinkler controller with weather forecast integration and app control.  
 
 **Positive Comments → Needs**  
-- “Great for renters, easy install.” → Device is easy to install (explicit).  
-- “I can control it from anywhere.” → Device offers remote control (explicit). → Cloud-based flexibility (latent).  
-- “Affordable smart watering solution.” → Device is cost-friendly (explicit).  
+- “Cut my water bill in half.” → Device reduces water consumption while maintaining lawn health (explicit).  
+- “App is so easy to use.” → Device provides an intuitive smartphone interface (explicit).  
+- “Adjusts perfectly to weather.” → Device integrates with weather data to optimize watering (explicit).  
 
 **Negative Comments → Needs**  
-- “Battery drains fast.” → Device has long-lasting power (explicit).  
-- “App glitches sometimes.” → Device has stable software (explicit).  
-- “Watering patterns aren’t precise.” → Device provides accurate coverage (latent).  
+- “Price is too high for average homeowners.” → Device is affordable for the residential market (explicit).  
+- “Had to reset WiFi often.” → Device remains reliable even with spotty WiFi (latent).  
+- “Installation was tricky.” → Device offers simple, user-friendly setup (explicit).  
 
-### Product 3: Rain Bird ST8I Smart Irrigation Controller  
-- **Price:** $109.99  
-- **Vendor:** Amazon / Lowe’s  
-- **Description:** Indoor irrigation controller with smartphone scheduling and weather sensing.
+---
+
+### Product 2: Orbit B-hyve 4-Zone Indoor Smart Sprinkler Controller (Model 57915)  
+**Price:** $79.99  
+**Vendor:** Home Depot / Amazon  
+**Description:** Indoor/outdoor faucet-based controller with Bluetooth and WiFi app control.  
+
+**Positive Comments → Needs**  
+- “Installation only took 15 minutes.” → Device provides quick, simple installation (explicit).  
+- “Nice app notifications when watering starts.” → Device provides clear status alerts (explicit).  
+- “Works well for smaller yards.” → Device is effective for compact lawns (explicit).  
+
+**Negative Comments → Needs**  
+- “Batteries drain quickly.” → Device has efficient, long-lasting power options (explicit).  
+- “Bluetooth connection drops sometimes.” → Device maintains reliable connectivity (latent).  
+- “Not great for large yards.” → Device scales for different lawn sizes (explicit).  
+
+---
+
+### Product 3: Rain Bird ARC8 Smart Irrigation WiFi Timer/Controller  
+**Price:** $119.99  
+**Vendor:** Amazon / Lowe’s  
+**Description:** App-based irrigation controller with weather data integration and 8-zone control.  
 
 **Positive Comments → Needs**  
 - “Lawn looks greener without extra water.” → Device maintains lawn health while saving water (explicit).  
 - “Great integration with Alexa.” → Device is compatible with smart home ecosystems (explicit).  
-- “Rain skip feature is excellent.” → Device avoids watering in rain (explicit).  
+- “Rain skip feature is excellent.” → Device avoids unnecessary watering during rain (explicit).  
 
 **Negative Comments → Needs**  
 - “Hard to set up for older users.” → Device is accessible for non-tech-savvy users (explicit).  
 - “WiFi signal doesn’t reach garage.” → Device works with weak WiFi (latent).  
 - “Plastic feels cheap.” → Device is durable outdoors (explicit).  
 
-### Product 4: Netro Sprite Smart Sprinkler Controller  
-- **Price:** $129.99  
-- **Vendor:** Amazon  
-- **Description:** Solar-powered smart sprinkler controller with weather forecasting.
+---
+
+### Product 4: Hunter Hydrawise HPC400 Smart WiFi Irrigation Controller  
+**Price:** $275.00  
+**Vendor:** Hunter Official / Irrigation Suppliers  
+**Description:** Professional-grade smart irrigation controller with multiple zone support and advanced weather integration.  
 
 **Positive Comments → Needs**  
-- “Love that it’s solar powered.” → Device can run on renewable energy (explicit).  
-- “Water bill dropped by 30%.” → Device reduces water cost (explicit).  
-- “Nice app interface.” → Device has intuitive controls (explicit).  
+- “Handles big properties easily.” → Device supports multiple zones for large lawns (explicit).  
+- “Really precise watering schedules.” → Device provides detailed control over irrigation timing (explicit).  
+- “Integrates well with landscaper services.” → Device allows professional integration (latent).  
 
 **Negative Comments → Needs**  
-- “Stopped working in heavy rain.” → Device is weather-resistant (explicit).  
-- “Solar doesn’t charge well in shade.” → Device has reliable power backup (latent).  
-- “Customer support is slow.” → Device comes with strong vendor support (latent).  
+- “App feels confusing.” → Device offers simple, user-friendly app design (explicit).  
+- “More expensive than others.” → Device is affordable relative to performance (explicit).  
+- “Takes time to learn features.” → Device is easy to learn with clear instructions (explicit).  
 
-### Product 5: GreenIQ Smart Garden Hub (discontinued but benchmarked)  
-- **Price:** $149 (historical)  
-- **Vendor:** Amazon / SmartHome shops  
-- **Description:** Smart irrigation controller with weather-based watering and sensor integration.
+---
+
+### Product 5: Scotts GRO 7-Zone (2nd Gen) Smart Watering System  
+**Price:** $89.99  
+**Vendor:** Amazon / Walmart  
+**Description:** Portable smart watering system with Bluetooth-only app control, suitable for small to medium lawns.  
 
 **Positive Comments → Needs**  
-- “Loved the soil sensor integration.” → Device measures soil moisture (explicit).  
-- “Great analytics of water usage.” → Device provides water tracking data (explicit).  
-- “Worked well with drip irrigation.” → Device adapts to multiple irrigation types (explicit).  
+- “Portable and super light.” → Device is easy to move and install (explicit).  
+- “Good option for renters.” → Device works without permanent installation (latent).  
+- “Affordable compared to Rachio.” → Device is budget-friendly (explicit).  
 
 **Negative Comments → Needs**  
-- “Company shut down servers, device became useless.” → Device functions independently of external servers (latent).  
-- “App updates broke some features.” → Device software is reliable (explicit).  
-- “Hard to replace parts.” → Device uses modular, replaceable parts (latent).  
+- “Limited Bluetooth range.” → Device maintains connectivity over longer distances (explicit).  
+- “No weather integration.” → Device uses environmental/weather data for smarter watering (explicit).  
+- “Not fully automated.” → Device automates watering schedules with minimal user input (explicit).  
 
 ## Organized Need Statements
 
