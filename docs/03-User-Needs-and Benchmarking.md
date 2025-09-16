@@ -84,19 +84,44 @@ Our group is designing a **Water-Efficient Lawn Watering System**. We aim to hel
 ---
 
 ### Product 5: Scotts GRO 7-Zone (2nd Gen) Smart Watering System  
-**Price:** $89.99  
+**Price:** $34.39  
 **Vendor:** Amazon / Walmart  
 **Description:** Portable smart watering system with Bluetooth-only app control, suitable for small to medium lawns.  
 
-**Positive Comments → Needs**  
-- “Portable and super light.” → Device is easy to move and install (explicit).  
-- “Good option for renters.” → Device works without permanent installation (latent).  
-- “Affordable compared to Rachio.” → Device is budget-friendly (explicit).  
+---
 
-**Negative Comments → Needs**  
-- “Limited Bluetooth range.” → Device maintains connectivity over longer distances (explicit).  
-- “No weather integration.” → Device uses environmental/weather data for smarter watering (explicit).  
-- “Not fully automated.” → Device automates watering schedules with minimal user input (explicit).  
+#### Positive Comments → Needs
+
+| Review Quote | Restated User Need | Explicit / Latent |
+|--------------|--------------------|-------------------|
+| “Figured for $50, it was worth a shot. Been wanting one of these for a while, just wasn't going to spend $300 to get one.” | Device is affordable compared to premium competitors | Explicit |
+| “It reads the weather and applies the amount of water it thinks is necessary. Very happy with it.” | Device uses weather data to optimize watering schedules | Explicit |
+| “Nice feature is a photo can be taken for each station - nice touch guys!” | Device allows zone customization with clear labeling | Explicit |
+| “Auto water and turns itself off below a certain temperature.” | Device has smart features for seasonal or temperature-based adjustments | Explicit |
+| “Love I can control it on my phone.” | Device offers convenient app-based remote control | Explicit |
+| “Big advance in convenience over my old controller. Fairly easy to install.” | Device provides simple installation and setup | Explicit |
+| “Much easier to control and understand your watering system – and also save water.” | Device is user-friendly while conserving water | Explicit |
+| “Compact design makes it fit easily in my garage.” | Device is physically compact and space-efficient | Explicit |
+| “It will not go off when we have rain in our area.” | Device avoids unnecessary watering during rain | Explicit |
+| “There is a ton of customization for each zone and so much information about watering days, time and weather.” | Device provides detailed customization and flexibility | Explicit |
+
+---
+
+#### Negative Comments → Needs  
+
+| Review Quote | Restated User Need | Explicit / Latent |
+|--------------|--------------------|-------------------|
+| “This controller just refused to connect to my WiFi. The manufacturer said it was a known problem.” | Device reliably connects to WiFi and maintains signal | Explicit |
+| “Obsolete device that claims it works on 2.5 GHz WiFi standard – but NEVER does.” | Device supports modern, reliable wireless standards | Explicit |
+| “Does not work. Does not connect to WiFi. Does not connect to phone.” | Device consistently pairs with mobile devices | Explicit |
+| “App is useless and crashes constantly.” | Device has a stable and functional mobile app | Explicit |
+| “Plastic feels cheap and flimsy.” | Device is built from durable, outdoor-ready materials | Explicit |
+| “Bluetooth connection drops if I walk more than 10 feet away.” | Device maintains Bluetooth connection at practical distances | Explicit |
+| “No integration with Alexa or Google Home.” | Device connects to smart home ecosystems | Explicit |
+| “Setup instructions are confusing.” | Device includes clear, easy-to-follow documentation | Explicit |
+| “Limited to 7 zones – not great for bigger yards.” | Device scales to larger properties | Explicit |
+| “Battery drains too fast if WiFi is used.” | Device has long-lasting and efficient power management | Explicit |
+
 
 ## Organized Need Statements
 
