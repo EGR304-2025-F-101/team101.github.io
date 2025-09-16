@@ -94,7 +94,7 @@ Our group is designing a **Water-Efficient Lawn Watering System**. We aim to hel
 
 | Review Quote | Restated User Need | Explicit / Latent |
 |--------------|--------------------|-------------------|
-| “Figured for $50, it was worth a shot. Been wanting one of these for a while, just wasn't going to spend $300 to get one.” | Device is affordable compared to premium competitors | Explicit |
+| “Been wanting one of these for a while, just wasn't going to spend $300 to get one.” | Device is affordable compared to premium competitors | Explicit |
 | “It reads the weather and applies the amount of water it thinks is necessary. Very happy with it.” | Device uses weather data to optimize watering schedules | Explicit |
 | “Nice feature is a photo can be taken for each station - nice touch guys!” | Device allows zone customization with clear labeling | Explicit |
 | “Auto water and turns itself off below a certain temperature.” | Device has smart features for seasonal or temperature-based adjustments | Explicit |
