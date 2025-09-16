@@ -8,14 +8,12 @@ tags:
 # User Needs and Benchmarking
 
 ## Introduction  
-Our team is designing a **Water-Efficient Lawn Watering System** that reduces water waste, lowers utility bills, and maintains healthy lawns. This system will combine smart sensors, weather data, and automated scheduling with user-friendly installation and control.  
+Our team is designing a Water-Efficient Lawn Watering System that reduces water waste, lowers utility bills, and maintains healthy lawns. This system will combine smart sensors, weather data, and automated scheduling with user-friendly installation and control.  
 
 **Target Users:**  
 - Homeowners with lawns and gardens  
 - Property managers and HOAs  
 - Environmentally conscious communities  
-
----
 
 ## Benchmarking Competitive Products  
 
@@ -44,11 +42,9 @@ Our team is designing a **Water-Efficient Lawn Watering System** that reduces wa
 - **Pros:** Portable and easy to use.  
 - **Cons:** Limited range, less automation.  
 
-**Patents of Interest:**  
+**Patents that should be observed:**  
 - Weather-based irrigation scheduling systems.  
 - Soil-moisture sensing irrigation controllers.  
-
----
 
 ## User Needs  
 
@@ -60,22 +56,18 @@ Our team is designing a **Water-Efficient Lawn Watering System** that reduces wa
 | “I don’t want to replace batteries constantly.” | Low-maintenance power system. | Explicit |  
 | “Wish it worked with Alexa/Google.” | Smart home compatibility. | Latent |  
 
----
-
 ## Grouping User Needs  
 
-- **Water Efficiency** → Sensors, weather data, optimized scheduling.  
-- **Ease of Use** → Quick installation, intuitive app, simple setup.  
-- **Reliability** → Waters consistently, functions without constant oversight.  
-- **Cost** → Affordable purchase and long-term water savings.  
-- **Durability** → Weather-resistant design for outdoor use.  
-- **Sustainability** → Environmentally friendly and resource-efficient.  
+- **Water Efficiency:** Sensors, weather data, optimized scheduling.  
+- **Ease of Use:** Quick installation, intuitive app, simple setup.  
+- **Reliability:** Waters consistently, functions without constant oversight.  
+- **Cost:** Affordable purchase and long-term water savings.  
+- **Durability:** Weather-resistant design for outdoor use.  
+- **Sustainability:** Environmentally friendly and resource-efficient.  
 
 **Meta-Needs:**  
 - The system must conserve water while maintaining lawn health.  
 - The system should be easy to install and operate.  
-
----
 
 ## Prioritization (Sample)  
 
@@ -94,8 +86,6 @@ Our team is designing a **Water-Efficient Lawn Watering System** that reduces wa
 **Lower Needs:**  
 - Aesthetic design.  
 - Expandable accessories.  
-
----
 
 ## Next Steps  
 - Expand benchmarking with more product reviews.  
