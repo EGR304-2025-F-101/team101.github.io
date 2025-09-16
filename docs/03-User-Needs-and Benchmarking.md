@@ -92,7 +92,7 @@ Easy Installation - Installs or replaces in around 15 minutes with basic tools. 
 **Vendor:** Amazon / Lowe’s  
 **Description:** App-based irrigation controller with weather data integration and 8-zone control.  
 
-## Rain Bird Positive Comments - Needs  
+Rain Bird Positive Comments - Needs  
 
 | Review Quote | Restated User Need | Explicit / Latent |
 |--------------|--------------------|-------------------|
@@ -108,7 +108,7 @@ Easy Installation - Installs or replaces in around 15 minutes with basic tools. 
 | “Trusted Rain Bird brand with strong customer support.” | Brand reputation and reliable customer support add confidence | Latent |
 
 
-## Rain Bird Negative Comments - Needs  
+Rain Bird Negative Comments - Needs  
 
 | Review Quote | Restated User Need | Explicit / Latent |
 |--------------|--------------------|-------------------|
@@ -131,7 +131,8 @@ Easy Installation - Installs or replaces in around 15 minutes with basic tools. 
 **Description:** Professional-grade smart irrigation controller with multiple zone support and advanced weather integration.  
 
 
-## Hunter Hydrawise Positive Comments - Needs  
+Hunter Hydrawise Positive Comments - Needs  
+
 | Review Quote | Restated User Need | Explicit / Latent |
 |--------------|--------------------|-------------------|
 | “Likes that it knows weather and adjusts watering” | Device uses weather data to optimize watering schedules | Explicit |
@@ -145,9 +146,7 @@ Easy Installation - Installs or replaces in around 15 minutes with basic tools. 
 | “Excellent app interface” | Device offers a well-designed, intuitive app experience | Explicit |
 | “Easy to set up / Easy to program” | Device setup and programming process is straightforward | Explicit | 
 
-
-
-## Hunter Hydrawise Negative Comments - Needs  
+Hunter Hydrawise Negative Comments - Needs  
 
 | Review Quote | Restated User Need | Explicit / Latent |
 |--------------|--------------------|-------------------|
@@ -173,7 +172,7 @@ Easy Installation - Installs or replaces in around 15 minutes with basic tools. 
 
 
 
-## Scotts GRO Positive Comments - Needs
+Scotts GRO Positive Comments - Needs  
 
 | Review Quote | Restated User Need | Explicit / Latent |
 |--------------|--------------------|-------------------|
@@ -190,7 +189,7 @@ Easy Installation - Installs or replaces in around 15 minutes with basic tools. 
 
 
 
-## Scotts GRO Negative Comments - Needs  
+Scotts GRO Negative Comments - Needs  
 
 | Review Quote | Restated User Need | Explicit / Latent |
 |--------------|--------------------|-------------------|
