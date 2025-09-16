@@ -94,7 +94,8 @@ Easy Installation - Installs or replaces in around 15 minutes with basic tools. 
 **Product Link:** https://www.amazon.com/Rain-Bird-ARC8-Irrigation-Controller/dp/B0B1NZ2WF4?adgrpid=178826679575&hvpone=&hvptwo=&hvadid=748008580740&hvpos=&hvnetw=g&hvrand=15228244502649210086&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9030039&hvtargid=dsa-2415512203839&hydadcr=&mcid=&hvocijid=15228244502649210086--&hvexpln=67&tag=googhydr-20&hvsb=Gardening_d&hvcampaign=dsadesk&th=1  
 **Description:** App-based irrigation controller with weather data integration and 8-zone control.  
 
-Rain Bird Positive Comments - Needs  
+## Rain Bird Positive Comments - Needs  
+
 | Review Quote | Restated User Need | Explicit / Latent |
 |--------------|--------------------|-------------------|
 | “Quick and simple installation process.” | Device should be easy and fast to install | Explicit |
@@ -109,7 +110,6 @@ Rain Bird Positive Comments - Needs
 | “Trusted Rain Bird brand with strong customer support.” | Brand reputation and reliable customer support add confidence | Latent |
 
 ---
-
 ## Rain Bird Negative Comments - Needs  
 
 | Review Quote | Restated User Need | Explicit / Latent |
