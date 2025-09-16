@@ -90,11 +90,9 @@ Easy Installation - Installs or replaces in around 15 minutes with basic tools. 
 ### Product 3: [Rain Bird ARC8 Smart Irrigation WiFi Timer/Controller](http://us.amazon.com/gp/aw/d/B0B1NZ2WF4/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=f490091f1a9c571563b1c745a4e4c793&hsa_cr_id=0&qid=1757990050&sr=1-2-9e67e56a-6f64-441f-a281-df67fc737124&ref_=sbx_s_sparkle_sbtcd_asin_1_title&pd_rd_w=8Hh35&content-id=amzn1.sym.9f2b2b9e-47e9-4764-a4dc-2be2f6fca36d%3Aamzn1.sym.9f2b2b9e-47e9-4764-a4dc-2be2f6fca36d&pf_rd_p=9f2b2b9e-47e9-4764-a4dc-2be2f6fca36d&pf_rd_r=HPSHJN6QT37J764KJVV8&pd_rd_wg=J2x4C&pd_rd_r=ed6a471c-40a9-4251-83c8-e733c95db401&th=1)  
 **Price:** $107.73 
 **Vendor:** Amazon / Lowe’s  
-**Description:** App-based irrigation controller with weather data integration and 8-zone control.  
+**Description:** App-based irrigation controller with weather data integration and 8-zone control.   
 
-Rain Bird Positive Comments - Needs  
-
-| Review Quote | Restated User Need | Explicit / Latent |
+| Rain Bird Positiv Review Quote | Restated User Need | Explicit / Latent |
 |--------------|--------------------|-------------------|
 | “Quick and simple installation process.” | Device should be easy and fast to install | Explicit |
 | “Intuitive, feature-rich app for easy programming and scheduling.” | App should be user-friendly while offering advanced features | Explicit |
@@ -108,9 +106,7 @@ Rain Bird Positive Comments - Needs
 | “Trusted Rain Bird brand with strong customer support.” | Brand reputation and reliable customer support add confidence | Latent |
 
 
-Rain Bird Negative Comments - Needs  
-
-| Review Quote | Restated User Need | Explicit / Latent |
+| Rain Bird Negative Review Quote | Restated User Need | Explicit / Latent |
 |--------------|--------------------|-------------------|
 | “Frequent Wi-Fi disconnections make the controller unreliable.” | Device should maintain consistent Wi-Fi connectivity for reliable operation | Explicit |
 | “Firmware updates often fail, forcing factory resets and reprogramming.” | Device should update firmware smoothly without requiring resets | Explicit |
@@ -130,10 +126,7 @@ Rain Bird Negative Comments - Needs
 **Vendor:** Hunter Official / Irrigation Suppliers 
 **Description:** Professional-grade smart irrigation controller with multiple zone support and advanced weather integration.  
 
-
-Hunter Hydrawise Positive Comments - Needs  
-
-| Review Quote | Restated User Need | Explicit / Latent |
+| Hunter Hydrawise Positive Review Quote | Restated User Need | Explicit / Latent |
 |--------------|--------------------|-------------------|
 | “Likes that it knows weather and adjusts watering” | Device uses weather data to optimize watering schedules | Explicit |
 | “Works great” | Device performs reliably and as expected | Explicit |
@@ -146,9 +139,7 @@ Hunter Hydrawise Positive Comments - Needs
 | “Excellent app interface” | Device offers a well-designed, intuitive app experience | Explicit |
 | “Easy to set up / Easy to program” | Device setup and programming process is straightforward | Explicit | 
 
-Hunter Hydrawise Negative Comments - Needs  
-
-| Review Quote | Restated User Need | Explicit / Latent |
+| Hunter Hydrawise Negative Review Quote | Restated User Need | Explicit / Latent |
 |--------------|--------------------|-------------------|
 | “Defective touch screen, seller charged unfair restocking fee.” | Device quality and seller return policy should be reliable and fair | Explicit |
 | “Controller won’t stay online, support unresponsive.” | Device should maintain stable connectivity and provide responsive customer support | Explicit |
@@ -168,13 +159,9 @@ Hunter Hydrawise Negative Comments - Needs
 [Scotts GRO 7-Zone (2nd Gen) Smart Watering System](https://www.walmart.com/ip/Gro-7-Zone-Controller-from-Scotts-2nd-Generation-Smart-Watering-Sprinkler-Irrigation-7-Zone-Control-System/743185232  )  
 **Price:** $34.39  
 **Vendor:** Walmart  
-**Description:** Portable smart watering system with Bluetooth-only app control and suitable for small to medium lawns.  
+**Description:** Portable smart watering system with Bluetooth-only app control and suitable for small to medium lawns.    
 
-
-
-Scotts GRO Positive Comments - Needs  
-
-| Review Quote | Restated User Need | Explicit / Latent |
+| Scotts GRO Positive Review Quote | Restated User Need | Explicit / Latent |
 |--------------|--------------------|-------------------|
 | “Been wanting one of these for a while, just wasn't going to spend $300 to get one.” | Device is affordable compared to premium competitors | Explicit |
 | “It reads the weather and applies the amount of water it thinks is necessary. Very happy with it.” | Device uses weather data to optimize watering schedules | Explicit |
@@ -187,11 +174,7 @@ Scotts GRO Positive Comments - Needs
 | “It will not go off when we have rain in our area.” | Device avoids unnecessary watering during rain | Explicit |
 | “There is a ton of customization for each zone and so much information about watering days, time and weather.” | Device provides detailed customization and flexibility | Explicit |
 
-
-
-Scotts GRO Negative Comments - Needs  
-
-| Review Quote | Restated User Need | Explicit / Latent |
+| Scotts GRO Negative Review Quote | Restated User Need | Explicit / Latent |
 |--------------|--------------------|-------------------|
 | “This controller just refused to connect to my WiFi. The manufacturer said it was a known problem.” | Device reliably connects to WiFi and maintains signal | Explicit |
 | “Obsolete device that claims it works on 2.5 GHz WiFi standard – but NEVER does.” | Device supports modern, reliable wireless standards | Explicit |
