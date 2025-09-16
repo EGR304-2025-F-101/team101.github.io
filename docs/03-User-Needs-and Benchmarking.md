@@ -13,8 +13,8 @@ The purpose of this page is to identify user needs from benchmarking competitive
 
 ![Alt Text](https://m.media-amazon.com/images/I/71asdFrVrlL._SX522_.jpg)
 ### Product 1: [Rachio Gen 3 Smart Sprinkler Controller (8-Zone)](https://www.amazon.com/Rachio-Smart-Sprinkler-Controller-8-Zone/dp/B07CZ864Y9/ref=sr_1_1_mod_primary_new?crid=Q8WJIMUXE74A&dib=eyJ2IjoiMSJ9.0NowlzX_lX6O0Dr9R9QzDs_DyTJjy8lIZFmxlEDQN8Is6aXXizEQ6t2oegK18cAbwfNf-s_VkPK93RP3_W5wdo6p3uyRT4owkESKcAB0lng.k2WyCIMmcOmx0wDDIYWZ2Mgn7J4MeWMTAog4adlMvfI&dib_tag=se&keywords=Rachio%2B3%2BSmart%2BSprinkler%2BController&qid=1757993621&s=home-garden&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=rachio%2B3%2Bsmart%2Bsprinkler%2Bcontroller%2Cgarden%2C177&sr=1-1&th=1)  
-**Price:** $199.00 
-**Vendor:** Amazon / Rachio Official  
+**Price:** $199.00  
+**Vendor:** Amazon / Rachio Official   
 **Description:** DITCH THE DIAL – Upgrade to smart irrigation with the free Rachio app for precise, easy control.
 AUTOMATIC WEATHER SKIPS – Patented Weather Intelligence skips watering for rain, wind, freeze & more.
 SAVE WATER YEAR-ROUND – Adaptive schedules help your yard thrive in April showers & July heat.
@@ -51,7 +51,7 @@ FAST DIY INSTALL – Install in 30 min or less, compatible with 99% of existing 
 
 ![Alt Text](https://m.media-amazon.com/images/I/61VZFwEQLZL._AC_SX679_.jpg)
 ### Product 2: [Netro Smart Sprinkler Controller, Pearl White, Sprite-12, WiFi, 12 Zone, WaterSense Certified, Compatible with Alexa](https://www.amazon.com/Netro-Sprinkler-Controller-Weather-Compatible/dp/B06XCRZWMN/ref=sr_1_1_sspa?crid=2K7UD1XSPWW1E&dib=eyJ2IjoiMSJ9.rvN4UuoTPvI50njRyKO8iA6ieOTmntYcQ6Vna2svT5cW7AamgfrYl3PsB-edb-noEZ-hIRU_rTUQGoHGtlAcBl2M6V0Rs9CELmEDhItQRyHM5dZjzcfqlorCJWyGjODTOaqtltvP4eYEjOcf39NfGcWJ0SmVxqlK83Ew-pPnuyYKx-l354o-2R-DPx4Ds52udonlbdXJ5KBNVAyqfhe5SNj4Ms44e18VPGYhNTqqGvqCG8LOVJkI2iB_IP7lWa4cnpZdrRXYay_LqrjqihkIFwcJLczE3NVa0xyB2GOy3M4.5W3BgUzXKXUnvMpmvljf2fOfpTH0_TvmFQZOeyYU1Es&dib_tag=se&keywords=Netro%2BSmart%2BSprinkler&qid=1757994017&sprefix=netro%2Bsmart%2Bsprinkler%2B%2Caps%2C161&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)  
-**Price:** $119.99
+**Price:** $119.99  
 **Vendor:** Home Depot / Amazon  
 **Description:** Fully Automatic - EPA WaterSense certified, dynamically creates and adjusts watering schedules optimized for your plants/lawns
 Lifetime Cloud Service - Connects to WiFi(2.4G), monitors and controls your sprinkler system anywhere from iOS(8.3+), Android(5.0+) devices and Web browsers
@@ -107,7 +107,7 @@ Easy Installation - Installs or replaces in around 15 minutes with basic tools. 
 | “Flexible zone programming supports up to 8 zones and multiple schedules.” | Device should allow flexible programming for multiple watering zones | Explicit |
 | “Trusted Rain Bird brand with strong customer support.” | Brand reputation and reliable customer support add confidence | Latent |
 
----
+
 ## Rain Bird Negative Comments - Needs  
 
 | Review Quote | Restated User Need | Explicit / Latent |
@@ -123,14 +123,13 @@ Easy Installation - Installs or replaces in around 15 minutes with basic tools. 
 | “Missing internal pump relay, requiring extra hardware.” | Device should include built-in pump relay for easier setup | Explicit |
 | “Alexa and smart home integration often fail or don’t work as advertised.” | Device should reliably integrate with Alexa and smart home systems | Explicit |
 
----
+
 ![Alt Text](https://m.media-amazon.com/images/I/71Y2ACQ14CL._AC_SY300_SX300_QL70_FMwebp_.jpg)
 ### Product 4: [Hunter Hydrawise HPC400 Smart WiFi Irrigation Controller](https://www.amazon.com/Hunter-Industries-HPC400-Irrigation-Controller/dp/B08BJBKW44/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.Ev2aypb32EG91LmR0jxgfkT3R4CbTnDZwlUgHDFT0d04vfIo3xgfNnDhOl4YIn_j5IOoptBFN4r-AdbQ9t1WEaGNOo5byCKOGq3ynQtWpwI8LqrJZoFdlsXf35gXV391qs5cJX_dAXzR-_9_KqKKpM2PKOVjs-w-1-wZvCaX2oFnSFF1y8mG0utMmoX_XMUgo8kKCtoOki8nTFipCSpCiwfSsE4h3jBOkYrqA728SRGeK_DJkeD39YvekSM2IHFj_UoBmlKvIwhgaSn7DtLvNy3Y2xUZf1-pB14YUv1GTX8._fu9jHGzavuO3WbnqZb1A0Bl0K43yG-G3zUxHSPEY_M&dib_tag=se&hvadid=694646907778&hvdev=c&hvexpln=67&hvlocphy=9030039&hvnetw=g&hvocijid=7708973018345761249--&hvqmt=e&hvrand=7708973018345761249&hvtargid=kwd-951295832298&hydadcr=11859_13304449&keywords=hunter+hydrawise+hpc-400&mcid=84f2d6d66071352697009839873422c0&qid=1757995911&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)  
 **Price:** $204.06  
 **Vendor:** Hunter Official / Irrigation Suppliers 
 **Description:** Professional-grade smart irrigation controller with multiple zone support and advanced weather integration.  
 
----
 
 ## Hunter Hydrawise Positive Comments - Needs  
 | Review Quote | Restated User Need | Explicit / Latent |
@@ -146,7 +145,7 @@ Easy Installation - Installs or replaces in around 15 minutes with basic tools. 
 | “Excellent app interface” | Device offers a well-designed, intuitive app experience | Explicit |
 | “Easy to set up / Easy to program” | Device setup and programming process is straightforward | Explicit | 
 
----
+
 
 ## Hunter Hydrawise Negative Comments - Needs  
 
@@ -164,7 +163,7 @@ Easy Installation - Installs or replaces in around 15 minutes with basic tools. 
 | “Box not sealed, water leaks inside.” | Device should have proper packaging and water resistance | Explicit |
 | “Interface feels outdated, not intuitive enough.” | Device interface should be modern, clear, and easy to use | Latent |
 
----
+
 ![Alt Text](https://i5.walmartimages.com/seo/Gro-7-Zone-Controller-from-Scotts-2nd-Generation-Smart-Watering-Sprinkler-Irrigation-7-Zone-Control-System_cd0245ba-8f45-4f17-89ca-9c0751927b14_4.8347290ef388640957ccc52d02450930.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF)
 ### Product 5: Scotts GRO 7-Zone (2nd Gen) Smart Watering System  
 [Scotts GRO 7-Zone (2nd Gen) Smart Watering System](https://www.walmart.com/ip/Gro-7-Zone-Controller-from-Scotts-2nd-Generation-Smart-Watering-Sprinkler-Irrigation-7-Zone-Control-System/743185232  )  
@@ -172,7 +171,7 @@ Easy Installation - Installs or replaces in around 15 minutes with basic tools. 
 **Vendor:** Walmart  
 **Description:** Portable smart watering system with Bluetooth-only app control and suitable for small to medium lawns.  
 
----
+
 
 ## Scotts GRO Positive Comments - Needs
 
@@ -189,7 +188,7 @@ Easy Installation - Installs or replaces in around 15 minutes with basic tools. 
 | “It will not go off when we have rain in our area.” | Device avoids unnecessary watering during rain | Explicit |
 | “There is a ton of customization for each zone and so much information about watering days, time and weather.” | Device provides detailed customization and flexibility | Explicit |
 
----
+
 
 ## Scotts GRO Negative Comments - Needs  
 
