@@ -84,7 +84,9 @@ Easy Installation - Installs or replaces in around 15 minutes with basic tools. 
 | "The company apparently has only 1 non redundant server and when it's down... absolutely nothing will work. Tech support is terrible..."                      | I need system reliability that does not depend on a single point of failure (server).| Explicit        |
 | "Watered one zone for 7 hours because it lost internet connection... now have a $700 water bill."                                                             | I need safeguards to prevent overwatering if the internet connection fails.          | Explicit        |
 | "I tried updating the app and it did not help at all. I ended up have to click on every date to manually turn off each zone..."                               | I need app updates that actually fix problems and improve usability.                 | Explicit        |
+
 ---
+
 ### Product 3: Rain Bird ARC8 Smart Irrigation WiFi Timer/Controller  
 **Price:** $119.99  
 **Vendor:** Amazon / Lowe’s  
