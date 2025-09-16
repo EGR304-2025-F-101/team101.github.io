@@ -87,7 +87,7 @@ Easy Installation - Installs or replaces in around 15 minutes with basic tools. 
 
 ---
 
-![Alt Text]([https://m.media-amazon.com/images/I/61VZFwEQLZL._AC_SX679_.jpg](https://m.media-amazon.com/images/I/71ZeJzK90WL._AC_SX679_.jpg))
+![Alt Text](https://m.media-amazon.com/images/I/71ZeJzK90WL._AC_SX679_.jpg)
 ### Product 3: Rain Bird ARC8 Smart Irrigation WiFi Timer/Controller  
 **Price:** $119.99  
 **Vendor:** Amazon / Lowe’s  
@@ -126,7 +126,7 @@ Rain Bird Positive Comments - Needs
 | “Alexa and smart home integration often fail or don’t work as advertised.” | Device should reliably integrate with Alexa and smart home systems | Explicit |
 
 ---
-![Alt Text]([https://m.media-amazon.com/images/I/61VZFwEQLZL._AC_SX679_.jpg](https://m.media-amazon.com/images/I/71ZeJzK90WL._AC_SX679_.jpg))
+![Alt Text](https://m.media-amazon.com/images/I/71Y2ACQ14CL._AC_SY300_SX300_QL70_FMwebp_.jpg)
 ### Product 4: Hunter Hydrawise HPC400 Smart WiFi Irrigation Controller  
 **Price:** $204.06  
 **Vendor:** Hunter Official / Irrigation Suppliers 
@@ -168,7 +168,7 @@ Rain Bird Positive Comments - Needs
 | “Interface feels outdated, not intuitive enough.” | Device interface should be modern, clear, and easy to use | Latent |
 
 ---
-![Alt Text]([https://i5.walmartimages.com/seo/Gro-7-Zone-Controller-from-Scotts-2nd-Generation-Smart-Watering-Sprinkler-Irrigation-7-Zone-Control-System_cd0245ba-8f45-4f17-89ca-9c0751927b14_4.8347290ef388640957ccc52d02450930.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF))
+![Alt Text](https://i5.walmartimages.com/seo/Gro-7-Zone-Controller-from-Scotts-2nd-Generation-Smart-Watering-Sprinkler-Irrigation-7-Zone-Control-System_cd0245ba-8f45-4f17-89ca-9c0751927b14_4.8347290ef388640957ccc52d02450930.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF)
 ### Product 5: Scotts GRO 7-Zone (2nd Gen) Smart Watering System  
 **Price:** $34.39  
 **Vendor:** Walmart  
