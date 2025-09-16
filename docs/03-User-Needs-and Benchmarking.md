@@ -7,9 +7,7 @@ tags:
 # User Needs and Benchmarking
 
 ## Introduction  
-The purpose of this assignment is to identify user needs from benchmarking competitive devices and to distill those needs into a weighted set of design objectives.
-
-Our group is designing a Water-Efficient Lawn Watering System. We aim to help homeowners, renters, and community members who want to maintain healthy lawns and landscaping while minimizing water usage, cost, and environmental impact.
+The purpose of this assignment is to identify user needs from benchmarking competitive devices and to distill those needs into a weighted set of design goals. Our group is designing a Water-Efficient Lawn Watering System. Our aim to help homeowners, renters, and those who want to maintain healthy lawns and landscaping while being conscious of water usage, cost, and concern for the environmental.
 
 ## Benchmarking Competitive Products
 ---
@@ -120,54 +118,54 @@ Our group is designing a Water-Efficient Lawn Watering System. We aim to help ho
 | “Battery drains too fast if WiFi is used.” | Device has long-lasting and efficient power management | Explicit |  
 ## Organized Need Statements
 
-### Categories with Meta-Needs
+### Categories with Important - Must Needs
 
 1. **Efficiency**
-The device reduces household water use.  
-The device avoids watering during rain.  
-**Main Need:** *The device waters lawns efficiently and conserves resources.*  
+The device needs to reduce household water use.  
+The device needs to avoid watering during rain/saturation.  
+**Main Need:** *The device needs to water lawns efficiently and conserves water/power resources.*  
 
 3. **Convenience & Usability**
-The device is easy to install.  
-The device requires little training.  
-The device has an intuitive app.  
-**Main Need:** *The device is simple and accessible for all users.*  
+The device should be easy to install.  
+The device should requires minimal parts/components.  
+The device has an intuitive app/user interface.  
+**Main Need:** *The device should be simple and accessible for all users.*  
 
 4. **Durability & Reliability**
-The device works in outdoor conditions.  
-The device has backup power options.  
-The device resists WiFi or server interruptions.  
-**Main Need:** *The device is reliable in all environments.*  
+The device needs to work well in outdoor conditions.  
+The device needs to have backup power options.  
+The device needs to resists WiFi or server interruptions.  
+**Main Need:** *The device needs to be reliable in all environments.*  
 
 5. **Cost & Sustainability** 
-The device is affordable.  
-The device reduces water bills.  
+The device needs to be affordable.  
+The device needs to reduces water bills.  
 The device uses renewable energy (solar).  
-**Main Need:** *The device is cost-effective and environmentally friendly.*  
+**Main Need:** *The device needs to be cost-effective and environmentally friendly.*  
 
 6. **Smart Features**
-The device integrates with smart homes (Alexa, Google).  
-The device tracks and reports water usage.  
-The device adapts to soil moisture levels.  
-**Main Need:** *The device is intelligent and adaptable.*  
+The device integrates its system with smart homes (Alexa or Google).  
+The device can track and report water usage.  
+The device can adapt/adjust to soil moisture levels.  
+**Main Need:** *The device needs to be intelligent and adaptable.*  
 
 ## Prioritization of Needs (Weighted)
 
 **High Priority (Weight = 5)**
-Reduce water use and household bills.  
-Simple installation and setup.  
-Reliable automatic watering.  
-Durable outdoor design.  
-Intuitive app-based remote control.  
+Reduces water use and household bills.  
+It is simple installation and setup.  
+Has reliable automatic watering.  
+It is durable outdoor design.  
+Has an intuitive app-based remote control.  
 
 **Medium Priority (Weight = 3)**
-Smart home integration.  
-Affordable cost (under $200).  
-Flexible zone control.  
+Includes smart home integration.  
+device has a affordable cost (under $200).  
+user flexible zone control.  
 
 **Low Priority (Weight = 1)**
-Aesthetic design.  
-Expandable accessories.  
+shows a attractable sesthetic design.  
+offers expandable accessories.  
 
 
 
