@@ -17,27 +17,27 @@ Our team is designing a Water-Efficient Lawn Watering System that reduces water 
 
 ## Benchmarking Competitive Products  
 
-### 1. Rachio 3 Smart Sprinkler Controller  
+### 1. 8 Zone Rachio Gen 3 Smart Sprinkler Controller  
 - **Features:** WiFi-enabled, weather forecast integration, app control.  
 - **Pros:** Saves 20–50% water, intuitive interface.  
 - **Cons:** Expensive, requires WiFi.  
 
-### 2. Orbit B-hyve Smart Hose Faucet Timer  
+### 2. Orbit 57915 B-hyve 4-Zone Indoor Smart Sprinkler Controller 
 - **Features:** Connects to outdoor spigot, Bluetooth/WiFi app control.  
 - **Pros:** Affordable, simple installation.  
 - **Cons:** Limited to hose use, battery powered.  
 
-### 3. Rain Bird ST8I Smart Controller  
+### 3. Rain Bird ARC8 Smart Irrigation WiFi Timer/Controller 
 - **Features:** App-based scheduling, weather data integration.  
 - **Pros:** Trusted irrigation brand, reliable.  
 - **Cons:** App less intuitive than competitors.  
 
-### 4. Hunter Hydrawise Wi-Fi Controller  
+### 4. Hunter Hydrawise HPC400 Smart WiFi Irrigation Controller 
 - **Features:** Professional-grade, multiple zones, weather integration.  
 - **Pros:** Flexible and powerful for larger yards.  
 - **Cons:** More expensive, complex setup.  
 
-### 5. Gro™ by Scotts Bluetooth Hose Timer  
+### 5. 7 zone Scotts GRO Scotts-2nd Generation Smart Watering Sprinkler/Irrigation System
 - **Features:** Bluetooth-only app control.  
 - **Pros:** Portable and easy to use.  
 - **Cons:** Limited range, less automation.  
