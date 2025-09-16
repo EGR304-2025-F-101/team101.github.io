@@ -21,6 +21,7 @@ SAVE WATER YEAR-ROUND – Adaptive schedules help your yard thrive in April show
 FLEXIBLE SCHEDULING – Create your own schedule or let Weather Intelligence adjust automatically; includes grow-in options.
 CONTROL FROM ANYWHERE – Manage watering, run zones, view schedules & track estimated usage in the Rachio App.
 FAST DIY INSTALL – Install in 30 min or less, compatible with 99% of existing sprinkler systems.
+
 | Original Positive Review Quote                                                                                                                                           | User Need Statement                                                                 | Explicit/Latent |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-----------------|
 | "Have been using this for several months, it was easy to install and run the wires. Phone has been very easy to use and with many options. Would recommend."    | I need installation to be simple and wiring to be straightforward.                   | Explicit        |
