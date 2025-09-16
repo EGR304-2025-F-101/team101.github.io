@@ -92,5 +92,51 @@ Our team is designing a Water-Efficient Lawn Watering System that reduces water 
 - Extract ~100 user needs from online reviews, patents, and product manuals.  
 - Cluster user needs into categories and finalize weighted objectives.
 
+## Next Steps (Completed)
+
+1. **Benchmarking Expansion**  
+   - Collected 5 key commercial products: Rachio 3, Orbit B-hyve, Rain Bird ST8I, Hunter Hydrawise, and Scotts Gro™ Timer.  
+   - Reviewed online marketplaces (Amazon, Home Depot, Lowe’s) with search keywords:  
+     *“smart sprinkler controller,” “water-saving irrigation,” “wifi hose timer,” “automatic lawn watering system.”*  
+   - Found common themes in reviews: installation difficulty, WiFi reliability, long-term durability, and real water savings.
+
+2. **User Needs Collection**  
+   - From product reviews and VOC analysis, we extracted a wide set of needs.  
+   - **Example sources:**  
+     - 4–5 star reviews (positive functionality, user satisfaction).  
+     - 1–2 star reviews (pain points, failures).  
+   - Converted quotes to 100 unique **need statements**.  
+   - Marked each as **explicit** (direct requests) or **latent** (implied expectations).
+
+3. **Needs Organization**  
+   - Grouped needs into 6 main categories:  
+     - Water Efficiency  
+     - Ease of Use  
+     - Reliability  
+     - Cost & Value  
+     - Durability  
+     - Sustainability  
+   - Created **meta-needs** summarizing each group (e.g., “The system must conserve water while maintaining lawn health”).  
+
+4. **Needs Prioritization**  
+   - Ranked by frequency in reviews and team judgment.  
+   - **Top Priorities:** water efficiency, ease of installation, reliable operation, durable hardware.  
+   - **Secondary Priorities:** affordability, smart home compatibility, flexibility across yard sizes.  
+
+5. **Documentation**  
+   - Screenshots/notes captured at each stage:  
+     - Raw needs statements  
+     - Grouped needs clusters  
+     - Final weighted ranking  
+   - This ensures traceability for the design process.  
+
+6. **Design Objectives Drafted**  
+   - Translate high-priority needs into measurable objectives for the next phase. Examples:  
+     - Reduce water use by at least 30% compared to manual watering.  
+     - Installation completed by a non-technical homeowner in under 30 minutes.  
+     - Operates reliably for at least 3 years in outdoor conditions.  
+     - Compatible with at least 2 major smart home platforms.  
+
+
 
 
