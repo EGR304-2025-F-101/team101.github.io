@@ -94,7 +94,7 @@ Easy Installation - Installs or replaces in around 15 minutes with basic tools. 
 **Product Link:** https://www.amazon.com/Rain-Bird-ARC8-Irrigation-Controller/dp/B0B1NZ2WF4?adgrpid=178826679575&hvpone=&hvptwo=&hvadid=748008580740&hvpos=&hvnetw=g&hvrand=15228244502649210086&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9030039&hvtargid=dsa-2415512203839&hydadcr=&mcid=&hvocijid=15228244502649210086--&hvexpln=67&tag=googhydr-20&hvsb=Gardening_d&hvcampaign=dsadesk&th=1  
 **Description:** App-based irrigation controller with weather data integration and 8-zone control.  
 
-#### Rain Bird Positive Comments - Needs  
+Rain Bird Positive Comments - Needs  
 | Review Quote | Restated User Need | Explicit / Latent |
 |--------------|--------------------|-------------------|
 | “Quick and simple installation process.” | Device should be easy and fast to install | Explicit |
@@ -110,7 +110,7 @@ Easy Installation - Installs or replaces in around 15 minutes with basic tools. 
 
 ---
 
-#### Rain Bird Negative Comments - Needs  
+## Rain Bird Negative Comments - Needs  
 
 | Review Quote | Restated User Need | Explicit / Latent |
 |--------------|--------------------|-------------------|
@@ -135,7 +135,7 @@ Easy Installation - Installs or replaces in around 15 minutes with basic tools. 
 
 ---
 
-#### Hunter Hydrawise Positive Comments - Needs  
+## Hunter Hydrawise Positive Comments - Needs  
 | Review Quote | Restated User Need | Explicit / Latent |
 |--------------|--------------------|-------------------|
 | “Likes that it knows weather and adjusts watering” | Device uses weather data to optimize watering schedules | Explicit |
@@ -151,7 +151,7 @@ Easy Installation - Installs or replaces in around 15 minutes with basic tools. 
 
 ---
 
-#### Hunter Hydrawise Negative Comments - Needs  
+## Hunter Hydrawise Negative Comments - Needs  
 
 | Review Quote | Restated User Need | Explicit / Latent |
 |--------------|--------------------|-------------------|
@@ -177,7 +177,7 @@ Easy Installation - Installs or replaces in around 15 minutes with basic tools. 
 
 ---
 
-#### Scotts GRO Positive Comments - Needs
+## Scotts GRO Positive Comments - Needs
 
 | Review Quote | Restated User Need | Explicit / Latent |
 |--------------|--------------------|-------------------|
@@ -192,7 +192,7 @@ Easy Installation - Installs or replaces in around 15 minutes with basic tools. 
 | “It will not go off when we have rain in our area.” | Device avoids unnecessary watering during rain | Explicit |
 | “There is a ton of customization for each zone and so much information about watering days, time and weather.” | Device provides detailed customization and flexibility | Explicit |
 ---
-#### Scotts GRO Negative Comments - Needs  
+## Scotts GRO Negative Comments - Needs  
 
 | Review Quote | Restated User Need | Explicit / Latent |
 |--------------|--------------------|-------------------|
