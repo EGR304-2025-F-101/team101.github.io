@@ -85,8 +85,9 @@ Our group is designing a **Water-Efficient Lawn Watering System**. We aim to hel
 
 ### Product 5: Scotts GRO 7-Zone (2nd Gen) Smart Watering System  
 **Price:** $34.39  
-**Vendor:** Amazon / Walmart  
-**Description:** Portable smart watering system with Bluetooth-only app control, suitable for small to medium lawns.  
+**Vendor:** Walmart  
+**Product Link:** Gro 7 Zone Controller from Scotts https://www.walmart.com/ip/Gro-7-Zone-Controller-from-Scotts-2nd-Generation-Smart-Watering-Sprinkler-Irrigation-7-Zone-Control-System/743185232
+**Description:** Portable smart watering system with Bluetooth-only app control and suitable for small to medium lawns.  
 
 ---
 
