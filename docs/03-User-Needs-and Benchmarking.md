@@ -86,11 +86,10 @@ Easy Installation - Installs or replaces in around 15 minutes with basic tools. 
 | "I tried updating the app and it did not help at all. I ended up have to click on every date to manually turn off each zone..."                               | I need app updates that actually fix problems and improve usability.                 | Explicit        |
 
 ---
-![Alt Text](https://m.media-amazon.com/images/I/71ZeJzK90WL._AC_SX679_.jpg) 
-### Product 3: Rain Bird ARC8 Smart Irrigation WiFi Timer/Controller  
+![Alt Text](https://m.media-amazon.com/images/I/61VZFwEQLZL._AC_SX679_.jpg)
+### Product 3: [Rain Bird ARC8 Smart Irrigation WiFi Timer/Controller](http://us.amazon.com/gp/aw/d/B0B1NZ2WF4/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=f490091f1a9c571563b1c745a4e4c793&hsa_cr_id=0&qid=1757990050&sr=1-2-9e67e56a-6f64-441f-a281-df67fc737124&ref_=sbx_s_sparkle_sbtcd_asin_1_title&pd_rd_w=8Hh35&content-id=amzn1.sym.9f2b2b9e-47e9-4764-a4dc-2be2f6fca36d%3Aamzn1.sym.9f2b2b9e-47e9-4764-a4dc-2be2f6fca36d&pf_rd_p=9f2b2b9e-47e9-4764-a4dc-2be2f6fca36d&pf_rd_r=HPSHJN6QT37J764KJVV8&pd_rd_wg=J2x4C&pd_rd_r=ed6a471c-40a9-4251-83c8-e733c95db401&th=1)  
 **Price:** $119.99  
 **Vendor:** Amazon / Lowe’s  
-**Product Link:** https://www.amazon.com/Rain-Bird-ARC8-Irrigation-Controller/dp/B0B1NZ2WF4?adgrpid=178826679575&hvpone=&hvptwo=&hvadid=748008580740&hvpos=&hvnetw=g&hvrand=15228244502649210086&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9030039&hvtargid=dsa-2415512203839&hydadcr=&mcid=&hvocijid=15228244502649210086--&hvexpln=67&tag=googhydr-20&hvsb=Gardening_d&hvcampaign=dsadesk&th=1  
 **Description:** App-based irrigation controller with weather data integration and 8-zone control.  
 
 ## Rain Bird Positive Comments - Needs  
