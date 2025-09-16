@@ -5,86 +5,102 @@ tags:
 - tag2
 ---
 
-## Et poposcerat rursus ad magnus premit
+# User Needs and Benchmarking
 
-Lorem markdownum gradus, qui largis, nec pater pleno: fatum. Adspexit cursus
-cur, aut in adhuc crimina **habebat**: pro.
+## Introduction  
+Our team is designing a **Water-Efficient Lawn Watering System** that reduces water waste, lowers utility bills, and maintains healthy lawns. This system will combine smart sensors, weather data, and automated scheduling with user-friendly installation and control.  
 
-- Et ducimus
-- Prosecta hinc nix vidi rettulit cum sitim
-- Has in tonitribus tenebrae Romane mirantum resupina
-- Figuras et dextram
+**Target Users:**  
+- Homeowners with lawns and gardens  
+- Property managers and HOAs  
+- Environmentally conscious communities  
 
-## Esse quoque sedem plena nunc iecur
+---
 
-Possemque suos dumque. Deum recta rogantem, inquinat facta gigantas; ego nisi
-mea. Nec tamen quae gravem, potens, [cognoscendo
-scripta](http://vidit-lumine.io/sinusdeum). *Nihil ventis Aeneae* probat.
+## Benchmarking Competitive Products  
 
-1. listum primo
+### 1. Rachio 3 Smart Sprinkler Controller  
+- **Features:** WiFi-enabled, weather forecast integration, app control.  
+- **Pros:** Saves 20–50% water, intuitive interface.  
+- **Cons:** Expensive, requires WiFi.  
 
-    discusso el codex:
+### 2. Orbit B-hyve Smart Hose Faucet Timer  
+- **Features:** Connects to outdoor spigot, Bluetooth/WiFi app control.  
+- **Pros:** Affordable, simple installation.  
+- **Cons:** Limited to hose use, battery powered.  
 
-        if (pimProgressiveMashup(recursive_upnp_barcraft, seo) == file.station_leaf(
-                optical + 1, compact_docking)) {
-            rt_programming_system(udpScraping, marketRegularMetal,
-                    threadingNuiRoom);
-            vlogVaporwarePage += 5 + xhtmlDiskReader;
-            access.kbps_footer.dialogZettabyte(3, cloud_midi_spoofing, ipad_macro);
-        }
-        if (maskProcessorKbps(programming, user, cache_web) >= file *
-                publishingDual) {
-            hibernate.flash_network -= 4;
-            bar = goodput_flash;
-            streaming = voip_flatbed - 1;
-        } else {
-            clipCd(jquery, 55 - -1, touchscreen);
-            plagiarism_command_e = cleanHardIcio;
-            recursion = checksum;
-        }
-        clock(roomCaptcha, 2);
+### 3. Rain Bird ST8I Smart Controller  
+- **Features:** App-based scheduling, weather data integration.  
+- **Pros:** Trusted irrigation brand, reliable.  
+- **Cons:** App less intuitive than competitors.  
 
-2. listum secundum
+### 4. Hunter Hydrawise Wi-Fi Controller  
+- **Features:** Professional-grade, multiple zones, weather integration.  
+- **Pros:** Flexible and powerful for larger yards.  
+- **Cons:** More expensive, complex setup.  
 
-    > warningum alertum
+### 5. Gro™ by Scotts Bluetooth Hose Timer  
+- **Features:** Bluetooth-only app control.  
+- **Pros:** Portable and easy to use.  
+- **Cons:** Limited range, less automation.  
 
-3. listum adnauseum
+**Patents of Interest:**  
+- Weather-based irrigation scheduling systems.  
+- Soil-moisture sensing irrigation controllers.  
 
-## Pondus ante Ialysios vultu exasperat loqui sanguine
+---
 
-Iacere non, quis nimbis. Dumque tibi minora clamabat contigit vacant, sepulcro
-coniugis quae; mihi! Solent adeste faventibus, perque penates, currere in quater
-Odrysius ferro, vota, vero mittat crinibus, quae. Hanc mundi, ipse vultu voce
-sub quae heros forsitan imagine in tecum Cephalus? Formosissimus vela; vapore
-oris, aera, utendum ostendisse regnum Centaurorum elice.
+## User Needs  
 
-    if (searchVrmlCpm <= traceroute) {
-        bittorrentExbibyte = del;
-        fsb_left = -2 + lifoTypeSpam;
-        sync.bcc(errorAtm(66, boot, link), meta_personal_hdd, leak.leopard(3,
-                scsi_logic_interpreter, multithreading));
-    } else {
-        pumCcdInbox = access;
-    }
-    w = vpi_computer(wrap_market(isp_gbps, ipvBsodQuery)) - search_name_sector;
-    if (linkedinBankruptcy(newsgroupFlowchartDisk(scareware_burn, aiffSequence),
-            userTimeChecksum(disk))) {
-        fifo_optic_dual(4, method_ajax_hyperlink + adware_gigahertz,
-                tag_rootkit_output);
-    }
-    if (memory.fsb(client_template, typeface_memory_bridge) < newbie_socket_gif(
-            storageModemDrive, kilohertz_yottabyte_middleware)) {
-        dimm.dvd_character.hover(hibernate);
-        exif = unmountVirusRss * 5;
-    } else {
-        localhost_adapter += character_olap_white;
-        subnet(internal_dongle + card);
-    }
-    var hibernateAlert = formatCmsCompression(1 / and_tcp + 5);
+| **User Quote (example)** | **Restated User Need** | **Explicit / Latent** |  
+|--------------------------|-------------------------|-----------------------|  
+| “My water bill dropped after installing this.” | Reduce household water usage and bills. | Explicit |  
+| “It was confusing to set up zones.” | Simple installation and clear setup instructions. | Explicit |  
+| “I want to know my lawn won’t dry out if I’m on vacation.” | Reliable automatic watering. | Latent |  
+| “I don’t want to replace batteries constantly.” | Low-maintenance power system. | Explicit |  
+| “Wish it worked with Alexa/Google.” | Smart home compatibility. | Latent |  
 
-Miserande evanida amanti, succiduo, dare mihi quid amnis venit Rhadamanthus.
-Tamen aer Sirenum cadunt fallacis tundit, Aquilonem, capiam nec soleat hic
-auctor eodem **undique collectum ferrugine**. Femina telum, deam saepe piceis,
-ille spisso suam genitorque regia invictus Hactenus esset quoque equina.
-Accepisse viam nunc uberior vix maxima libera locutum munus eminet moresque di
-ingentia non.
+---
+
+## Grouping User Needs  
+
+- **Water Efficiency** → Sensors, weather data, optimized scheduling.  
+- **Ease of Use** → Quick installation, intuitive app, simple setup.  
+- **Reliability** → Waters consistently, functions without constant oversight.  
+- **Cost** → Affordable purchase and long-term water savings.  
+- **Durability** → Weather-resistant design for outdoor use.  
+- **Sustainability** → Environmentally friendly and resource-efficient.  
+
+**Meta-Needs:**  
+- The system must conserve water while maintaining lawn health.  
+- The system should be easy to install and operate.  
+
+---
+
+## Prioritization (Sample)  
+
+**Top Needs (High Weight):**  
+1. Reduce water use and household bills.  
+2. Simple installation and setup.  
+3. Reliable automatic watering.  
+4. Durable outdoor design.  
+5. App-based remote control.  
+
+**Medium Needs:**  
+- Smart home integration.  
+- Cost under $200.  
+- Flexible zone control.  
+
+**Lower Needs:**  
+- Aesthetic design.  
+- Expandable accessories.  
+
+---
+
+## Next Steps  
+- Expand benchmarking with more product reviews.  
+- Extract ~100 user needs from online reviews, patents, and product manuals.  
+- Cluster user needs into categories and finalize weighted objectives.
+
+
+
