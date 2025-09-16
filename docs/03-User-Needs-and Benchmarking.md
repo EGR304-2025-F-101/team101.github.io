@@ -11,37 +11,79 @@ The purpose of this assignment is to identify user needs from benchmarking compe
 
 ## Benchmarking Competitive Products
 ---
-### Product 1: Rachio Gen 3 Smart Sprinkler Controller (8-Zone)  
-**Price:** $229.99  
+![Alt Text](https://m.media-amazon.com/images/I/71asdFrVrlL._SX522_.jpg)
+### Product 1: [Rachio Gen 3 Smart Sprinkler Controller (8-Zone)](https://www.amazon.com/Rachio-Smart-Sprinkler-Controller-8-Zone/dp/B07CZ864Y9/ref=sr_1_1_mod_primary_new?crid=Q8WJIMUXE74A&dib=eyJ2IjoiMSJ9.0NowlzX_lX6O0Dr9R9QzDs_DyTJjy8lIZFmxlEDQN8Is6aXXizEQ6t2oegK18cAbwfNf-s_VkPK93RP3_W5wdo6p3uyRT4owkESKcAB0lng.k2WyCIMmcOmx0wDDIYWZ2Mgn7J4MeWMTAog4adlMvfI&dib_tag=se&keywords=Rachio%2B3%2BSmart%2BSprinkler%2BController&qid=1757993621&s=home-garden&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=rachio%2B3%2Bsmart%2Bsprinkler%2Bcontroller%2Cgarden%2C177&sr=1-1&th=1)  
+**Price:** $199.00 
 **Vendor:** Amazon / Rachio Official  
-**Description:** WiFi-enabled smart sprinkler controller with weather forecast integration and app control.  
+**Description:** DITCH THE DIAL – Upgrade to smart irrigation with the free Rachio app for precise, easy control.
+AUTOMATIC WEATHER SKIPS – Patented Weather Intelligence skips watering for rain, wind, freeze & more.
+SAVE WATER YEAR-ROUND – Adaptive schedules help your yard thrive in April showers & July heat.
+FLEXIBLE SCHEDULING – Create your own schedule or let Weather Intelligence adjust automatically; includes grow-in options.
+CONTROL FROM ANYWHERE – Manage watering, run zones, view schedules & track estimated usage in the Rachio App.
+FAST DIY INSTALL – Install in 30 min or less, compatible with 99% of existing sprinkler systems.
+| Original Positive Review Quote                                                                                                                                           | User Need Statement                                                                 | Explicit/Latent |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-----------------|
+| "Have been using this for several months, it was easy to install and run the wires. Phone has been very easy to use and with many options. Would recommend."    | I need installation to be simple and wiring to be straightforward.                   | Explicit        |
+| "Makes managing the sprinklers and watering schedule so easy! What a great product!"                                                                            | I need scheduling and management of sprinklers to be effortless.                     | Explicit        |
+| "I bought this to replace my ageing and... obsolete other brand... The Rachio on the other hand, YES, easy to install, easy to program, easy to update..."      | I need installation, programming, and updates to be simple and frustration-free.     | Explicit        |
+| "I bought this in 2018 and have used it ever since then. It was easy to install. Be sure and take detailed photos of your current controller... especially wiring." | I need long-term reliability and consistency from the product.                       | Explicit    |
+| "The Rachio 3 is very intuitive, once programmed from your phone... built-in weather intelligence function... skip watering right after it rains... adjust seasonally." | I need an intuitive interface to make programming easy.                              | Explicit|
+| "I really love this controller and I just purchased another one for a step-son that just bought his first house and is unfamiliar with any type of lawn sprinkler system." | I need the product to be accessible for beginners with no prior sprinkler experience.| Explicit        |
+| "Excellent controllers. Versatile and great app. Add on applications and accessories are expensive and limited in use. Valve monitoring app only valid for 1 controller not per site." | I need the product to be versatile with a strong core app experience.| Explicit   |
+| "I purchased this controller after hearing a user praise it and wanting a panel I could remotely access. It was easy to install and configure and it is nice to have one that takes into consideration recent precipitation. I like the way it alternates between zones for better absorption and less runoff." | I need remote access to control the system from anywhere.                             | Explicit        |
 
-**Positive Comments → Needs**  
-- “Cut my water bill in half.” → Device reduces water consumption while maintaining lawn health (explicit).  
-- “App is so easy to use.” → Device provides an intuitive smartphone interface (explicit).  
-- “Adjusts perfectly to weather.” → Device integrates with weather data to optimize watering (explicit).  
-
-**Negative Comments → Needs**  
-- “Price is too high for average homeowners.” → Device is affordable for the residential market (explicit).  
-- “Had to reset WiFi often.” → Device remains reliable even with spotty WiFi (latent).  
-- “Installation was tricky.” → Device offers simple, user-friendly setup (explicit).  
+| Original Negative Review Quote                                                                                                                                           | User Need Statement                                                                 | Explicit/Latent |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-----------------|
+| "After an 1\" of rain it I was notified that the cycle would be skipped but at 4 am another notification that it was going to run... Who is up at 4 am to override this..." | I need weather-based scheduling to be accurate and not contradict itself.  | Explicit        |
+| "After several incidents like this, I called support which is overseas and the agents are difficult to understand..."                                            | I need accessible, easy-to-understand customer support.                              | Explicit        |
+| "It still checks the weather but of the 10 lawn zones, only 8 ran one night. It didn't notify me, only told me it completed the schedule and how long it ran."   | I need accurate execution and reporting of scheduled watering across all zones.      | Explicit        |
+| "Power cycle the unit and the modem and router... Did Not Work"                                                                                                 | I need troubleshooting steps that actually resolve connectivity issues.              | Explicit        |
+| "Then I noticed our lawns all turning brown... watering them for five minutes every other day! In 95 degree weather no less."                                   | I need watering schedules that adjust correctly for extreme heat to keep lawns healthy. | Explicit     |
+| "The intelligence isn't there, and Rachio is killing my lawn. Trying to figure out how to modify the schedule, by the way, is neither intuitive nor easy."      | I need scheduling intelligence that protects my lawn, not harms it.                  | Explicit        |
+| "Early adopters... company has released technology with immature algorithms and unproven capabilities... 'community' is filled with concerns... support unanswered." | I need reliable, proven algorithms before release to ensure product quality.         | Explicit   |
+| "Ok. This system was easy to install. I like that it’s app controlled, so my gardener can’t mess with it."                                                       | I need app-only control to prevent unauthorized changes.                             | Explicit        |
+| "However, a week ago it suddenly went offline for no reason... I went through all the troubleshooting options in the app, but nothing worked."                  | I need system reliability so it does not go offline without cause.                   | Explicit        |
+| "It worked fine for the first few months, but all of a sudden it started to show offline... I haven't been able to connect it wifi since."                       | I need stable WiFi connectivity that does not suddenly fail.                         | Explicit        |
+| "The Rachio 3 failed to connect to the phone App, via the home WIFI, after 5 attempts... reset the controller and try again."                                    | I need a reliable, smooth connection between the controller, app, and WiFi.          | Explicit        |
+| "Cloud only / App only operation. Not a huge deal for me now, but could be concerning if you plan on keeping it for many years."                                 | I need local/manual control options in case cloud services are unavailable.          | Explicit        |
 
 ---
-
-### Product 2: Orbit B-hyve 4-Zone Indoor Smart Sprinkler Controller (Model 57915)  
-**Price:** $79.99  
+![Alt Text](https://m.media-amazon.com/images/I/61VZFwEQLZL._AC_SX679_.jpg)
+### Product 2: [Netro Smart Sprinkler Controller, Pearl White, Sprite-12, WiFi, 12 Zone, WaterSense Certified, Compatible with Alexa](https://www.amazon.com/Netro-Sprinkler-Controller-Weather-Compatible/dp/B06XCRZWMN/ref=sr_1_1_sspa?crid=2K7UD1XSPWW1E&dib=eyJ2IjoiMSJ9.rvN4UuoTPvI50njRyKO8iA6ieOTmntYcQ6Vna2svT5cW7AamgfrYl3PsB-edb-noEZ-hIRU_rTUQGoHGtlAcBl2M6V0Rs9CELmEDhItQRyHM5dZjzcfqlorCJWyGjODTOaqtltvP4eYEjOcf39NfGcWJ0SmVxqlK83Ew-pPnuyYKx-l354o-2R-DPx4Ds52udonlbdXJ5KBNVAyqfhe5SNj4Ms44e18VPGYhNTqqGvqCG8LOVJkI2iB_IP7lWa4cnpZdrRXYay_LqrjqihkIFwcJLczE3NVa0xyB2GOy3M4.5W3BgUzXKXUnvMpmvljf2fOfpTH0_TvmFQZOeyYU1Es&dib_tag=se&keywords=Netro%2BSmart%2BSprinkler&qid=1757994017&sprefix=netro%2Bsmart%2Bsprinkler%2B%2Caps%2C161&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)  
+**Price:** $119.99
 **Vendor:** Home Depot / Amazon  
-**Description:** Indoor/outdoor faucet-based controller with Bluetooth and WiFi app control.  
+**Description:** Fully Automatic - EPA WaterSense certified, dynamically creates and adjusts watering schedules optimized for your plants/lawns
+Lifetime Cloud Service - Connects to WiFi(2.4G), monitors and controls your sprinkler system anywhere from iOS(8.3+), Android(5.0+) devices and Web browsers
+Eco Friendly - Save up to 50% of your outdoor water use with advanced water saving technologies including weather forecasting and historical statistics
+Water Restriction - Alerts and auto complies to the watering rules in your local area
+Easy Installation - Installs or replaces in around 15 minutes with basic tools. No professionals required. Indoor use only 
 
-**Positive Comments → Needs**  
-- “Installation only took 15 minutes.” → Device provides quick, simple installation (explicit).  
-- “Nice app notifications when watering starts.” → Device provides clear status alerts (explicit).  
-- “Works well for smaller yards.” → Device is effective for compact lawns (explicit).  
+| Original Positive Review Quote                                                                                                                                         | User Need Statement                                                                 | Explicit/Latent |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-----------------|
+| "The Netro was very easy to install. I downloaded the app to my phone, I took a picture of the wiring on my old controller... It took less than 20 minutes."   | I need installation to be quick and straightforward.                                | Explicit        |
+| "Evidently, the default moisture level is 75%... However, you can add moisture monitors to the system if you so choose."                                      | I need the option to add external moisture sensors for more precise watering.       | Explicit        |
+| "This smart sprinkler system is wonderful... customer service... My town has water restrictions... which was not an option... I emailed customer service..."  | I need flexible programming to handle unique local watering restrictions.           | Explicit        |
+| "You can buy sensors and put them next to plants for unique watering schedules, and more."                                                                    | I need the system to support unique watering schedules for individual plants.       | Explicit        |
+| "It is significantly cheaper than all other units that don't do as much as this."                                                                            | I need the product to be cost-effective compared to alternatives.                   | Explicit        |
+| "The technical support is AWESOME... I sent an email at 9:15PM and got a response WITHIN MINUTES and we used FaceTime to sort out the issue."                | I need reassurance from quick technical support responses, even outside business hours. | Latent       |
+| "I took a picture of my old wiring and used it to connect to the Netro Smart. I then pulled the old one off the wall and put the new one back in the same place." | I need to easily transfer wiring information from my old controller.                | Explicit        |
+| "This controller was very easy to install, and the application for the iPhone is very straightforward and simple."                                            | I need the mobile app to make setup simple and intuitive.                           | Explicit        |
+| "The WiFi connectivity and Alexa compatibility make it super convenient to manage, and the WaterSense certification gives me peace of mind about saving water." | I need WiFi and smart home integration (e.g., Alexa) for convenience.               | Explicit        |
+| "I have no any objection on the hardware. It is compact and light, at least half of the weight than my Orbit Control Star 9 zone controller (#57258)."        | I need the hardware to be compact and lightweight for easier installation.          | Explicit        |
+ 
+| Original Negative Review Quote                                                                                                                                         | User Need Statement                                                                 | Explicit/Latent |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-----------------|
+| "Once you do that, it will connect successfully to WiFi and water your lawn as scheduled for about another week. Then, it will disconnect again."             | I need the WiFi connection to be stable and reliable over time.                      | Explicit        |
+| "It started off fine. But now they update the software and I can even get it to water manually on a zone or program."                                         | I need software updates to improve, not break, functionality.                        | Explicit        |
+| "I accidentally left the Smart feature on because the user interface does not save until you go through some screens... does not warn when you haven't saved." | I need the user interface to provide clear feedback when settings are saved.         | Explicit        |
+| "The user interface is terrible and when you program start times sometimes they work sometimes they don’t..."                                                 | I need a user interface that is intuitive and reliable when scheduling.              | Explicit        |
+| "Schedules more than 3 waterings and totally unnecessary! This makes the watering schedule very long for us and wasted lots of water."                        | I need control over the number of watering cycles to avoid wasting water.            | Explicit        |
+| "Netro device hardware is very cheap quality. Front face of this device will not close and is only hold by 2 small plastic mole."                             | I need the hardware to be durable and feel like high quality.                        | Explicit        |
+| "This device seems to only work with maybe a few brands and that's it. I tried 4 different routers all of which with 2.4 GHz support..."                       | I need compatibility with a wide range of routers and WiFi systems.                  | Explicit        |
+| "The company apparently has only 1 non redundant server and when it's down... absolutely nothing will work. Tech support is terrible..."                      | I need system reliability that does not depend on a single point of failure (server).| Explicit        |
+| "Watered one zone for 7 hours because it lost internet connection... now have a $700 water bill."                                                             | I need safeguards to prevent overwatering if the internet connection fails.          | Explicit        |
+| "I tried updating the app and it did not help at all. I ended up have to click on every date to manually turn off each zone..."                               | I need app updates that actually fix problems and improve usability.                 | Explicit        |
 
-**Negative Comments → Needs**  
-- “Batteries drain quickly.” → Device has efficient, long-lasting power options (explicit).  
-- “Bluetooth connection drops sometimes.” → Device maintains reliable connectivity (latent).  
-- “Not great for large yards.” → Device scales for different lawn sizes (explicit).  
 
 ---
 
