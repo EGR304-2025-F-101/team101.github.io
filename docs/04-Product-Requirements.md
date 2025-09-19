@@ -11,11 +11,11 @@ tags:
 Our team is developing a water efficient lawn watering system designed to help homeowners, renters, and general individual use to maintain healthy lawns/gardens while conserving water. The system will prioritize affordability, reliability, and ease of use and integrating smart technology to reduce waste and maximize good irrigation. We will have a criteria with goals including reducing household water usage by at least 30%, achieving installation time under 30 minutes and maintaining WiFi uptime reliability of 95% or greater.
 
 ## Stakeholders
--Primary Users: Homeowners, renters, general individual use seeking convenient and cost-effective irrigation control.  
--Secondary Users: Landscapers or property managers responsible for multiple zones or properties.  
--Customer Support: Requires easy troubleshooting features and clear accessible documentation.  
--Manufacturing & Assembly: Requires durable weather-resistant components that can be efficiently produced and packaged.  
--Regulatory Agencies: Require compliance with EPA WaterSense standards and regional water restrictions.
+Primary Users: Homeowners, renters, general individual use seeking convenient and cost-effective irrigation control.  
+Secondary Users: Landscapers or property managers responsible for multiple zones or properties.  
+Customer Support: Requires easy troubleshooting features and clear accessible documentation.  
+Manufacturing & Assembly: Requires durable weather-resistant components that can be efficiently produced and packaged.  
+Regulatory Agencies: Require compliance with EPA WaterSense standards and regional water restrictions.
 
 ## Use Cases
 
@@ -33,17 +33,17 @@ Backup power support like solar panel option or back up batteries.
 expandable beyond 8 zones for larger properties.
 
 ### Software / Functionality
-Intuitive mobile app with cloud-based control.  
+Easy going mobile app with cloud-based control.  
 Scheduling with weather integration and soil-moisture responsiveness.  
 Firmware updates must enhance functionality without breaking features.
 
 ### Interactivity & User Experience
-Simple onboarding like guided setup and QR-based quick start).  
+Simple onboarding like guided setup and QR-based quick start.  
 App notifications for rain delays, system faults, and water usage reports.  
 easy design for beginners, including easy-to-read graphs and one-touch start/stop.
 
 ### Customization
-Zone-specific scheduling for appications like lawn, flower bed, and gardens.  
+Zone specific scheduling for appications like lawn, flower bed, and gardens.  
 Optional accessories such as soil moisture sensors and solar charging.  
 Adjustable water-saving modes like eco, standard, and intensive watering.
 
@@ -74,10 +74,10 @@ Sealed housing to prevent water ingress and electrical hazards.
 
 ## Prioritization of Needs
 **High Priority (5):** Reduce water use, reliable auto-watering, durable design, simple install, intuitive app.  
-**Medium Priority (3):** Smart home integration, affordability (<$200), flexible zone control.  
+**Medium Priority (3):** Smart home integration, affordability (less then $200), flexible zone control.  
 **Low Priority (1):** Aesthetic design, expandable accessories.
 
 ## Open Questions
 Should solar charging be integrated into the base unit or offered as an add-on?  
 How can we ensure affordability while meeting advanced functionality benchmarks?  
-Should modular expansion (extra zones, sensors) be built into the first release or added later?
+Should modular expansion such as extra zones and sensors be built into the first release or added later?
