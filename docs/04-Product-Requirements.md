@@ -18,7 +18,6 @@ Manufacturing & Assembly: Requires durable weather-resistant components that can
 Regulatory Agencies: Require compliance with EPA WaterSense standards and regional water restrictions.
 
 ## Use Cases
-
 User Story #1: Emily (Homeowner)  
 Emily is a 29-year-old homeowner and she wants to keep her lawn green during the Arizona summer without raising her water bill to a large degree. She uses the app to set watering zones and relies on the automatic weather-skip feature to avoid waste when it rains.
 
@@ -26,7 +25,6 @@ User Story #2: Miguel (Landscaper)
 Miguel manages irrigation for several properties. He needs a reliable controller that allows remote adjustments with flexible scheduling for multiple zones and accurate reporting so he can prevent overwatering across his clients’ lawns.
 
 ## Design Aspects
-
 ### Hardware / Product Design
 Compact and weatherproof enclosure with IPX4 or higher resistance.  
 Backup power support like solar panel option or back up batteries.  
