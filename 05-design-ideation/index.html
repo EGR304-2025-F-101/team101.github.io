@@ -765,21 +765,762 @@ cur, aut in adhuc crimina <strong>habebat</strong>: pro.</p>
 <table>
 <thead>
 <tr>
-<th style="text-align: right;">requirement / need</th>
-<th style="text-align: center;">feature</th>
-<th>detail</th>
+<th>Requirement</th>
+<th>Feature</th>
+<th>Detail</th>
+<th></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="text-align: right;">product provides clear notifications</td>
-<td style="text-align: center;">buzzer</td>
-<td>the device provides different sounding tones and patterns for each function</td>
+<td>1. Unshakable WiFi &amp; System Stability</td>
+<td>Dual-Band WiFi Support</td>
+<td>Supports both 2.4 GHz and 5 GHz networks to reduce interference and improve router compatibility.</td>
+<td></td>
 </tr>
 <tr>
-<td style="text-align: right;">product provides clear notifications</td>
-<td style="text-align: center;">speaker</td>
-<td>the device can emit full waveforms</td>
+<td>1. Unshakable WiFi &amp; System Stability</td>
+<td>High-Gain Internal Antenna</td>
+<td>Boosts signal reception for reliable connectivity in challenging locations like garages or basements.</td>
+<td></td>
+</tr>
+<tr>
+<td>1. Unshakable WiFi &amp; System Stability</td>
+<td>In-App Connection Diagnostics</td>
+<td>A tool showing WiFi signal strength and server status to help users troubleshoot connection issues.</td>
+<td></td>
+</tr>
+<tr>
+<td>1. Unshakable WiFi &amp; System Stability</td>
+<td>Redundant Cloud Infrastructure</td>
+<td>Utilizes multiple servers with automatic failover to prevent system-wide outages and ensure uptime.</td>
+<td></td>
+</tr>
+<tr>
+<td>1. Unshakable WiFi &amp; System Stability</td>
+<td>Adaptive Channel Switching</td>
+<td>The device automatically changes WiFi channels to avoid network congestion and interference.</td>
+<td></td>
+</tr>
+<tr>
+<td>2. Graceful Offline Functionality</td>
+<td>Onboard Schedule Memory</td>
+<td>Stores the next 30 days of the watering schedule to run perfectly even without an internet connection.</td>
+<td></td>
+</tr>
+<tr>
+<td>2. Graceful Offline Functionality</td>
+<td>Bluetooth Direct Connect Mode</td>
+<td>Allows the app to connect directly to the controller via Bluetooth when WiFi or internet is unavailable.</td>
+<td></td>
+</tr>
+<tr>
+<td>2. Graceful Offline Functionality</td>
+<td>Physical Control Buttons</td>
+<td>Hardware buttons for ""Run Zone"" and ""Stop"" allow for essential manual control at any time.</td>
+<td></td>
+</tr>
+<tr>
+<td>2. Graceful Offline Functionality</td>
+<td>Clear Offline Status Indicator</td>
+<td>A dedicated LED light on the device (e.g., solid amber) clearly shows when it is offline.</td>
+<td></td>
+</tr>
+<tr>
+<td>2. Graceful Offline Functionality</td>
+<td>""Back Online"" Push Notifications</td>
+<td>The app automatically alerts the user's phone once the controller has reconnected after an outage.</td>
+<td></td>
+</tr>
+<tr>
+<td>3. Intelligent Self-Healing &amp; Recovery</td>
+<td>Automatic Reconnect Logic</td>
+<td>After a power or internet loss, the device automatically re-establishes its connection and resumes the schedule.</td>
+<td></td>
+</tr>
+<tr>
+<td>3. Intelligent Self-Healing &amp; Recovery</td>
+<td>System Watchdog Processor</td>
+<td>An internal monitor that automatically reboots the device if the main software becomes unresponsive.</td>
+<td></td>
+</tr>
+<tr>
+<td>3. Intelligent Self-Healing &amp; Recovery</td>
+<td>Multi-Network Credential Storage</td>
+<td>Stores credentials for multiple WiFi networks (e.g., main, guest) and switches if the primary fails.</td>
+<td></td>
+</tr>
+<tr>
+<td>3. Intelligent Self-Healing &amp; Recovery</td>
+<td>Scheduled Self-Reboot</td>
+<td>An optional weekly reboot during off-hours to clear memory and maintain peak performance.</td>
+<td></td>
+</tr>
+<tr>
+<td>3. Intelligent Self-Healing &amp; Recovery</td>
+<td>Proactive Troubleshooting Alerts</td>
+<td>The system identifies recurring issues (like poor signal) and notifies the user with suggested solutions.</td>
+<td></td>
+</tr>
+<tr>
+<td>4. Transparent &amp; Trustworthy Firmware Updates</td>
+<td>Seamless Over-the-Air (OTA) Updates</td>
+<td>Firmware updates are automatically downloaded and installed during non-watering hours.</td>
+<td></td>
+</tr>
+<tr>
+<td>4. Transparent &amp; Trustworthy Firmware Updates</td>
+<td>In-App Update History Log</td>
+<td>Provides a clear list of all firmware updates and what changed in each version, written in plain language.</td>
+<td></td>
+</tr>
+<tr>
+<td>4. Transparent &amp; Trustworthy Firmware Updates</td>
+<td>Automatic Firmware Rollback</td>
+<td>If a new update fails to install correctly, the device automatically reverts to the previous stable version.</td>
+<td></td>
+</tr>
+<tr>
+<td>4. Transparent &amp; Trustworthy Firmware Updates</td>
+<td>Pre-Update System Check</td>
+<td>The device verifies it has a stable connection and power before beginning an update to prevent errors.</td>
+<td></td>
+</tr>
+<tr>
+<td>4. Transparent &amp; Trustworthy Firmware Updates</td>
+<td>Optional ""Beta Channel""</td>
+<td>Allows advanced users to opt-in to test new features and provide feedback before public release.</td>
+<td></td>
+</tr>
+<tr>
+<td>5. Flawless Execution and Reporting</td>
+<td>Detailed Watering History</td>
+<td>An in-app log shows every time a zone ran, its duration, and the reason (scheduled, manual, etc.).</td>
+<td></td>
+</tr>
+<tr>
+<td>5. Flawless Execution and Reporting</td>
+<td>Faulty Valve Detection</td>
+<td>The system monitors electrical currents to detect wiring shorts or faulty solenoids and sends a specific alert.</td>
+<td></td>
+</tr>
+<tr>
+<td>5. Flawless Execution and Reporting</td>
+<td>Start/Completion Push Notifications</td>
+<td>The app sends optional alerts to the user's phone when a scheduled watering cycle starts and ends.</td>
+<td></td>
+</tr>
+<tr>
+<td>5. Flawless Execution and Reporting</td>
+<td>Visual Monthly Usage Reports</td>
+<td>Graphs water usage per zone and estimated savings, making the data easy to understand at a glance.</td>
+<td></td>
+</tr>
+<tr>
+<td>5. Flawless Execution and Reporting</td>
+<td>Data Export Functionality</td>
+<td>Allows users to export their watering history as a CSV file for detailed analysis or record-keeping.</td>
+<td></td>
+</tr>
+<tr>
+<td>6. Hyper-Local &amp; Multi-Source Weather Intelligence</td>
+<td>Personal Weather Station (PWS) Integration</td>
+<td>Lets users link to a specific weather station in their neighborhood for the most accurate local data.</td>
+<td></td>
+</tr>
+<tr>
+<td>6. Hyper-Local &amp; Multi-Source Weather Intelligence</td>
+<td>Adjustable Weather Skips</td>
+<td>User can set specific thresholds for skipping watering due to rain, high wind, or freezing temperatures.</td>
+<td></td>
+</tr>
+<tr>
+<td>6. Hyper-Local &amp; Multi-Source Weather Intelligence</td>
+<td>Multiple Professional Data Sources</td>
+<td>Users can choose between several trusted weather providers or an aggregation of them for best results.</td>
+<td></td>
+</tr>
+<tr>
+<td>6. Hyper-Local &amp; Multi-Source Weather Intelligence</td>
+<td>In-App Weather Forecast</td>
+<td>Displays the upcoming weather forecast directly within the app to help inform watering decisions.</td>
+<td></td>
+</tr>
+<tr>
+<td>6. Hyper-Local &amp; Multi-Source Weather Intelligence</td>
+<td>Smart Saturation Skip</td>
+<td>Prevents watering if the ground is already saturated from previous rainfall, even if more rain isn't forecast.</td>
+<td></td>
+</tr>
+<tr>
+<td>7. Transparent and Adjustable Watering Algorithms</td>
+<td>""Why?"" Algorithm Explanations</td>
+<td>"The app explains schedule adjustments in simple terms</td>
+<td>such as ""Watering was increased by 15% due to high heat."""</td>
+</tr>
+<tr>
+<td>7. Transparent and Adjustable Watering Algorithms</td>
+<td>Detailed Zone Characteristic Setup</td>
+<td>Users can input soil type, plant type, sun exposure, and slope for a highly customized watering baseline.</td>
+<td></td>
+</tr>
+<tr>
+<td>7. Transparent and Adjustable Watering Algorithms</td>
+<td>Simple Adjustment Sliders</td>
+<td>Allows users to easily adjust the balance between ""Maximum Water Savings"" and ""Lush Green Lawn.""</td>
+<td></td>
+</tr>
+<tr>
+<td>7. Transparent and Adjustable Watering Algorithms</td>
+<td>Automatic Cycle and Soak</td>
+<td>Intelligently breaks up long watering times on slopes or in clay soil to prevent wasteful runoff.</td>
+<td></td>
+</tr>
+<tr>
+<td>7. Transparent and Adjustable Watering Algorithms</td>
+<td>Manual Seasonal Adjustment</td>
+<td>Allows users to apply a simple percentage-based adjustment (+/- %) to all watering schedules.</td>
+<td></td>
+</tr>
+<tr>
+<td>8. Proactive Extreme Weather Adjustments</td>
+<td>""Heatwave Protect"" Mode</td>
+<td>"Automatically adds a short</td>
+<td>extra ""cool down"" cycle on extremely hot days to reduce plant stress."</td>
+</tr>
+<tr>
+<td>8. Proactive Extreme Weather Adjustments</td>
+<td>Real-Time Evapotranspiration (ET) Data</td>
+<td>Calculates exactly how much water has been lost from the soil and applies only what is needed.</td>
+<td></td>
+</tr>
+<tr>
+<td>8. Proactive Extreme Weather Adjustments</td>
+<td>Predictive Heatwave Scheduling</td>
+<td>The system looks at the forecast and pre-waters the soil before a heatwave arrives to prepare plants.</td>
+<td></td>
+</tr>
+<tr>
+<td>8. Proactive Extreme Weather Adjustments</td>
+<td>Weather Adjustment Notifications</td>
+<td>The app sends a push notification to alert the user that a schedule change was made due to weather.</td>
+<td></td>
+</tr>
+<tr>
+<td>8. Proactive Extreme Weather Adjustments</td>
+<td>User-Definable Temperature Thresholds</td>
+<td>Lets the user decide what temperature constitutes a ""freeze"" or ""heatwave"" in their specific climate.</td>
+<td></td>
+</tr>
+<tr>
+<td>9. Seamless Integration of External Sensors</td>
+<td>Dedicated Sensor Terminals</td>
+<td>Hardware includes clearly labeled ports for both wired rain sensors and wired soil moisture sensors.</td>
+<td></td>
+</tr>
+<tr>
+<td>9. Seamless Integration of External Sensors</td>
+<td>Wireless Sensor Compatibility</td>
+<td>Built-in radio (e.g., Bluetooth LE, LoRa) supports popular third-party wireless soil moisture sensors.</td>
+<td></td>
+</tr>
+<tr>
+<td>9. Seamless Integration of External Sensors</td>
+<td>Real-Time Sensor Data Display</td>
+<td>The app shows live data from connected sensors, such as current soil moisture percentage.</td>
+<td></td>
+</tr>
+<tr>
+<td>9. Seamless Integration of External Sensors</td>
+<td>Flow Meter Integration</td>
+<td>Supports connecting a flow meter to measure exact water usage in gallons and detect potential leaks.</td>
+<td></td>
+</tr>
+<tr>
+<td>9. Seamless Integration of External Sensors</td>
+<td>Per-Zone Sensor Assignment</td>
+<td>Allows the user to specify which sensor's data should apply to which watering zones for precision control.</td>
+<td></td>
+</tr>
+<tr>
+<td>10. Actionable Water Usage Reporting</td>
+<td>""Gallons Saved"" Dashboard Widget</td>
+<td>The app's home screen shows an estimate of water saved this month compared to a basic timer.</td>
+<td></td>
+</tr>
+<tr>
+<td>10. Actionable Water Usage Reporting</td>
+<td>Estimated Monetary Savings</td>
+<td>Users can input their local water cost to translate gallons saved into an estimated dollar amount.</td>
+<td></td>
+</tr>
+<tr>
+<td>10. Actionable Water Usage Reporting</td>
+<td>Month-Over-Month Comparison Charts</td>
+<td>Visual charts compare the current month's water usage to the previous month or the same month last year.</td>
+<td></td>
+</tr>
+<tr>
+<td>10. Actionable Water Usage Reporting</td>
+<td>""Top Water-Using Zones"" Report</td>
+<td>Helps users identify which zones are consuming the most water and may need adjustment.</td>
+<td></td>
+</tr>
+<tr>
+<td>10. Actionable Water Usage Reporting</td>
+<td>Downloadable Annual Report</td>
+<td>Provides a year-end summary of total water used and saved, which can be used for utility rebate applications.</td>
+<td></td>
+</tr>
+<tr>
+<td>11. Guided, Foolproof Installation Process</td>
+<td>In-App Video Tutorials</td>
+<td>Step-by-step videos are embedded directly into the app's installation guide for easy reference.</td>
+<td></td>
+</tr>
+<tr>
+<td>11. Guided, Foolproof Installation Process</td>
+<td>""Copy My Wires"" Photo Guidance</td>
+<td>The app uses the phone's camera to analyze the old controller's wiring and guide the new setup.</td>
+<td></td>
+</tr>
+<tr>
+<td>11. guided, Foolproof Installation Process</td>
+<td>Tool-less Push-in Terminals</td>
+<td>Wires are connected by simply pushing them into secure, spring-loaded terminals instead of using a screwdriver.</td>
+<td></td>
+</tr>
+<tr>
+<td>11. guided, Foolproof Installation Process</td>
+<td>""Test All Zones"" Function</td>
+<td>A one-touch function at the end of setup that runs each zone for one minute to confirm correct wiring.</td>
+<td></td>
+</tr>
+<tr>
+<td>11. guided, Foolproof Installation Process</td>
+<td>Built-in Bubble Level</td>
+<td>A small level integrated into the hardware casing helps the user mount the device perfectly straight.</td>
+<td></td>
+</tr>
+<tr>
+<td>12. An Intuitive, Uncluttered Mobile App</td>
+<td>Customizable Home Screen Dashboard</td>
+<td>Users can drag and drop their most-used zones or controls to the app's main screen for quick access.</td>
+<td></td>
+</tr>
+<tr>
+<td>12. An Intuitive, Uncluttered Mobile App</td>
+<td>One-Tap Manual Start/Stop</td>
+<td>A large, prominent button allows users to quickly start or stop watering without navigating menus.</td>
+<td></td>
+</tr>
+<tr>
+<td>12. An Intuitive, Uncluttered Mobile App</td>
+<td>""Quick Delay"" Button</td>
+<td>Easily postpone all watering for 24 hours, 48 hours, or 1 week with a single tap.</td>
+<td></td>
+</tr>
+<tr>
+<td>12. An Intuitive, Uncluttered Mobile App</td>
+<td>Natural Language Scheduling</td>
+<td>"In addition to advanced options</td>
+<td>users can create schedules with simple commands like ""Water on Tuesdays at 6 AM."""</td>
+</tr>
+<tr>
+<td>12. An Intuitive, Uncluttered Mobile App</td>
+<td>Dark Mode Interface</td>
+<td>A dark theme option for the app to reduce eye strain and save battery life on OLED screens.</td>
+<td></td>
+</tr>
+<tr>
+<td>13. Truly Flexible &amp; Granular Scheduling</td>
+<td>Per-Zone Schedule Assignment</td>
+<td>Allows different zones (e.g., lawn vs. garden) to be on completely different watering plans.</td>
+<td></td>
+</tr>
+<tr>
+<td>13. Truly Flexible &amp; Granular Scheduling</td>
+<td>Flexible Day Scheduling</td>
+<td>Supports scheduling on specific days of the week, odd/even days, or at custom intervals (e.g., every 3 days).</td>
+<td></td>
+</tr>
+<tr>
+<td>13. Truly Flexible &amp; Granular Scheduling</td>
+<td>""Watering Windows"" Restriction</td>
+<td>Lets users define allowed watering times (e.g., between 4 AM and 8 AM) to comply with local rules.</td>
+<td></td>
+</tr>
+<tr>
+<td>13. Truly Flexible &amp; Granular Scheduling</td>
+<td>Custom Zone Naming and Photos</td>
+<td>"Users can name each zone (e.g.</td>
+<td>"Front Lawn"") and assign a photo for easy identification.</td>
+</tr>
+<tr>
+<td>13. Truly Flexible &amp; Granular Scheduling</td>
+<td>Unlimited Program Start Times</td>
+<td>Allows for multiple watering start times per day on any given schedule, ideal for new seeds.</td>
+<td></td>
+</tr>
+<tr>
+<td>14. Clear System Feedback and Confirmation</td>
+<td>Haptic App Feedback</td>
+<td>The user's phone provides a small vibration to confirm that a button press was successful.</td>
+<td></td>
+</tr>
+<tr>
+<td>14. Clear System Feedback and Confirmation</td>
+<td>""Last Action"" Home Screen Status</td>
+<td>"The app's main screen clearly displays the last completed action</td>
+<td>like ""Zone 4 finished at 6:15 AM."""</td>
+</tr>
+<tr>
+<td>14. Clear System Feedback and Confirmation</td>
+<td>Multi-Color LED Status Light</td>
+<td>A light on the physical controller uses different colors to indicate its status (e.g., blue for watering, green for idle).</td>
+<td></td>
+</tr>
+<tr>
+<td>14. Clear System Feedback and Confirmation</td>
+<td>""Schedule Saved!"" Pop-up</td>
+<td>A clear confirmation message appears in the app after any changes to a watering schedule are saved.</td>
+<td></td>
+</tr>
+<tr>
+<td>14. Clear System Feedback and Confirmation</td>
+<td>Audible Command Chime</td>
+<td>The physical controller can emit a brief, soft chime to confirm it has received a manual command from the app.</td>
+<td></td>
+</tr>
+<tr>
+<td>15. App-Only Security with Guest Access</td>
+<td>""Control Panel Lock"" Toggle</td>
+<td>A setting in the app that disables all the physical buttons on the controller to prevent tampering.</td>
+<td></td>
+</tr>
+<tr>
+<td>15. App-Only Security with Guest Access</td>
+<td>Role-Based ""Landscaper Access""</td>
+<td>The owner can grant temporary access to a landscaper with limited permissions (e.g., manual run only).</td>
+<td></td>
+</tr>
+<tr>
+<td>15. App-Only Security with Guest Access</td>
+<td>Two-Factor Authentication (2FA)</td>
+<td>Secures the primary user account by requiring a code from a phone or email in addition to the password.</td>
+<td></td>
+</tr>
+<tr>
+<td>15. App-Only Security with Guest Access</td>
+<td>User Activity Log</td>
+<td>An in-app log shows which user (owner or guest) initiated each watering action and when.</td>
+<td></td>
+</tr>
+<tr>
+<td>15. App-Only Security with Guest Access</td>
+<td>Critical Change Email Notifications</td>
+<td>The system sends an email to the primary account holder for important changes like a password reset.</td>
+<td></td>
+</tr>
+<tr>
+<td>16. High-Quality, Durable Hardware Design</td>
+<td>IP54+ Weather-Resistant Enclosure</td>
+<td>The hardware casing is rated to protect against dust and splashing water, making it safe for outdoor installation.</td>
+<td></td>
+</tr>
+<tr>
+<td>16. High-Quality, Durable Hardware Design</td>
+<td>UV-Stabilized Plastic Construction</td>
+<td>The plastic casing is designed to resist yellowing, becoming brittle, and cracking when exposed to direct sunlight.</td>
+<td></td>
+</tr>
+<tr>
+<td>16. High-Quality, Durable Hardware Design</td>
+<td>Magnetic Front Cover</td>
+<td>The front cover snaps into place with magnets, providing easy, tool-free access to the wiring terminals.</td>
+<td></td>
+</tr>
+<tr>
+<td>16. High-Quality, Durable Hardware Design</td>
+<td>Spring-Loaded Wire Terminals</td>
+<td>Provides a more secure and reliable connection than traditional screws, which can loosen over time.</td>
+<td></td>
+</tr>
+<tr>
+<td>16. High-Quality, Durable Hardware Design</td>
+<td>Integrated Cord Management</td>
+<td>The back of the controller has built-in posts or channels for neatly wrapping and hiding the excess power cord.</td>
+<td></td>
+</tr>
+<tr>
+<td>17. Modular &amp; Scalable Zone Expansion</td>
+<td>Plug-and-Play Expansion Modules</td>
+<td>Users can easily add more zones (e.g., in 8-zone increments) by plugging in a simple hardware module.</td>
+<td></td>
+</tr>
+<tr>
+<td>17. Modular &amp; Scalable Zone Expansion</td>
+<td>Automatic Module Detection</td>
+<td>Once an expansion module is plugged in, the software automatically detects it and adds the new zones to the app.</td>
+<td></td>
+</tr>
+<tr>
+<td>17. Modular &amp; Scalable Zone Expansion</td>
+<td>Daisy-Chain Capability</td>
+<td>Allows multiple expansion modules to be connected in series to support a large number of zones.</td>
+<td></td>
+</tr>
+<tr>
+<td>17. Modular &amp; Scalable Zone Expansion</td>
+<td>High Maximum Zone Count</td>
+<td>The base controller is designed to support a high total number of zones (e.g., 24 or more) with add-ons.</td>
+<td></td>
+</tr>
+<tr>
+<td>17. Modular &amp; Scalable Zone Expansion</td>
+<td>Adequately Sized Power Supply</td>
+<td>The included power adapter is rated to handle the electrical load of a fully expanded system.</td>
+<td></td>
+</tr>
+<tr>
+<td>18. Compact and Lightweight Form Factor</td>
+<td>Slim, Low-Profile Design</td>
+<td>The controller is significantly smaller than legacy models, allowing it to be installed in tighter spaces.</td>
+<td></td>
+</tr>
+<tr>
+<td>18. Compact and Lightweight Form Factor</td>
+<td>External ""Power Brick"" Adapter</td>
+<td>Using an external power adapter keeps the main controller unit slimmer, cooler, and lighter.</td>
+<td></td>
+</tr>
+<tr>
+<td>18. Compact and Lightweight Form Factor</td>
+<td>Universal Mounting Plate</td>
+<td>The included mounting bracket has multiple screw hole patterns to match those of older, larger controllers.</td>
+<td></td>
+</tr>
+<tr>
+<td>18. Compact and Lightweight Form Factor</td>
+<td>Lightweight Construction</td>
+<td>The device weighs less than one pound, making it easy for a single person to hold and install.</td>
+<td></td>
+</tr>
+<tr>
+<td>18. Compact and Lightweight Form Factor</td>
+<td>Modern Internal Components</td>
+<td>Uses smaller, more efficient electronic components to reduce the overall physical footprint of the device.</td>
+<td></td>
+</tr>
+<tr>
+<td>19. Built-in Pump Relay/Master Valve Support</td>
+<td>Dedicated ""M/P"" Terminal</td>
+<td>A clearly labeled terminal that can be configured in the software to control either a master valve or a pump relay.</td>
+<td></td>
+</tr>
+<tr>
+<td>19. Built-in Pump Relay/Master Valve Support</td>
+<td>""Pump Prime Delay"" Setting</td>
+<td>A software option that allows the user to set a delay between the pump turning on and the zone valve opening.</td>
+<td></td>
+</tr>
+<tr>
+<td>19. Built-in Pump Relay/Master Valve Support</td>
+<td>Over-Current Circuit Protection</td>
+<td>Protects the controller from damage in case of a short circuit in the master valve or pump relay wiring.</td>
+<td></td>
+</tr>
+<tr>
+<td>19. Built-in Pump Relay/Master Valve Support</td>
+<td>Per-Zone Master Valve Assignment</td>
+<td>Allows the user to specify that the master valve should only activate for certain zones, not all of them.</td>
+<td></td>
+</tr>
+<tr>
+<td>19. Built-in Pump Relay/Master Valve Support</td>
+<td>In-App Wiring Diagrams</td>
+<td>The app provides clear, easy-to-follow diagrams for wiring a master valve or pump relay correctly.</td>
+<td></td>
+</tr>
+<tr>
+<td>20. Proactive &amp; Accessible Customer Support</td>
+<td>24/7 In-App Live Chat</td>
+<td>Provides access to live support agents directly through a chat function within the mobile app, day or night.</td>
+<td></td>
+</tr>
+<tr>
+<td>20. Proactive &amp; Accessible Customer Support</td>
+<td>Remote Diagnostic Access</td>
+<td>Allows a support agent (with the user's explicit permission) to view system logs to quickly diagnose problems.</td>
+<td></td>
+</tr>
+<tr>
+<td>20. Proactive &amp; Accessible Customer Support</td>
+<td>Searchable In-App Knowledge Base</td>
+<td>A library of help articles and FAQs is built into the app, allowing users to find answers instantly.</td>
+<td></td>
+</tr>
+<tr>
+<td>20. Proactive &amp; Accessible Customer Support</td>
+<td>""Request a Call"" Feature</td>
+<td>Lets a user request a phone call from the next available support agent without having to wait on hold.</td>
+<td></td>
+</tr>
+<tr>
+<td>20. Proactive &amp; Accessible Customer Support</td>
+<td>Proactive System Health Alerts</td>
+<td>The system automatically emails a user with solutions if it detects a recurring problem like a faulty zone.</td>
+<td></td>
+</tr>
+<tr>
+<td>21. Reliable Smart Home Integration</td>
+<td>Official Alexa and Google Assistant Skills</td>
+<td>Certified integrations allow for reliable voice control to start, stop, and delay watering.</td>
+<td></td>
+</tr>
+<tr>
+<td>21. Reliable Smart Home Integration</td>
+<td>Apple HomeKit Support</td>
+<td>Allows for control via Siri and integration into the Apple Home app for scenes and automations.</td>
+<td></td>
+</tr>
+<tr>
+<td>21. Reliable Smart Home Integration</td>
+<td>IFTTT (If This Then That) Service</td>
+<td>Enables users to create powerful custom automations linking the sprinkler to other apps and devices.</td>
+<td></td>
+</tr>
+<tr>
+<td>21. Reliable Smart Home Integration</td>
+<td>Smart Home Routine Integration</td>
+<td>"The controller can be included as a step in a larger smart home routine (e.g.</td>
+<td>a ""Vacation"" routine)."</td>
+</tr>
+<tr>
+<td>21. Reliable Smart Home Integration</td>
+<td>Publicly Available API</td>
+<td>A documented API allows developers and advanced users to create their own custom integrations.</td>
+<td></td>
+</tr>
+<tr>
+<td>22. Clear, Comprehensive Documentation</td>
+<td>Illustrated Quick Start Guide</td>
+<td>A printed guide with large diagrams and minimal text to get the user started quickly.</td>
+<td></td>
+</tr>
+<tr>
+<td>22. Clear, Comprehensive Documentation</td>
+<td>On-Device QR Codes</td>
+<td>QR codes on the hardware link a user's phone directly to specific installation videos or help articles.</td>
+<td></td>
+</tr>
+<tr>
+<td>22. Clear, Comprehensive Documentation</td>
+<td>In-App Informational Tooltips</td>
+<td>Users can tap on small ""?"" icons throughout the app to get a simple explanation of what each setting does.</td>
+<td></td>
+</tr>
+<tr>
+<td>22. Clear, Comprehensive Documentation</td>
+<td>Searchable Online Manual</td>
+<td>A full, searchable digital manual covers everything from basic setup to advanced topics and troubleshooting.</td>
+<td></td>
+</tr>
+<tr>
+<td>22. Clear, Comprehensive Documentation</td>
+<td>Context-Sensitive Help</td>
+<td>The app can suggest relevant help articles based on the specific screen the user is currently viewing.</td>
+<td></td>
+</tr>
+<tr>
+<td>23. Competitive and Transparent Pricing</td>
+<td>""No Subscription Required"" Guarantee</td>
+<td>All core smart watering and weather-based features are included with the purchase price of the device.</td>
+<td></td>
+</tr>
+<tr>
+<td>23. Competitive and Transparent Pricing</td>
+<td>Tiered Product Models</td>
+<td>The controller is offered in different zone counts (e.g., 8-zone, 12-zone) so customers don't overbuy.</td>
+<td></td>
+</tr>
+<tr>
+<td>23. Competitive and Transparent Pricing</td>
+<td>Online Utility Rebate Calculator</td>
+<td>The product website has a tool to help customers find and apply for local water conservation rebates.</td>
+<td></td>
+</tr>
+<tr>
+<td>23. Competitive and Transparent Pricing</td>
+<td>Clear Accessory Pricing</td>
+<td>The cost for expansion modules and other accessories is clearly stated with no hidden fees.</td>
+<td></td>
+</tr>
+<tr>
+<td>23. Competitive and Transparent Pricing</td>
+<td>Certified Refurbished Program</td>
+<td>Offers officially refurbished units at a discount, providing a lower-cost entry point for customers.</td>
+<td></td>
+</tr>
+<tr>
+<td>24. Fair and Clear Return/Warranty Policy</td>
+<td>3+ Year Hardware Warranty</td>
+<td>"A long-term</td>
+<td>"no-hassle"" warranty that shows the company stands behind its product's quality.</td>
+</tr>
+<tr>
+<td>24. Fair and Clear Return/Warranty Policy</td>
+<td>30-Day Money-Back Guarantee</td>
+<td>A satisfaction guarantee that allows a customer to return the product for any reason within 30 days.</td>
+<td></td>
+</tr>
+<tr>
+<td>24. Fair and Clear Return/Warranty Policy</td>
+<td>Simple Online Warranty Claim Form</td>
+<td>An easy-to-use online form allows customers to file a warranty claim without a long phone call.</td>
+<td></td>
+</tr>
+<tr>
+<td>24. Fair and Clear Return/Warranty Policy</td>
+<td>Advanced Replacement Option</td>
+<td>For warranty claims, a new unit is shipped immediately to minimize downtime for the customer.</td>
+<td></td>
+</tr>
+<tr>
+<td>24. Fair and Clear Return/Warranty Policy</td>
+<td>Plain Language Policy Document</td>
+<td>The full warranty policy is written in simple, easy-to-understand language and is readily accessible.</td>
+<td></td>
+</tr>
+<tr>
+<td>25. Ethical Use of Data</td>
+<td>In-App Privacy Dashboard</td>
+<td>A section in the app that clearly shows what data is being collected and gives the user control over it.</td>
+<td></td>
+</tr>
+<tr>
+<td>25. Ethical Use of Data</td>
+<td>One-Click Data Deletion</td>
+<td>A simple button allows a user to permanently erase their account and all associated data from the servers.</td>
+<td></td>
+</tr>
+<tr>
+<td>25. Ethical Use of Data</td>
+<td>Opt-In for Data Sharing</td>
+<td>Users must explicitly opt-in to share anonymized watering data to help improve the system's algorithms.</td>
+<td></td>
+</tr>
+<tr>
+<td>25. Ethical Use of Data</td>
+<td>No-Sale-of-Data Pledge</td>
+<td>A public commitment from the company that it will not sell user data to third-party marketing companies.</td>
+<td></td>
+</tr>
+<tr>
+<td>25. Ethical Use of Data</td>
+<td>Regular Security Audits</td>
+<td>The company performs and publishes results from regular third-party security audits of its systems.</td>
+<td></td>
 </tr>
 </tbody>
 </table>
