@@ -5,14 +5,12 @@ tags:
 - tag2
 ---
 
-## Intro/overview
+## Introduction
 
-Lorem markdownum gradus, qui largis, nec pater pleno: fatum. Adspexit cursus
-cur, aut in adhuc crimina **habebat**: pro.
+This document details the design ideation for a new smart sprinkler controller. We began with a comprehensive brainstorm of features, which were then distilled into seven critical requirement clusters. These clusters formed the foundation for three distinct product concepts, each targeting a specific user. The following sections present these concepts and the collaborative process used to develop them.
 
 ## Generating Ideas
 
-For each user need and product requirement, brainstorm 5 different product features that could be used to satisfy that requirement.
 
    | Requirement                                        | Feature                                    | Detail                                                                                                                     |                                                                                      |
 |----------------------------------------------------|--------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
@@ -143,7 +141,7 @@ For each user need and product requirement, brainstorm 5 different product featu
 | 25. Ethical Use of Data                            | Regular Security Audits                    | The company performs and publishes results from regular third-party security audits of its systems.                        |                                                                                      |
 
 
-## Step Three : Sort, Rank, and Group
+## Sort, Rank, and Group
 We narrowed the original 25 groups down to the 7 most critical requirement clusters. These clusters capture the top features and values that will drive product development. In creating them, we grouped related ideas, prioritized the most impactful ones, and focused on what directly supports a water-efficient and user-friendly system. The table below presents these clusters along with representative features and the core value each delivers.
 
 | Group | Key Features / Ideas | Core Value |
@@ -172,4 +170,14 @@ The Adaptive Smart Lawn Manager focuses on smarter water management by integrati
 TThe Connected Smart Ecosystem is a premium, fully integrated solution designed for tech-savvy homeowners and large-lawn users. It seamlessly connects with smart home platforms such as Alexa, Google, and HomeKit, while also supporting IFTTT automation for broader ecosystem integration. The system is highly scalable, with modular zone expansion to suit larger properties, and provides advanced water usage analytics paired with an ROI calculator to highlight cost efficiency and transparency. Built on a foundation of trust, it ensures ethical data use with encrypted storage, while proactive customer support, clear warranties, and transparent pricing provide added assurance. This concept is tailored for tech enthusiasts, early adopters, and property managers who prioritize integration, scalability, and long-term reliability.
 ![Alt Text](https://github.com/EGR304-2025-F-101/team101.github.io/blob/main/docs/image/con3.png?raw=true)
 
+## Documentation
 
+### The Process of Our Brainstorm Session
+Our whole team ie. Raj, Isaiah, and Liam—participated equally in our brainstorm session, which we held on Discord. Our process was a collaborative effort from start to finish. We began by having everyone write down their own ideas on paper to get a wide range of thoughts. Then, we came together as a group to share and build on them. Liam collected everyone's notes into one document so nothing was lost. To keep things moving, we each took a primary focus: Liam led the idea generation, Isaiah organized the ideas, and Raj did the concepts.
+
+
+### Guiding Our Ideas
+To make sure our ideas were relevant and targeted, we used a few key resources to guide our thinking. We grounded our brainstorm in our previous project assignments, specifically the User Needs, Benchmarking, and Product Requirements documents. To get an outside perspective, we also dug into Amazon product reviews to understand what real customers were saying. We even used some AI tools to help us sort through that feedback and spot important patterns.
+
+### Organizing the Results
+Once we had all our ideas, we needed to make sense of them. First, we organized them into clusters based on common themes, like putting all the water-saving ideas in one group. After grouping them, we ranked the ideas based on which ones would have the biggest impact for the user. We gave top priority to features that improved water efficiency and were user-friendly, helping us focus on what would deliver the most value.
