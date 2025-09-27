@@ -146,28 +146,15 @@ For each user need and product requirement, brainstorm 5 different product featu
 ## Step Three : Sort, Rank, and Group
 We narrowed the original 25 groups down to the 7 most critical requirement clusters. These clusters capture the top features and values that will drive product development. In creating them, we grouped related ideas, prioritized the most impactful ones, and focused on what directly supports a water-efficient and user-friendly system. The table below presents these clusters along with representative features and the core value each delivers.
 
-| Group                                                      | Key Features / Ideas                                 | Core Value                          |
-|------------------------------------------------------------|------------------------------------------------------|-------------------------------------|
-| Smart Water Management                                     | "- Hyper-local weather data (multi-source forecasts) |                                     |
-| - Soil moisture & rain sensors                             |                                                      |                                     |
-| - Extreme weather auto-adjustments"                        | Saves water and directly lowers the water bill       |                                     |
-| Actionable Water Reporting                                 | "- Daily/weekly/monthly water reports                |                                     |
-| - Estimated bill savings                                   |                                                      |                                     |
-| - Gamified “water saved” goals"                            | Makes water savings visible and rewarding            |                                     |
-| Ease of Use & Setup                                        | "- Guided installation (QR scan + app walkthrough)   |                                     |
-| - Simple                                                   | uncluttered mobile app                               |                                     |
-| - One-tap scheduling                                       | visual feedback"                                     | Anyone can set up and use it easily |
-| Durability & Reliability                                   | "- Weatherproof                                      | UV-resistant outdoor casing (IP67)  |
-| - Self-healing software (auto-restart                      | rollback updates)                                    |                                     |
-| - Offline fallback scheduling"                             | Always works, even in tough conditions               |                                     |
-| Flexible Scheduling & Control                              | "- Per-zone scheduling                               |                                     |
-| - Seasonal templates + sunrise/sunset triggers             |                                                      |                                     |
-| - Voice assistant integration (Alexa/Google/HomeKit)"      | Full control without complexity                      |                                     |
-| Cost Efficiency & Pricing                                  | "- Clear tiered pricing                              |                                     |
-| - ROI calculator (“Save up to X% on your bill in 1 year”)" | Affordable and obviously worth it                    |                                     |
-| Trust & Ethics                                             | "- No data selling                                   | encrypted storage                   |
-| - Transparent firmware updates (logs + rollback)           |                                                      |                                     |
-| - Fair warranty & customer support"                        | Builds long-term trust and brand reputation          |                                     |
+| Group | Key Features / Ideas | Core Value |
+|:---|:---|:---|
+| Smart Water Management | - Hyper-local weather data (multi-source forecasts)<br>- Soil moisture & rain sensors<br>- Extreme weather auto-adjustments | Saves water and directly lowers the water bill |
+| Actionable Water Reporting | - Daily/weekly/monthly water reports<br>- Estimated bill savings<br>- Gamified “water saved” goals | Makes water savings visible and rewarding |
+| Ease of Use & Setup | - Guided installation (QR scan + app walkthrough)<br>- Simple, uncluttered mobile app<br>- One-tap scheduling, visual feedback | Anyone can set up and use it easily |
+| Durability & Reliability | - Weatherproof, UV-resistant outdoor casing (IP67)<br>- Self-healing software (auto-restart, rollback updates)<br>- Offline fallback scheduling | "Always works, even in tough conditions" |
+| Flexible Scheduling & Control | - Per-zone scheduling<br>- Seasonal templates + sunrise/sunset triggers<br>- Voice assistant integration (Alexa/Google/HomeKit) | Full control without complexity |
+| Cost Efficiency & Pricing | - Clear tiered pricing<br>- ROI calculator (“Save up to X% on your bill in 1 year”) | Affordable and obviously worth it |
+| Trust & Ethics | - No data selling, encrypted storage<br>- Transparent firmware updates (logs + rollback)<br>- Fair warranty & customer support | Builds long-term trust and brand reputation |
 
 
 ## Product Concepts
