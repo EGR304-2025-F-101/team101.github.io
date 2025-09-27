@@ -170,7 +170,29 @@ We narrowed the original 25 groups down to the 7 most critical requirement clust
 | - Fair warranty & customer support"                        | Builds long-term trust and brand reputation          |                                     |
 
 
-## Step Four
+## Product Concepts
+### Concept 1
+Concept 1: The Essential Smart Water Saver
+Focus: Affordability, simplicity, and water savings for budget-conscious homeowners.
+Key Features
+
+
+Easy installation with app guidance and QR setup (Ease of Use & Setup)
+
+
+Per-zone scheduling + seasonal templates (Flexible Scheduling & Control)
+
+
+Offline fallback schedules for reliability (Durability & Reliability)
+
+
+Daily/weekly water usage reports with estimated bill savings (Actionable Reporting)
+
+
+Target User: Homeowners new to smart irrigation who want a simple, cost-efficient solution.
+
+
+
 
 Add your different product concepts stuff here
 
