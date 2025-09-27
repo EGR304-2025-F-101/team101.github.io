@@ -159,29 +159,17 @@ We narrowed the original 25 groups down to the 7 most critical requirement clust
 
 ## Product Concepts
 ### Concept 1
-Concept 1: The Essential Smart Water Saver
-Focus: Affordability, simplicity, and water savings for budget-conscious homeowners.
-Key Features
+The Essential Smart Water Saver is designed with affordability, simplicity, and water savings in mind, making it ideal for budget-conscious homeowners. It offers easy installation with app-based guidance and QR code setup for convenience. Users can benefit from flexible per-zone scheduling and seasonal templates, along with offline fallback schedules that ensure reliability. The system also provides daily and weekly water usage reports, including estimated bill savings, giving homeowners clear insights into their consumption. This solution is tailored for individuals new to smart irrigation who seek a simple, cost-effective way to manage their water use efficiently.
+![Alt Text](https://github.com/EGR304-2025-F-101/team101.github.io/blob/main/docs/image/con1.png?raw=true)
 
 
-Easy installation with app guidance and QR setup (Ease of Use & Setup)
+### Concept 2 
+The Adaptive Smart Lawn Manager focuses on smarter water management by integrating hyper local weather forecasts and sensor data, all while keeping setup simple. It automatically adjusts for extreme conditions with features like storm skip, freeze protection, and drought mode. To build user trust, it offers transparent and customizable watering algorithms, complemented by an intuitive mobile app that provides clear system feedback. The device is built with durable, weatherproof hardware to ensure long-lasting reliability. This solution is aimed at homeowners who prioritize sustainability and want to see measurable water savings without compromising on ease of use.
+![Alt Text](https://github.com/EGR304-2025-F-101/team101.github.io/blob/main/docs/image/con2.png?raw=true)
 
 
-Per-zone scheduling + seasonal templates (Flexible Scheduling & Control)
+### Concept 3
+TThe Connected Smart Ecosystem is a premium, fully integrated solution designed for tech-savvy homeowners and large-lawn users. It seamlessly connects with smart home platforms such as Alexa, Google, and HomeKit, while also supporting IFTTT automation for broader ecosystem integration. The system is highly scalable, with modular zone expansion to suit larger properties, and provides advanced water usage analytics paired with an ROI calculator to highlight cost efficiency and transparency. Built on a foundation of trust, it ensures ethical data use with encrypted storage, while proactive customer support, clear warranties, and transparent pricing provide added assurance. This concept is tailored for tech enthusiasts, early adopters, and property managers who prioritize integration, scalability, and long-term reliability.
+![Alt Text](https://github.com/EGR304-2025-F-101/team101.github.io/blob/main/docs/image/con3.png?raw=true)
 
 
-Offline fallback schedules for reliability (Durability & Reliability)
-
-
-Daily/weekly water usage reports with estimated bill savings (Actionable Reporting)
-
-
-Target User: Homeowners new to smart irrigation who want a simple, cost-efficient solution.
-
-
-
-
-Add your different product concepts stuff here
-
-## Step Six (video link)
-Embedded a YouTube video that covers the 
