@@ -90,7 +90,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#introduction" class="md-skip">
+        <a href="#block-diagram-process-diagram-and-message-structure" class="md-skip">
           Skip to content
         </a>
       
@@ -499,6 +499,8 @@
       <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
       
       
+        
+      
       
         <label class="md-nav__link md-nav__link--active" for="__toc">
           
@@ -527,6 +529,8 @@
   
   
   
+    
+  
   
     <label class="md-nav__title" for="__toc">
       <span class="md-nav__icon md-icon"></span>
@@ -553,9 +557,33 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#images" class="md-nav__link">
+  <a href="#block-diagram" class="md-nav__link">
     <span class="md-ellipsis">
-      Images
+      Block Diagram
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Block Diagram">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#key-features" class="md-nav__link">
+    <span class="md-ellipsis">
+      Key Features
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#process-diagram" class="md-nav__link">
+    <span class="md-ellipsis">
+      Process Diagram
     </span>
   </a>
   
@@ -698,6 +726,8 @@
   
   
   
+    
+  
   
     <label class="md-nav__title" for="__toc">
       <span class="md-nav__icon md-icon"></span>
@@ -724,9 +754,33 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#images" class="md-nav__link">
+  <a href="#block-diagram" class="md-nav__link">
     <span class="md-ellipsis">
-      Images
+      Block Diagram
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Block Diagram">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#key-features" class="md-nav__link">
+    <span class="md-ellipsis">
+      Key Features
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#process-diagram" class="md-nav__link">
+    <span class="md-ellipsis">
+      Process Diagram
     </span>
   </a>
   
@@ -791,22 +845,28 @@
   
 
 
-  <h1>Team Block Diagram</h1>
-
-<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="team-block-diagram.png" data-desc-position="bottom"><img alt="Team Block Diagram" src="team-block-diagram.png"></a>
-<em>Figure 1: Core system architecture showing hub, microcontroller boards, and sensor/valve connections.</em></p>
+<h1 id="block-diagram-process-diagram-and-message-structure">Block Diagram, Process Diagram, and Message Structure</h1>
 <h2 id="introduction">Introduction</h2>
-<p>Our team is developing a <strong>smart sprinkler controller</strong> designed for reliability, adaptability, and user transparency. The system builds on collaborative design ideation, where we clustered features into requirements like <em>unshakable WiFi stability</em>, <em>graceful offline functionality</em>, and <em>seamless sensor integration</em>. This block diagram shows how the boards communicate through a central hub using an 8-pin ribbon cable to manage connectivity, control, and data.</p>
+<p>Our team is developing a smart sprinkler controller designed for reliability, adaptability, and user transparency. The system builds on collaborative design ideation, where we clustered features into requirements like unshakable WiFi stability, graceful offline functionality, and seamless sensor integration. This block diagram shows how the boards communicate through a central hub using an 8-pin ribbon cable to manage connectivity, control, and data.</p>
 <h2 id="research-question">Research Question</h2>
 <ul>
 <li>How can we design a modular, reliable sprinkler system that functions both online and offline?</li>
 <li>What hardware and software strategies ensure self-healing, recovery, and transparency for the user?</li>
 <li>How can our design scale to different types of users (basic homeowner, tech-enthusiast, or sustainability-focused)?</li>
 </ul>
-<h2 id="images">Images</h2>
-<p><strong>Figure 1: Team Block Diagram</strong> – Core system architecture showing hub, microcontroller boards, and sensor/valve connections.<br>
-<strong>Figure 2: Dead Bug Circuit</strong> – Early PCB working prototype for sensor integration testing.<br>
-<strong>Figure 3: Innovation Showcase Spring ’25</strong> – STEM-themed demonstration project aimed at K–12 students to highlight engineering design concepts.  </p>
+<h2 id="block-diagram">Block Diagram</h2>
+<p>The team block diagram illustrates the high-level architecture of our smart sprinkler controller. It uses a daisy-chain topology (as discussed in our team meeting) with three PIC18F57Q43 Curiosity Nano microcontroller boards: one for sensors (Isaiah), one for central processing and WiFi (Raj), and one for actuators (Liam). Interconnections are via 8-pin ribbon cables, with pins 1-7 mapped for shared communications (e.g., I2C for data exchange) and pin 8 reserved for ground. This minimizes interconnections while allowing modular expansion for additional zones or sensors.</p>
+<h3 id="key-features">Key Features</h3>
+<ul>
+<li><strong>Sensor Board (Isaiah):</strong> Interfaces with soil moisture, rain, and temperature sensors to provide hyper-local data for weather skips and saturation detection.</li>
+<li><strong>Central Controller Board (Raj):</strong> Handles scheduling, WiFi connectivity for cloud integration, offline storage (e.g., 30-day schedules), and user feedback via LEDs/buttons.</li>
+<li><strong>Actuator Board (Liam):</strong> Controls zone valves and pump relays based on commands from the central board, supporting fault detection and modular scalability.</li>
+</ul>
+<p>Each board meets minimum requirements with at least one sensor or actuator, and risks are de-risked by distributing functions (e.g., central fallback to offline mode if sensors fail).</p>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="path/to/block_diagram.png" data-desc-position="bottom"><img alt="Block Diagram" src="path/to/block_diagram.png"></a><br>
+<em>Note: Replace <code>path/to/block_diagram.png</code> with the actual path to your exported PNG.</em></p>
+<h2 id="process-diagram">Process Diagram</h2>
+<p>The process diagram outlines the system's operational flow, from data collection to watering execution. It ensures graceful offline functionality (e.g., using stored schedules during outages) and intelligent self-healing (e.g., auto-reconnect after power loss). We used a flowchart to visualize this, focusing on decision points for weather adjustments, sensor integration, and user overrides.</p>
 <h2 id="results">Results</h2>
 <ol>
 <li>Identified 7 core requirement clusters from brainstorming.</li>
@@ -815,12 +875,10 @@
 </ol>
 <h2 id="conclusions-and-future-work">Conclusions and Future Work</h2>
 <p>Our smart sprinkler system balances reliability, transparency, and sustainability. Next steps include refining hardware prototypes, testing offline resilience, and validating weather-based watering adjustments. Future iterations will focus on expanding integration with external sensors and refining the user app experience.</p>
-<hr>
 <h2 id="external-links">External Links</h2>
 <ul>
 <li><a href="https://idealab.asu.edu">ASU IdeaLab</a></li>
 </ul>
-<hr>
 <h2 id="references">References</h2>
 <p><em>(Insert references from technical articles, standards, or course readings here.)</em></p>
 
