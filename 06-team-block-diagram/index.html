@@ -559,66 +559,6 @@
     </span>
   </a>
   
-    <nav class="md-nav" aria-label="Block Diagram">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#key-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      Key Features
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#process-diagram" class="md-nav__link">
-    <span class="md-ellipsis">
-      Process Diagram
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#results" class="md-nav__link">
-    <span class="md-ellipsis">
-      Results
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#conclusions-and-future-work" class="md-nav__link">
-    <span class="md-ellipsis">
-      Conclusions and Future Work
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#external-links" class="md-nav__link">
-    <span class="md-ellipsis">
-      External Links
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#references" class="md-nav__link">
-    <span class="md-ellipsis">
-      References
-    </span>
-  </a>
-  
 </li>
       
     </ul>
@@ -754,66 +694,6 @@
     </span>
   </a>
   
-    <nav class="md-nav" aria-label="Block Diagram">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#key-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      Key Features
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#process-diagram" class="md-nav__link">
-    <span class="md-ellipsis">
-      Process Diagram
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#results" class="md-nav__link">
-    <span class="md-ellipsis">
-      Results
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#conclusions-and-future-work" class="md-nav__link">
-    <span class="md-ellipsis">
-      Conclusions and Future Work
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#external-links" class="md-nav__link">
-    <span class="md-ellipsis">
-      External Links
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#references" class="md-nav__link">
-    <span class="md-ellipsis">
-      References
-    </span>
-  </a>
-  
 </li>
       
     </ul>
@@ -842,37 +722,15 @@
   <h1>Team Block Diagram</h1>
 
 <h2 id="introduction">Introduction</h2>
-<p>Our team is developing a smart sprinkler controller designed for reliability, adaptability, and user transparency. The system builds on collaborative design ideation, where we clustered features into requirements like unshakable WiFi stability, graceful offline functionality, and seamless sensor integration. This block diagram shows how the boards communicate through a central hub using an 8-pin ribbon cable to manage connectivity, control, and data.</p>
+<p>The system consists of three interconnected subsystems—Control, Sensor, and Motor—each built using the PIC18F57Q43 Curiosity Nano. The Control unit processes sensor inputs and sends commands to the motor subsystem through 8-pin connectors, enabling modular and coordinated operation.</p>
 <h2 id="research-question">Research Question</h2>
 <p>How can we design a modular, reliable sprinkler system that functions both online and offline?
 What hardware and software strategies ensure self-healing, recovery, and transparency for the user?
 How can our design scale to different types of users (basic homeowner, tech-enthusiast, or sustainability-focused)?</p>
 <h2 id="block-diagram">Block Diagram</h2>
-<p>The team block diagram illustrates the high-level architecture of our smart sprinkler controller. It uses a daisy-chain topology (as discussed in our team meeting) with three PIC18F57Q43 Curiosity Nano microcontroller boards: one for sensors (Isaiah), one for central processing and WiFi (Raj), and one for actuators (Liam). Interconnections are via 8-pin ribbon cables, with pins 1-7 mapped for shared communications (e.g., I2C for data exchange) and pin 8 reserved for ground. This minimizes interconnections while allowing modular expansion for additional zones or sensors.</p>
-<h3 id="key-features">Key Features</h3>
-<ul>
-<li><strong>Sensor Board (Isaiah):</strong> Interfaces with soil moisture, rain, and temperature sensors to provide hyper-local data for weather skips and saturation detection.</li>
-<li><strong>Central Controller Board (Raj):</strong> Handles scheduling, WiFi connectivity for cloud integration, offline storage (e.g., 30-day schedules), and user feedback via LEDs/buttons.</li>
-<li><strong>Actuator Board (Liam):</strong> Controls zone valves and pump relays based on commands from the central board, supporting fault detection and modular scalability.</li>
-</ul>
-<p>Each board meets minimum requirements with at least one sensor or actuator, and risks are de-risked by distributing functions (e.g., central fallback to offline mode if sensors fail).</p>
-<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="path/to/block_diagram.png" data-desc-position="bottom"><img alt="Block Diagram" src="path/to/block_diagram.png"></a>  </p>
-<h2 id="process-diagram">Process Diagram</h2>
-<p>The process diagram outlines the system's operational flow, from data collection to watering execution. It ensures graceful offline functionality (e.g., using stored schedules during outages) and intelligent self-healing (e.g., auto-reconnect after power loss). We used a flowchart to visualize this, focusing on decision points for weather adjustments, sensor integration, and user overrides.</p>
-<h2 id="results">Results</h2>
-<ol>
-<li>Identified 7 core requirement clusters from brainstorming.</li>
-<li>Developed 3 product concepts, each targeting a different type of user.</li>
-<li>Designed a modular block diagram architecture to support flexible expansion.</li>
-</ol>
-<h2 id="conclusions-and-future-work">Conclusions and Future Work</h2>
-<p>Our smart sprinkler system balances reliability, transparency, and sustainability. Next steps include refining hardware prototypes, testing offline resilience, and validating weather-based watering adjustments. Future iterations will focus on expanding integration with external sensors and refining the user app experience.</p>
-<h2 id="external-links">External Links</h2>
-<ul>
-<li><a href="https://idealab.asu.edu">ASU IdeaLab</a></li>
-</ul>
-<h2 id="references">References</h2>
-<p><em>(Insert references from technical articles, standards, or course readings here.)</em></p>
+<p>This block diagram illustrates the architecture of the smart water saver system, which is divided into three interconnected modules.</p>
+<p>The diagram shows the signal flow starting from the Sensor module (Isaiah), which measures soil moisture and sends analog data to the central Control module (Ragul Raj). The Control unit processes this information and sends a digital signal to the Motor module (Liam), which uses an H-Bridge circuit to activate the water pump. While independently powered, all modules share a common ground for signal integrity, and standardized 8-pin connectors link the subsystems. This closed-loop design ensures efficient and automated watering.</p>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="https://github.com/EGR304-2025-F-101/team101.github.io/blob/main/docs/image/team-block-diagram-hub.drawio.png?raw=true" data-desc-position="bottom"><img alt="Block Diagram" src="https://github.com/EGR304-2025-F-101/team101.github.io/blob/main/docs/image/team-block-diagram-hub.drawio.png?raw=true"></a>  </p>
 
 
 
