@@ -7,11 +7,11 @@ tags:
 <center>
 <font size="8">Projectz<br>
 <font size="5">Team 101<br>
-**Submission: September, 05, 2025**<br>
+**Submission: October, 24, 2025**<br>
 Fall and 2025<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
-Liam, Isaiah, and Raj<br>
+Myles, Liam, Isaiah, and Raj<br>
   
 
 </center>
@@ -26,7 +26,7 @@ Liam, Isaiah, and Raj<br>
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
-| Ragul Raj RG #1        | [rrangasa.GitHub](https://rrangasa.github.io/EGR304raj.github.io/) |
-| Name #2                | link |
+| Ragul Raj RG         | [rrangasa.GitHub](https://rrangasa.github.io/EGR304raj.github.io/) |
+| Isaiah LaCombe       | [ILaCombe.GitHub](https://isaiahelixer.github.io)|
 | Name #3                | link |
 | Name #4                | link |
