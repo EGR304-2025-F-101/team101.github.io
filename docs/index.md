@@ -18,6 +18,7 @@ Myles, Liam, Isaiah, and Raj<br>
 
 ## Team Introduction
 Welcome to Team 101 Water-Efficient Lawn Watering System.  
+
 We are a small group of engineering students working together to design and build a smart watering system that helps save water while keeping lawns healthy. Our goal is to make something simple, reliable, and easy for anyone to use whether you’re a homeowner, renter, or just want to take care of your watering needs without wasting water.
 
 We started this project to learn by hands-on experience with real engineering work, grow our skills, and build something we’re proud to share. Each of us focuses on a part of the system, like controls, sensors, motors, and we bring it all together into one working design.
