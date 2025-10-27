@@ -30,7 +30,7 @@ If you’d like to see more about our work, please check out the tabs above!
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
-| Ragul Raj RG         | [rrangasa.GitHub](https://rrangasa.github.io/EGR304raj.github.io/) |
+| Ragul Raj RG         | [RRangasa.GitHub](https://rrangasa.github.io/EGR304raj.github.io/) |
 | Isaiah LaCombe       | [ILaCombe.GitHub](https://isaiahelixer.github.io)|
-| Liam Mabbutt         | [lmabbutt.github](https://lmabbutt.github.io/) |
+| Liam Mabbutt         | [lMabbutt.Github](https://lmabbutt.github.io/) |
 | Myles White          | [MWhite.GitHub](https://mcwhit14.github.io/EGR304DataSheetTemplate/) |
