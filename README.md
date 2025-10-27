@@ -1,15 +1,19 @@
-This is a template to help you get started with the team's GitHub Report. Use this template to help guide your team through the initial setup process.
+# EGR 304 Team 101 - Smart Watering System
 
-You will need to add additional files per team assignment.
-# Remove ALL unused ITEMS currently in the Appendix before submitting the report for the External review!
-The three items currently there are placeholders and could serve as possible resources.
+This is our EGR 304 embedded systems design project at ASU. We're building a water-efficient lawn watering system that helps people save water and maintain their lawn automatically.
 
-## Tips if the template does not initially publish/update correctly:
-If, after checking these [settings](https://embedded-systems-design.github.io/fork-report-website/#settings-to-check/), you often find that renaming the workflow file initiates builds (for whatever reason).
+## Team
 
-Either on your computer or on the GitHub website,
-1. Navigate to the files of your repository in the .github/workflows/.
-1. Rename **pages.yml** to something else (**main.yml** worked for me).
-1 Stage, commit, and push your files.
-1. Check the "actions" tab (found in your repository's main GitHub page) to see that your commit is triggering the **"mkdocs-build"** action.
-A video detailing the steps to check your build process can be viewed [here.](https://www.youtube.com/watch?v=8EgFkG2HHxM/) 
+- **Ragul Raj RG** - [GitHub](https://rrangasa.github.io/EGR304raj.github.io/)
+- **Isaiah LaCombe** - [GitHub](https://isaiahelixer.github.io)
+- **Liam Mabbutt** - [GitHub](https://lmabbutt.github.io/)
+- **Myles White** - [GitHub](https://mcwhit14.github.io/EGR304DataSheetTemplate/)
+
+## View Our Documentation
+
+[Check out our full documentation here](https://egr304-2025-f-101.github.io/team101.github.io/)
+
+## Class Info
+
+Arizona State University | EGR 304 Embedded Systems Design | Fall 2025
+
