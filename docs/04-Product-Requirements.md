@@ -39,7 +39,7 @@ Firmware updates must enhance functionality without breaking features.
 Simple onboarding like guided setup and QR-based quick start.  
 App notifications for rain delays, system faults, and water usage reports.  
 easy design for beginners, including easy-to-read graphs and one-touch start/stop.
-Real Time Audio feedback when hardware settings change. 
+Real Time Audio feedback when hardware state change. 
 
 ### Customization
 Zone specific scheduling for appications like lawn, flower bed, and gardens.  
