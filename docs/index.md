@@ -7,7 +7,7 @@ tags:
 <center>
 <font size="8">Projectz<br>
 <font size="5">Team 101<br>
-**Submission: October, 24, 2025**<br>
+**Submission: October, 27, 2025**<br>
 Fall and 2025<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
@@ -28,5 +28,5 @@ Myles, Liam, Isaiah, and Raj<br>
 | ---------------------- | -----------------------|
 | Ragul Raj RG         | [rrangasa.GitHub](https://rrangasa.github.io/EGR304raj.github.io/) |
 | Isaiah LaCombe       | [ILaCombe.GitHub](https://isaiahelixer.github.io)|
-| Liam Mabbutt                | [lmabbutt.github](https://lmabbutt.github.io/) |
-| Myles White              | [MWhite.GitHub](https://mcwhit14.github.io/EGR304DataSheetTemplate/) |
+| Liam Mabbutt         | [lmabbutt.github](https://lmabbutt.github.io/) |
+| Myles White          | [MWhite.GitHub](https://mcwhit14.github.io/EGR304DataSheetTemplate/) |
