@@ -148,7 +148,7 @@ We narrowed the original 25 groups down to the 7 most critical requirement clust
 |:---|:---|:---|
 | Smart Water Management | - Hyper-local weather data (multi-source forecasts)<br>- Soil moisture & rain sensors<br>- Extreme weather auto-adjustments | Saves water and directly lowers the water bill |
 | Actionable Water Reporting | - Daily/weekly/monthly water reports<br>- Estimated bill savings<br>- Gamified “water saved” goals | Makes water savings visible and rewarding |
-| Ease of Use & Setup | - Guided installation (QR scan + app walkthrough)<br>- Simple, uncluttered mobile app<br>- One-tap scheduling, visual feedback | Anyone can set up and use it easily |
+| Ease of Use & Setup | - Guided installation (QR scan + app walkthrough)<br>- Simple, uncluttered mobile app<br>-Audio feedback <br>- One-tap scheduling, visual feedback | Anyone can set up and use it easily |
 | Durability & Reliability | - Weatherproof, UV-resistant outdoor casing (IP67)<br>- Self-healing software (auto-restart, rollback updates)<br>- Offline fallback scheduling | "Always works, even in tough conditions" |
 | Flexible Scheduling & Control | - Per-zone scheduling<br>- Seasonal templates + sunrise/sunset triggers<br>- Voice assistant integration (Alexa/Google/HomeKit) | Full control without complexity |
 | Cost Efficiency & Pricing | - Clear tiered pricing<br>- ROI calculator (“Save up to X% on your bill in 1 year”) | Affordable and obviously worth it |
@@ -173,7 +173,7 @@ TThe Connected Smart Ecosystem is a premium, fully integrated solution designed 
 ## Documentation
 
 ### The Process of Our Brainstorm Session
-Our whole team ie. Raj, Isaiah, and Liam—participated equally in our brainstorm session, which we held on Discord. Our process was a collaborative effort from start to finish. We began by having everyone write down their own ideas on paper to get a wide range of thoughts. Then, we came together as a group to share and build on them. Liam collected everyone's notes into one document so nothing was lost. To keep things moving, we each took a primary focus: Liam led the idea generation, Isaiah organized the ideas, and Raj did the concepts.
+Our whole team ie. Raj, Isaiah, Myles and Liam—participated equally in our brainstorm session, which we held on Discord. Our process was a collaborative effort from start to finish. We began by having everyone write down their own ideas on paper to get a wide range of thoughts. Then, we came together as a group to share and build on them. Liam collected everyone's notes into one document so nothing was lost. To keep things moving, we each took a primary focus: Liam led the idea generation, Isaiah organized the ideas, and Raj did the concepts.
 
 
 ### Guiding Our Ideas
