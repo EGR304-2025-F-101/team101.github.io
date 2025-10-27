@@ -15,5 +15,5 @@ This block diagram illustrates the architecture of the smart water saver system,
 The diagram shows the signal flow starting from the Sensor module (Isaiah), which measures soil moisture and sends analog data to the central Control module (Ragul Raj). The Control unit processes this information and sends a digital signal to the Motor module (Liam), which uses an H-Bridge circuit to activate the water pump. While independently powered, all modules share a common ground for signal integrity, and standardized 8-pin connectors link the subsystems. This closed-loop design ensures efficient and automated watering.
 
 
-![Block Diagram](https://github.com/EGR304-2025-F-101/team101.github.io/blob/main/docs/image/team-block-diagram-hub.drawio.png?raw=true)  
+![Block Diagram](https://github.com/EGR304-2025-F-101/team101.github.io/blob/main/docs/image/Updated_team-block-diagram-hub.drawio.png?raw=true)  
 
