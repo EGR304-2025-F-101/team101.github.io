@@ -2,7 +2,7 @@
 title: Team Block Diagram
 ---
 ## Introduction
-The system consists of three interconnected subsystems—Control, Sensor, and Motor with each built using the PIC18F57Q43 Curiosity Nano. The Control unit processes sensor inputs and sends commands to the motor subsystem through 8-pin connectors, enabling modular and coordinated operation.
+The system consists of Four interconnected subsystems—Control, Sensor, Speaker and Motor with each built using the PIC18F57Q43 Curiosity Nano. The Control unit processes sensor inputs and sends commands to the motor subsystem through 8-pin connectors, enabling modular and coordinated operation.
 
 ## Research Question
 How can we design a modular, reliable sprinkler system that functions both online and offline?
