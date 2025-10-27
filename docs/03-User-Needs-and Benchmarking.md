@@ -197,7 +197,8 @@ Easy Installation - Installs or replaces in around 15 minutes with basic tools. 
 3. **Convenience & Usability**  
 -The device should be easy to install.  
 -The device should requires minimal parts/components.  
--The device has an intuitive app/user interface.  
+-The device has an intuitive app/user interface.
+-The Device has audio notification to notify when state is changed.
 -Main Need: *The device should be simple and accessible for all users.*  
 
 5. **Durability & Reliability**  
