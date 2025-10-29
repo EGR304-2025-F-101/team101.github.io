@@ -4,7 +4,8 @@ title: Software Proposal
 
 ## Introduction
 
-This software design outlines an automated irrigation control system composed of four integrated subsystems: the Speaker, Sensor Board, Main Hub, and Sprinkler Actuator. The Sensor Board continuously monitors soil moisture levels and transmits data to the Main Hub, which analyzes the readings to determine when watering is needed. When triggered, the Main Hub activates the Sprinkler Actuator to water for a set duration while signaling status updates through the Speaker subsystem. Together, these components create a responsive and efficient irrigation solution that automates watering based on real-time soil conditions.
+This system comprises four subsystems: Main Hub, Sensor Board, Motor Board (sprinkler actuator), and Speaker Board. The Main Hub periodically requests soil‑moisture data from the Sensor Board. After receiving the reading, it compares it against a user-set threshold from the potentiometer. If the soil is drier than the threshold (i.e., needs to be more moist), the Main Hub commands the Motor Board to run the sprinkler for the programmed duration and simultaneously signals the Speaker Board to announce the status. This poll–compare–act loop repeats to maintain the desired soil moisture.
+
 
 ![Activity Diagram](https://raw.githubusercontent.com/EGR304-2025-F-101/team101.github.io/refs/heads/main/docs/image/software-proposal-img.png)
 
