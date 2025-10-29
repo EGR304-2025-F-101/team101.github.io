@@ -157,7 +157,7 @@ We narrowed the original 25 groups down to the 7 most critical requirement clust
 
 ## Product Concepts
 ### Concept 1
-The Essential Smart Water Saver is designed with affordability, simplicity, and water savings in mind, making it ideal for budget-conscious homeowners. It offers easy installation with app-based guidance and QR code setup for convenience. Users can benefit from flexible per-zone scheduling and seasonal templates, along with offline fallback schedules that ensure reliability. The system also provides daily and weekly water usage reports, including estimated bill savings, giving homeowners clear insights into their consumption. This solution is tailored for individuals new to smart irrigation who seek a simple, cost-effective way to manage their water use efficiently.
+The Essential Smart Water Saver is designed with affordability, simplicity, and water savings in mind, making it ideal for budget-conscious homeowners. It offers easy installation with app-based guidance and QR code setup for convenience. Users can benefit from flexible per-zone scheduling and seasonal templates, along with offline fallback schedules that ensure reliability. The system also provides daily and weekly water usage reports, including estimated bill savings, giving homeowners clear insights into their consumption. This solution is tailored for individuals new to smart irrigation who seek a simple, cost-effective way to manage their water use efficiently. Additionally, the system uses a modular design with detachable sensors and sprinkler modules so components can be replaced easily and upgraded as newer, compatible sensors become available, improving serviceability and future‑proofing the platform.
 ![Alt Text](https://github.com/EGR304-2025-F-101/team101.github.io/blob/main/docs/image/con1.png?raw=true)
 
 
@@ -181,3 +181,6 @@ To make sure our ideas were relevant and targeted, we used a few key resources t
 
 ### Organizing the Results
 Once we had all our ideas, we needed to make sense of them. First, we organized them into clusters based on common themes, like putting all the water-saving ideas in one group. After grouping them, we ranked the ideas based on which ones would have the biggest impact for the user. We gave top priority to features that improved water efficiency and were user-friendly, helping us focus on what would deliver the most value.
+
+### Conclusion
+The team selected Concept 1 (Essential Smart Water Saver) because it aligns with course scope while delivering core goals of reliability and water savings. To remain in scope, on‑device interaction will use simple physical controls (potentiometer and push button) instead of a screen or full mobile app. The system will follow a centralized hub‑and‑spoke architecture with modular, detachable sensors and actuator/sprinkler modules, enabling straightforward replacement, upgrades as new sensors become available, and scalable integration as the system grows. 
