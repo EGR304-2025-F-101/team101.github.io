@@ -182,7 +182,7 @@ To make sure our ideas were relevant and targeted, we used a few key resources t
 ### Organizing the Results
 Once we had all our ideas, we needed to make sense of them. First, we organized them into clusters based on common themes, like putting all the water-saving ideas in one group. After grouping them, we ranked the ideas based on which ones would have the biggest impact for the user. We gave top priority to features that improved water efficiency and were user-friendly, helping us focus on what would deliver the most value.
 
->Access our brainstroming notes [here](image/304designandbrainstormNOTES.pdf)
+>Access our brainstroming notes [here](image/304designandbrainstormNOTES.pdf) (PDF instead of Snapshots)
 
 ### Conclusion
 The team selected Concept 1 (Essential Smart Water Saver) because it aligns with course scope while delivering core goals of reliability and water savings. To remain in scope, on‑device interaction will use simple physical controls (potentiometer and push button) instead of a screen or full mobile app. The system will follow a centralized hub‑and‑spoke architecture with modular, detachable sensors and actuator/sprinkler modules, enabling straightforward replacement, upgrades as new sensors become available, and scalable integration as the system grows. 
