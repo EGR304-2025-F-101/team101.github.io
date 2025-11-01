@@ -7,7 +7,7 @@ tags:
 # User Needs and Benchmarking
 
 ## Introduction  
-The purpose of this page is to identify user needs from benchmarking competitive devices and to integrate those needs into a weighted set of design goals. Our group is designing a Water-Efficient Lawn Watering System project. Our aim to help homeowners, renters, and those who want to maintain healthy lawns and landscaping while being conscious of water usage, cost, and concern for the environmental.
+The purpose of this page is to identify user needs from benchmarking competitive devices and to integrate those needs into a weighted set of design goals. Our group is designing a Water Efficient Lawn Watering System project. Our aim to help homeowners, renters, and those who want to maintain healthy lawns and landscaping while being conscious of water usage, cost, and concern for the environmental.
 
 ## Benchmarking Competitive Products
 
