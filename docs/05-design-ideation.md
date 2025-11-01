@@ -9,7 +9,7 @@ tags:
 
 This document details the design ideation for a new smart sprinkler controller. We began with a comprehensive brainstorm of features, which were then distilled into seven critical requirement clusters. These clusters formed the foundation for three distinct product concepts, each targeting a specific user. The following sections present these concepts and the collaborative process used to develop them.
 
-## Generating Ideas (Brainstroming)
+## Generating Ideas 
 
 
    | Requirement                                        | Feature                                    | Detail                                                                                                                     |                                                                                      |
