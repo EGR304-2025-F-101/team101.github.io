@@ -7,7 +7,7 @@ tags:
 <center>
 <font size="8">Projectz<br>
 <font size="5">Team 101<br>
-**Submission: October, 31, 2025**<br>
+**Submission: November, 10, 2025**<br>
 Fall and 2025<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
