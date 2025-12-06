@@ -13,7 +13,7 @@ Fall 2025<br>
 **EGR 304**<br>
 Myles, Liam, Isaiah, and Raj<br>
   
-<img width="745" height="1000" alt="Screenshot 2025-12-06 153015" src="https://github.com/user-attachments/assets/1cf8b062-9850-4aba-bc44-c85c9b1314c0" />
+<img width="445" height="700" alt="Screenshot 2025-12-06 153015" src="https://github.com/user-attachments/assets/1cf8b062-9850-4aba-bc44-c85c9b1314c0" />
 
 ## Team Introduction
 Welcome to Team 101’s Water-Efficient Lawn Watering System.
