@@ -4,13 +4,13 @@ title: Resources
 
 ## Team Images  
 
-![Figure 1: Showing 3 of the 4 connected boards](https://github.com/user-attachments/assets/5bae2960-b067-4c7a-9036-3e5e43d75bfb)
+<img width="445" height="700" alt="Screenshot 2025-12-06 153015" src="https://github.com/user-attachments/assets/5bae2960-b067-4c7a-9036-3e5e43d75bfb" />  
 
-*Figure 1: Showing 3 of the 4 connected boards*
+*Figure 1: Showing 3 of the 4 Connected boards*  
 
-![Figure 2: Showing a component populated view of the soil sensor subsystem](https://github.com/user-attachments/assets/7c09ae7b-2a87-429f-87ea-ca9ba7fdabef)
+<img width="1900" height="450" alt="Screenshot 2025-12-06 153352" src="https://github.com/user-attachments/assets/7c09ae7b-2a87-429f-87ea-ca9ba7fdabef" />  
 
-*Figure 2: Showing a component populated view of the soil sensor subsystem*
+*Figure 2: Showing a component populated view of the soil sensor subsystem.*  
   
 ## Videos  
 If you have videos demonstrating your final system, upload them to YouTube and embed them directly below using the HTML embed code.
