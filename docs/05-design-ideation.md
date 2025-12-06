@@ -204,7 +204,68 @@ Hardware Design
 
 
 ### Concept 2 
-The Adaptive Smart Lawn Manager focuses on smarter water management by integrating hyper local weather forecasts and sensor data, all while keeping setup simple. It automatically adjusts for extreme conditions with features like storm skip, freeze protection, and drought mode. To build user trust, it offers transparent and customizable watering algorithms, complemented by an intuitive mobile app that provides clear system feedback. The device is built with durable, weatherproof hardware to ensure long-lasting reliability. This solution is aimed at homeowners who prioritize sustainability and want to see measurable water savings without compromising on ease of use.
+Purpose: A more advanced, sustainability-focused controller that uses multi-sensor environmental data to dynamically adapt watering behavior. This concept serves users who want higher water efficiency than the Essential Smart Water Saver but still value simple setup and autonomy.
+
+Description:
+The Adaptive Smart Lawn Manager is a sensor-rich irrigation controller that adjusts watering based on real environmental measurements, not remote services. Designed for sustainability-minded homeowners, it uses multiple onboard and external sensors to modify watering schedules in response to storm conditions, freezing temperatures, drought-like dryness, and abnormal water usage.
+
+Embedded-System Features (Implementable)
+
+Environmental Sensing (Multi-Sensor Array)
+
++ Unlike Concept 1 (simple moisture + rain), this concept integrates several simultaneous environmental sensors:
+
++ Barometric pressure sensor → detects approaching storms (pressure drop trend).
+
++ Ambient temperature + humidity sensor → supports freeze protection, evaporation-rate estimation, and high-heat drought mode.
+
++ Multiple soil-moisture sensors (one per active zone) → provides per-zone adaptive irrigation.
+
++ Flow meter input → detects leaks, clogged valves, or unusually high water flow.
+
+Adaptive Firmware Logic (Closed-Loop Control)
+
++ The firmware continuously evaluates sensor inputs to adjust watering:
+
++ Storm-skip logic: barometric pressure drop + moisture rise triggers preemptive watering cancelation.
+
++ Freeze-protection logic: temperature sensor halts watering to protect pipes/valves.
+
++ Drought mode: high temperature + low humidity + persistently dry soil triggers extended watering or additional cycles.
+
++ Flow anomaly detection: shuts down system when excessive flow is detected.
+
+Actuation & Hardware Interfaces
+
++ 4–8 zone valve drivers with current monitoring for fault detection.
+
++ Relay output for pump or master valve, enabling compatibility with larger systems.
+
++ Status LEDs for each zone plus system-health indicator (sensor fault, flow leak, freeze condition, etc.).
+
++ Two-button interface for local adjustments and diagnostic mode.
+
+Firmware & Reliability Features
+
++ Sensor fusion algorithm combining temperature, humidity, pressure, flow, and soil readings to choose watering duration.
+
++ Non-volatile storage to log environmental patterns and watering decisions.
+
++ Self-diagnostics mode:
+
++ checks sensor connections
+
++ validates valve outputs
+
++ tests flow meter pulses
+
+Hardware Design
+
++ Weatherproof enclosure with external sensor ports.
+
++ Modular internal PCB with expansion headers for future sensors.
+
++ Surge-protected power input for outdoor reliability.
 ![Alt Text](https://github.com/EGR304-2025-F-101/team101.github.io/blob/main/docs/image/con2.png?raw=true)
 
 
