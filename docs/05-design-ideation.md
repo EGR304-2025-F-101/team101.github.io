@@ -270,7 +270,97 @@ Hardware Design
 
 
 ### Concept 3
-TThe Connected Smart Ecosystem is a premium, fully integrated solution designed for tech-savvy homeowners and large-lawn users. It seamlessly connects with smart home platforms such as Alexa, Google, and HomeKit, while also supporting IFTTT automation for broader ecosystem integration. The system is highly scalable, with modular zone expansion to suit larger properties, and provides advanced water usage analytics paired with an ROI calculator to highlight cost efficiency and transparency. Built on a foundation of trust, it ensures ethical data use with encrypted storage, while proactive customer support, clear warranties, and transparent pricing provide added assurance. This concept is tailored for tech enthusiasts, early adopters, and property managers who prioritize integration, scalability, and long-term reliability.
+Purpose: Designed for large properties, multi-zone landscapes, or small commercial sites, this concept focuses on scalability, distributed control, and modular networked hardware. It serves advanced users who need a system that grows with their property and coordinates multiple irrigation modules across long distances.
+
+Description: The Connected Smart Ecosystem is a distributed, multi-controller irrigation network that links several irrigation modules together using a local wireless mesh system (e.g., sub-GHz or ESP-NOW). Each module controls a cluster of zones and shares sensor and diagnostic data with a central coordinator unit.
+
+Instead of relying on cloud platforms or smart-home integrations, this system emphasizes robust local networking, synchronization across modules, and reliable performance for users who manage many zones or large areas.
+
+Its identity is scalable hardware + cooperative embedded controllers, forming a “mini irrigation network.”
+
+Embedded-System Features (Implementable)
+
+Distributed Hardware Architecture
+
++ Master Controller Unit (MCU-Hub):
+
++ Stores global schedules
+
++ Coordinates watering order across modules
+
++ Logs zone activity and sensor data
+
+Satellite Zone Modules
+
++ Each handles 4–6 local valves
+
++ Local moisture and flow sensing
+
++ Local fallback schedule in case connection to hub is lost
+
++ This modular architecture allows expansion up to 20–30 zones.
+
+Local Wireless Mesh Communication
+
++ Modules communicate via a low-power embedded mesh network, enabling:
+
++ Long-range performance (better than WiFi)
+
++ Auto-repairing links if a node goes offline
+
++ Low-bandwidth sensor data sharing (moisture, flow, temperature)
+
++ Time-slot coordination so valves do not activate simultaneously and overload the system
+
++ This avoids external internet dependency and cloud instability.
+
+Advanced Embedded Diagnostics
+
++ To support commercial-sized sites:
+
++ Per-module health packets
+
++ signal strength
+
++ battery or power status
+
++ sensor integrity
+
++ valve current draw on each zone
+
++ Leak and burst detection using distributed flow meters
+
++ Thermal safety shutdown if enclosure temperature exceeds limits
+
++ The hub aggregates these diagnostics and displays warnings via LEDs or a simple local interface.
+
+Actuation & Control
+
++ Each module includes MOSFET drivers for multiple 24-V AC valves.
+
++ Master valve/pump relay output controlled centrally to ensure safe operation when multiple modules request water.
+
++ Inter-module scheduling: prevents two distant modules from drawing high current at the same time.
+
+Firmware Architecture
+
++ Node-based state machines with local autonomy
+
++ Mesh-synchronized watering windows
+
++ Local fallback mode: module continues its sub-schedule if disconnected
+
++ Over-the-air firmware updates sent from the hub to each satellite module (local OTA, not cloud-based)
+
+Hardware Design
+
++ Weather-safe, modular enclosures for each node
+
++ Ruggedized connectors for long cable runs (flow sensors, moisture probes, pump relays)
+
++ Optional solar-powered variant for remote satellite modules
+
++ Dedicated mounting flanges for walls/panels/pump sheds
 ![Alt Text](https://github.com/EGR304-2025-F-101/team101.github.io/blob/main/docs/image/con3.png?raw=true)
 
 ## Documentation
