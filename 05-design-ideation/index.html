@@ -1936,8 +1936,135 @@ The Adaptive Smart Lawn Manager is a sensor-rich irrigation controller that adju
 </li>
 </ul>
 <h3 id="concept-3">Concept 3</h3>
-<p>TThe Connected Smart Ecosystem is a premium, fully integrated solution designed for tech-savvy homeowners and large-lawn users. It seamlessly connects with smart home platforms such as Alexa, Google, and HomeKit, while also supporting IFTTT automation for broader ecosystem integration. The system is highly scalable, with modular zone expansion to suit larger properties, and provides advanced water usage analytics paired with an ROI calculator to highlight cost efficiency and transparency. Built on a foundation of trust, it ensures ethical data use with encrypted storage, while proactive customer support, clear warranties, and transparent pricing provide added assurance. This concept is tailored for tech enthusiasts, early adopters, and property managers who prioritize integration, scalability, and long-term reliability.
+<p>Purpose: Designed for large properties, multi-zone landscapes, or small commercial sites, this concept focuses on scalability, distributed control, and modular networked hardware. It serves advanced users who need a system that grows with their property and coordinates multiple irrigation modules across long distances.</p>
+<p>Description: The Connected Smart Ecosystem is a distributed, multi-controller irrigation network that links several irrigation modules together using a local wireless mesh system (e.g., sub-GHz or ESP-NOW). Each module controls a cluster of zones and shares sensor and diagnostic data with a central coordinator unit.</p>
+<p>Instead of relying on cloud platforms or smart-home integrations, this system emphasizes robust local networking, synchronization across modules, and reliable performance for users who manage many zones or large areas.</p>
+<p>Its identity is scalable hardware + cooperative embedded controllers, forming a “mini irrigation network.”</p>
+<p>Embedded-System Features (Implementable)</p>
+<p>Distributed Hardware Architecture</p>
+<ul>
+<li>
+<p>Master Controller Unit (MCU-Hub):</p>
+</li>
+<li>
+<p>Stores global schedules</p>
+</li>
+<li>
+<p>Coordinates watering order across modules</p>
+</li>
+<li>
+<p>Logs zone activity and sensor data</p>
+</li>
+</ul>
+<p>Satellite Zone Modules</p>
+<ul>
+<li>
+<p>Each handles 4–6 local valves</p>
+</li>
+<li>
+<p>Local moisture and flow sensing</p>
+</li>
+<li>
+<p>Local fallback schedule in case connection to hub is lost</p>
+</li>
+<li>
+<p>This modular architecture allows expansion up to 20–30 zones.</p>
+</li>
+</ul>
+<p>Local Wireless Mesh Communication</p>
+<ul>
+<li>
+<p>Modules communicate via a low-power embedded mesh network, enabling:</p>
+</li>
+<li>
+<p>Long-range performance (better than WiFi)</p>
+</li>
+<li>
+<p>Auto-repairing links if a node goes offline</p>
+</li>
+<li>
+<p>Low-bandwidth sensor data sharing (moisture, flow, temperature)</p>
+</li>
+<li>
+<p>Time-slot coordination so valves do not activate simultaneously and overload the system</p>
+</li>
+<li>
+<p>This avoids external internet dependency and cloud instability.</p>
+</li>
+</ul>
+<p>Advanced Embedded Diagnostics</p>
+<ul>
+<li>
+<p>To support commercial-sized sites:</p>
+</li>
+<li>
+<p>Per-module health packets</p>
+</li>
+<li>
+<p>signal strength</p>
+</li>
+<li>
+<p>battery or power status</p>
+</li>
+<li>
+<p>sensor integrity</p>
+</li>
+<li>
+<p>valve current draw on each zone</p>
+</li>
+<li>
+<p>Leak and burst detection using distributed flow meters</p>
+</li>
+<li>
+<p>Thermal safety shutdown if enclosure temperature exceeds limits</p>
+</li>
+<li>
+<p>The hub aggregates these diagnostics and displays warnings via LEDs or a simple local interface.</p>
+</li>
+</ul>
+<p>Actuation &amp; Control</p>
+<ul>
+<li>
+<p>Each module includes MOSFET drivers for multiple 24-V AC valves.</p>
+</li>
+<li>
+<p>Master valve/pump relay output controlled centrally to ensure safe operation when multiple modules request water.</p>
+</li>
+<li>
+<p>Inter-module scheduling: prevents two distant modules from drawing high current at the same time.</p>
+</li>
+</ul>
+<p>Firmware Architecture</p>
+<ul>
+<li>
+<p>Node-based state machines with local autonomy</p>
+</li>
+<li>
+<p>Mesh-synchronized watering windows</p>
+</li>
+<li>
+<p>Local fallback mode: module continues its sub-schedule if disconnected</p>
+</li>
+<li>
+<p>Over-the-air firmware updates sent from the hub to each satellite module (local OTA, not cloud-based)</p>
+</li>
+</ul>
+<p>Hardware Design</p>
+<ul>
+<li>
+<p>Weather-safe, modular enclosures for each node</p>
+</li>
+<li>
+<p>Ruggedized connectors for long cable runs (flow sensors, moisture probes, pump relays)</p>
+</li>
+<li>
+<p>Optional solar-powered variant for remote satellite modules</p>
+</li>
+<li>
+<p>Dedicated mounting flanges for walls/panels/pump sheds
 <a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="https://github.com/EGR304-2025-F-101/team101.github.io/blob/main/docs/image/con3.png?raw=true" data-desc-position="bottom"><img alt="Alt Text" src="https://github.com/EGR304-2025-F-101/team101.github.io/blob/main/docs/image/con3.png?raw=true"></a></p>
+</li>
+</ul>
 <h2 id="documentation">Documentation</h2>
 <h3 id="the-process-of-our-brainstorm-session">The Process of Our Brainstorm Session</h3>
 <p>Our whole team ie. Raj, Isaiah, Myles and Liam—participated equally in our brainstorm session, which we held on Discord. Our process was a collaborative effort from start to finish. We began by having everyone write down their own ideas on paper to get a wide range of thoughts. Then, we came together as a group to share and build on them. Liam collected everyone's notes into one document so nothing was lost. To keep things moving, we each took a primary focus: Liam led the idea generation, Isaiah organized the ideas, and Raj did the concepts.</p>
