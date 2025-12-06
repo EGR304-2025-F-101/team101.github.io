@@ -1846,8 +1846,95 @@ The Essential Smart Water Saver is a low-cost, hardware-focused irrigation contr
 </li>
 </ul>
 <h3 id="concept-2">Concept 2</h3>
-<p>The Adaptive Smart Lawn Manager focuses on smarter water management by integrating hyper local weather forecasts and sensor data, all while keeping setup simple. It automatically adjusts for extreme conditions with features like storm skip, freeze protection, and drought mode. To build user trust, it offers transparent and customizable watering algorithms, complemented by an intuitive mobile app that provides clear system feedback. The device is built with durable, weatherproof hardware to ensure long-lasting reliability. This solution is aimed at homeowners who prioritize sustainability and want to see measurable water savings without compromising on ease of use.
+<p>Purpose: A more advanced, sustainability-focused controller that uses multi-sensor environmental data to dynamically adapt watering behavior. This concept serves users who want higher water efficiency than the Essential Smart Water Saver but still value simple setup and autonomy.</p>
+<p>Description:
+The Adaptive Smart Lawn Manager is a sensor-rich irrigation controller that adjusts watering based on real environmental measurements, not remote services. Designed for sustainability-minded homeowners, it uses multiple onboard and external sensors to modify watering schedules in response to storm conditions, freezing temperatures, drought-like dryness, and abnormal water usage.</p>
+<p>Embedded-System Features (Implementable)</p>
+<p>Environmental Sensing (Multi-Sensor Array)</p>
+<ul>
+<li>
+<p>Unlike Concept 1 (simple moisture + rain), this concept integrates several simultaneous environmental sensors:</p>
+</li>
+<li>
+<p>Barometric pressure sensor → detects approaching storms (pressure drop trend).</p>
+</li>
+<li>
+<p>Ambient temperature + humidity sensor → supports freeze protection, evaporation-rate estimation, and high-heat drought mode.</p>
+</li>
+<li>
+<p>Multiple soil-moisture sensors (one per active zone) → provides per-zone adaptive irrigation.</p>
+</li>
+<li>
+<p>Flow meter input → detects leaks, clogged valves, or unusually high water flow.</p>
+</li>
+</ul>
+<p>Adaptive Firmware Logic (Closed-Loop Control)</p>
+<ul>
+<li>
+<p>The firmware continuously evaluates sensor inputs to adjust watering:</p>
+</li>
+<li>
+<p>Storm-skip logic: barometric pressure drop + moisture rise triggers preemptive watering cancelation.</p>
+</li>
+<li>
+<p>Freeze-protection logic: temperature sensor halts watering to protect pipes/valves.</p>
+</li>
+<li>
+<p>Drought mode: high temperature + low humidity + persistently dry soil triggers extended watering or additional cycles.</p>
+</li>
+<li>
+<p>Flow anomaly detection: shuts down system when excessive flow is detected.</p>
+</li>
+</ul>
+<p>Actuation &amp; Hardware Interfaces</p>
+<ul>
+<li>
+<p>4–8 zone valve drivers with current monitoring for fault detection.</p>
+</li>
+<li>
+<p>Relay output for pump or master valve, enabling compatibility with larger systems.</p>
+</li>
+<li>
+<p>Status LEDs for each zone plus system-health indicator (sensor fault, flow leak, freeze condition, etc.).</p>
+</li>
+<li>
+<p>Two-button interface for local adjustments and diagnostic mode.</p>
+</li>
+</ul>
+<p>Firmware &amp; Reliability Features</p>
+<ul>
+<li>
+<p>Sensor fusion algorithm combining temperature, humidity, pressure, flow, and soil readings to choose watering duration.</p>
+</li>
+<li>
+<p>Non-volatile storage to log environmental patterns and watering decisions.</p>
+</li>
+<li>
+<p>Self-diagnostics mode:</p>
+</li>
+<li>
+<p>checks sensor connections</p>
+</li>
+<li>
+<p>validates valve outputs</p>
+</li>
+<li>
+<p>tests flow meter pulses</p>
+</li>
+</ul>
+<p>Hardware Design</p>
+<ul>
+<li>
+<p>Weatherproof enclosure with external sensor ports.</p>
+</li>
+<li>
+<p>Modular internal PCB with expansion headers for future sensors.</p>
+</li>
+<li>
+<p>Surge-protected power input for outdoor reliability.
 <a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="https://github.com/EGR304-2025-F-101/team101.github.io/blob/main/docs/image/con2.png?raw=true" data-desc-position="bottom"><img alt="Alt Text" src="https://github.com/EGR304-2025-F-101/team101.github.io/blob/main/docs/image/con2.png?raw=true"></a></p>
+</li>
+</ul>
 <h3 id="concept-3">Concept 3</h3>
 <p>TThe Connected Smart Ecosystem is a premium, fully integrated solution designed for tech-savvy homeowners and large-lawn users. It seamlessly connects with smart home platforms such as Alexa, Google, and HomeKit, while also supporting IFTTT automation for broader ecosystem integration. The system is highly scalable, with modular zone expansion to suit larger properties, and provides advanced water usage analytics paired with an ROI calculator to highlight cost efficiency and transparency. Built on a foundation of trust, it ensures ethical data use with encrypted storage, while proactive customer support, clear warranties, and transparent pricing provide added assurance. This concept is tailored for tech enthusiasts, early adopters, and property managers who prioritize integration, scalability, and long-term reliability.
 <a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="https://github.com/EGR304-2025-F-101/team101.github.io/blob/main/docs/image/con3.png?raw=true" data-desc-position="bottom"><img alt="Alt Text" src="https://github.com/EGR304-2025-F-101/team101.github.io/blob/main/docs/image/con3.png?raw=true"></a></p>
