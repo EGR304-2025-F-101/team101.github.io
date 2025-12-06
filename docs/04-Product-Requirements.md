@@ -31,9 +31,9 @@ Miguel oversees irrigation for several properties. He needs dependable remote co
 # Requirements
 
 Priority Codes:  
-- **P1 – High priority**  
-- **P2 – Medium priority**  
-- **P3 – Low priority**
+**P1 – High priority**  
+**P2 – Medium priority**  
+**P3 – Low priority**
 
 ## Functional Requirements
 - The product shall reduce irrigation water usage by ≥30%. (P1)  
