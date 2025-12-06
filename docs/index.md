@@ -13,7 +13,7 @@ Fall and 2025<br>
 **EGR 304**<br>
 Myles, Liam, Isaiah, and Raj<br>
   
-
+![Activity Diagram](docs\image\introimage.jpg)
 </center>
 
 ## Team Introduction
