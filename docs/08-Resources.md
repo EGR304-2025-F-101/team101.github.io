@@ -28,7 +28,7 @@ If you have videos demonstrating your final system, upload them to YouTube and e
 </div>
 -->
 
-## ECAD Sssemblies  
+## ECAD Assemblies  
 
 <img width="2200" height="750" alt="PCB 3D" src="https://github.com/user-attachments/assets/3eb9b990-1e92-4135-a5fe-a012711a8f4f" />
 
