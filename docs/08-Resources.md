@@ -2,8 +2,6 @@
 title: Resources
 ---
 
-# Resources
-
 ## Team Images  
 
 <img width="445" height="700" alt="Screenshot 2025-12-06 153015" src="https://github.com/user-attachments/assets/5bae2960-b067-4c7a-9036-3e5e43d75bfb" />  
