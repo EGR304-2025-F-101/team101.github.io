@@ -7,9 +7,8 @@ title: Resources
 This page contains the media and files associated with our project, including team images, final system photos, videos, and CAD files.
 
 ## Team Images  
-*(Insert team photos below. Use Markdown image syntax or links.)*
-<img width="445" height="700" alt="Screenshot 2025-12-06 153015" src="https://github.com/user-attachments/assets/5bae2960-b067-4c7a-9036-3e5e43d75bfb" />
-
+*(Insert team photos below. Use Markdown image syntax or links.)*  
+<img width="445" height="700" alt="Screenshot 2025-12-06 153015" src="https://github.com/user-attachments/assets/5bae2960-b067-4c7a-9036-3e5e43d75bfb" />  
 
 *Figure 1: 3 of the 4 Connected boards*
 
