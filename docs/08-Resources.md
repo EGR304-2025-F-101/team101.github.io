@@ -6,21 +6,18 @@ title: Resources
 
 This page contains the media and files associated with our project, including team images, final system photos, videos, and CAD files.
 
----
-
 ## Team Images  
 *(Insert team photos below. Use Markdown image syntax or links.)*
 
-![Team Photo Placeholder](path/to/team_photo.jpg)
+![Activity Diagram](https://github.com/EGR304-2025-F-101/team101.github.io/blob/main/docs/image/introimage.jpg?raw=true)
+</center>
 
----
+*Figure 1: 3 of the 4 Connected boards*
 
 ## Final System Image  
 *(Include at least one clear image of your completed system.)*
 
 ![Final System Placeholder](path/to/final_system_image.jpg)
-
----
 
 ## Videos  
 If you have videos demonstrating your final system, upload them to YouTube and embed them directly below using the HTML embed code.
@@ -35,8 +32,6 @@ If you have videos demonstrating your final system, upload them to YouTube and e
   </iframe>
 </div>
 -->
-
----
 
 ## CAD Files  
 Upload any SolidWorks or Fusion 360 CAD files as a **.zip** file and link them below.
