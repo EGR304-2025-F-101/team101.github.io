@@ -773,28 +773,25 @@
 
 <h1 id="reflection">Reflection</h1>
 <h2 id="lessons-learned">Lessons Learned</h2>
-<p><em>(Use full sentences, ~½ page minimum. Replace the placeholder text with your own reflections.)</em></p>
 <ol>
-<li><strong>Lesson 1:</strong> Describe one major insight your team gained and how it impacted your project.  </li>
-<li><strong>Lesson 2:</strong> Explain something your team learned from testing, debugging, or analyzing results.  </li>
-<li><strong>Lesson 3:</strong> Summarize an important takeaway from your design review feedback.  </li>
-<li><strong>Lesson 4:</strong> Note something your team discovered about teamwork, communication, or scheduling.  </li>
-<li><strong>Lesson 5:</strong> Explain a technical challenge you learned how to overcome.  </li>
-<li><strong>Lesson 6:</strong> Describe something that improved your design after iteration.  </li>
-<li><strong>Lesson 7:</strong> Mention a lesson related to documentation, organization, or version control.  </li>
-<li><strong>Lesson 8:</strong> Explain something you learned about working with hardware, sensors, or microcontrollers.  </li>
-<li><strong>Lesson 9:</strong> Describe a mistake your team made and what you learned from correcting it.  </li>
-<li><strong>Lesson 10:</strong> Summarize one of the most valuable skills or understandings gained from the project.</li>
+<li><strong>Lesson 1:</strong> We learned that defining user needs early and grounding those needs in real research—such as Amazon reviews, benchmarking, and project requirements—kept our design focused on solving real problems like water waste, installation difficulty, and reliability.</li>
+<li><strong>Lesson 2:</strong> We discovered that having a modular system architecture with four separate subsystems made debugging much easier, because isolating issues in the Sensor, Motor, Speaker, or Control module helped us quickly narrow down hardware faults and communication problems.</li>
+<li><strong>Lesson 3:</strong> From our design review, we learned that clear documentation and justification of decisions are just as important as the hardware itself, since reviewers rely on our clarity to understand why the design is structured the way it is.</li>
+<li><strong>Lesson 4:</strong> We realized the importance of consistent team communication, especially because each subsystem was built by a different team member and required coordination through shared connectors, shared ground, and timing of signals.</li>
+<li><strong>Lesson 5:</strong> We learned that early testing of sensors—especially the soil moisture sensor and light sensor—was crucial because raw analog values often behaved differently than expected and required smoothing, calibration, and interpretation.</li>
+<li><strong>Lesson 6:</strong> We discovered that power distribution and grounding across multiple boards requires careful planning, as independent power supplies can only function correctly when a stable common ground is maintained across all subsystems.</li>
+<li><strong>Lesson 7:</strong> We learned the value of iterative improvement, because every time we refined a subsystem—such as adjusting the H-Bridge motor circuit, tuning speaker outputs, or reorganizing the block diagram—the overall system became more reliable and aligned with our product goals.</li>
+<li><strong>Lesson 8:</strong> Through building and testing, we learned how real-world hardware limitations like noise, connection instability, and outdoor environmental expectations shape the final design more than theoretical ideas do.</li>
+<li><strong>Lesson 9:</strong> We learned how important strong version control and organized documentation are, especially when handling multiple codebases, multiple boards, and separate subsystem responsibilities across the team.</li>
+<li><strong>Lesson 10:</strong> Most importantly, we gained experience designing a complete embedded system—from brainstorming and requirements gathering to modular hardware, communication protocols, and final integration—which strengthened our engineering judgment and teamwork skills moving forward.</li>
 </ol>
 <h2 id="recommendations-for-future-students">Recommendations for Future Students</h2>
-<p>Below is a numbered list of the top five recommendations to future students.<br>
-<em>(Each item should be at least one full sentence.)</em></p>
 <ol>
-<li><strong>Recommendation 1:</strong> Provide a clear and actionable suggestion future students should follow.  </li>
-<li><strong>Recommendation 2:</strong> Explain a habit or strategy that will save future students time or reduce frustration.  </li>
-<li><strong>Recommendation 3:</strong> Describe something they should learn before starting the class to make the workload easier.  </li>
-<li><strong>Recommendation 4:</strong> Give a piece of advice related to teamwork, communication, or project planning.  </li>
-<li><strong>Recommendation 5:</strong> Suggest a mindset or approach that will help future students succeed in the course.</li>
+<li><strong>Recommendation 1:</strong> Learn how to break a project into modular subsystems early, because having defined roles and clear interfaces between boards will save a huge amount of time during debugging and integration.</li>
+<li><strong>Recommendation 2:</strong> Get comfortable with basic microcontroller skills—ADC reading, digital I/O, PWM, interrupts, and simple communication—because nearly every part of this class depends on applying those fundamentals quickly.</li>
+<li><strong>Recommendation 3:</strong> Start documentation from day one and keep everything organized, since writing things clearly as you go makes design reviews, status reports, and final deliverables far less stressful.</li>
+<li><strong>Recommendation 4:</strong> Communicate with your team consistently and check alignment often, because even small misunderstandings about connectors, pinouts, or power setups can cause major delays later in the project.</li>
+<li><strong>Recommendation 5:</strong> Adopt a mindset of testing early and iterating often, because hardware rarely works perfectly on the first try and steady, small improvements will make the final system far more reliable.</li>
 </ol>
 
 
