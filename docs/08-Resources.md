@@ -8,9 +8,8 @@ This page contains the media and files associated with our project, including te
 
 ## Team Images  
 *(Insert team photos below. Use Markdown image syntax or links.)*
+<img width="445" height="700" alt="Screenshot 2025-12-06 153015" src="https://github.com/user-attachments/assets/5bae2960-b067-4c7a-9036-3e5e43d75bfb" />
 
-![Activity Diagram](https://github.com/EGR304-2025-F-101/team101.github.io/blob/main/docs/image/introimage.jpg?raw=true)
-</center>
 
 *Figure 1: 3 of the 4 Connected boards*
 
