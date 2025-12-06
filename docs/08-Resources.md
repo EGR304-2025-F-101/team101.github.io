@@ -17,13 +17,13 @@ If you have videos demonstrating your final system, upload them to YouTube and e
 
 <!-- Example YouTube Embed -->
 <!--
-<div align="center">
-  <iframe width="560" height="315" 
+div align="center"
+  iframe width="560" height="315" 
     src="https://youtu.be/dkqpXmcnoYc" 
     frameborder="0" 
-    allowfullscreen>
-  </iframe>
-</div>
+    allowfullscreen
+  /iframe
+/div
 -->
 
 ## ECAD Assemblies  
