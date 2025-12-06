@@ -14,11 +14,6 @@ This page contains the media and files associated with our project, including te
 <img width="1900" height="450" alt="Screenshot 2025-12-06 153352" src="https://github.com/user-attachments/assets/7c09ae7b-2a87-429f-87ea-ca9ba7fdabef" />
 *Figure 2: Showing a component populated view of the soil sensor subsystem.*  
 
-## Final System Image  
-*(Include at least one clear image of your completed system.)*
-
-![Final System Placeholder](path/to/final_system_image.jpg)
-
 ## Videos  
 If you have videos demonstrating your final system, upload them to YouTube and embed them directly below using the HTML embed code.
 
@@ -33,11 +28,7 @@ If you have videos demonstrating your final system, upload them to YouTube and e
 </div>
 -->
 
-## CAD Files  
-Upload any SolidWorks or Fusion 360 CAD files as a **.zip** file and link them below.
+## ECAD Sssemblies  
 
-- [Download CAD Files (ZIP)](path/to/cad_files.zip)
+<img width="2200" height="750" alt="PCB 3D" src="https://github.com/user-attachments/assets/3eb9b990-1e92-4135-a5fe-a012711a8f4f" />
 
-*(Optional: include screenshots of assemblies or drawings to help visualize the design.)*
-
-![CAD Preview Placeholder](path/to/cad_preview_image.jpg)
