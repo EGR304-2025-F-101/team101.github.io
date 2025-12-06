@@ -11,6 +11,8 @@ This page contains the media and files associated with our project, including te
 <img width="445" height="700" alt="Screenshot 2025-12-06 153015" src="https://github.com/user-attachments/assets/5bae2960-b067-4c7a-9036-3e5e43d75bfb" />  
 
 *Figure 1: 3 of the 4 Connected boards*
+<img width="2200" height="750" alt="Screenshot 2025-12-05 153412" src="https://github.com/user-attachments/assets/63c7c2a9-10ba-40e5-8bee-60f4179855ef" />
+*Figure 2: Showing a component populated view of the soil sensor subsystem.*  
 
 ## Final System Image  
 *(Include at least one clear image of your completed system.)*
