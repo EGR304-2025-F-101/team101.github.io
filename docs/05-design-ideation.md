@@ -156,8 +156,50 @@ We narrowed the original 25 groups down to the 7 most critical requirement clust
 
 
 ## Product Concepts
+
 ### Concept 1
-The Essential Smart Water Saver is designed with affordability, simplicity, and water savings in mind, making it ideal for budget-conscious homeowners. It offers easy installation with app-based guidance and QR code setup for convenience. Users can benefit from flexible per-zone scheduling and seasonal templates, along with offline fallback schedules that ensure reliability. The system also provides daily and weekly water usage reports, including estimated bill savings, giving homeowners clear insights into their consumption. This solution is tailored for individuals new to smart irrigation who seek a simple, cost-effective way to manage their water use efficiently. Additionally, the system uses a modular design with detachable sensors and sprinkler modules so components can be replaced easily and upgraded as newer, compatible sensors become available, improving serviceability and future‑proofing the platform.
+Purpose: A simple, affordable irrigation controller centered on core water-saving needs identified in previous assignments: reliability, ease of installation, and reduced water waste.
+
+Description:
+The Essential Smart Water Saver is a low-cost, hardware-focused irrigation controller built around reliable sensing and basic automation, without heavy dependence on cloud software. It targets budget-conscious homeowners who want improved water efficiency using minimal technology.
+
+Embedded-System Features (Implementable):
+
+Sensing
+
++ Single soil-moisture sensor input per zone to prevent unnecessary watering.
+
++ Rain-interrupt input (simple on/off rain switch) to automatically pause irrigation during rainfall.
+
++ Internal temperature sensor (built into MCU) to support freeze-protection logic.
+
+Actuation & Control
+
++ 2–4 zone valve driver outputs using MOSFET or relay control, designed to safely drive 24-V AC irrigation valves.
+
++ On-device fallback watering schedule stored in non-volatile memory, ensuring irrigation runs even if the phone/app is unavailable.
+
++ Manual override button for quick physical start/stop of zones.
+
++ LED status indicators for zone activity, sensor faults, and system health.
+
+Firmware / Embedded Logic
+
++ Basic closed-loop control: skip watering when soil moisture is above the threshold.
+
++ Simple seasonal adjustment factor handled locally by firmware (no complex app).
+
++ Watchdog-protected firmware for improved reliability.
+
++ Sensor-failure detection (e.g., out-of-range or constant-high readings).
+
+Hardware Design
+
++ Modular connectors for moisture sensors and valve outputs, allowing easy component replacement without opening the enclosure.
+
++ Small, weather-resistant enclosure intended for outdoor mounting.
+
++ Low-cost power design using a 5 V DC supply and onboard regulator for the MCU.
 ![Alt Text](https://github.com/EGR304-2025-F-101/team101.github.io/blob/main/docs/image/con1.png?raw=true)
 
 
