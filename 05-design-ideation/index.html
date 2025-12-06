@@ -1786,8 +1786,65 @@
 </table>
 <h2 id="product-concepts">Product Concepts</h2>
 <h3 id="concept-1">Concept 1</h3>
-<p>The Essential Smart Water Saver is designed with affordability, simplicity, and water savings in mind, making it ideal for budget-conscious homeowners. It offers easy installation with app-based guidance and QR code setup for convenience. Users can benefit from flexible per-zone scheduling and seasonal templates, along with offline fallback schedules that ensure reliability. The system also provides daily and weekly water usage reports, including estimated bill savings, giving homeowners clear insights into their consumption. This solution is tailored for individuals new to smart irrigation who seek a simple, cost-effective way to manage their water use efficiently. Additionally, the system uses a modular design with detachable sensors and sprinkler modules so components can be replaced easily and upgraded as newer, compatible sensors become available, improving serviceability and future‑proofing the platform.
+<p>Purpose: A simple, affordable irrigation controller centered on core water-saving needs identified in previous assignments: reliability, ease of installation, and reduced water waste.</p>
+<p>Description:
+The Essential Smart Water Saver is a low-cost, hardware-focused irrigation controller built around reliable sensing and basic automation, without heavy dependence on cloud software. It targets budget-conscious homeowners who want improved water efficiency using minimal technology.</p>
+<p>Embedded-System Features (Implementable):</p>
+<p>Sensing</p>
+<ul>
+<li>
+<p>Single soil-moisture sensor input per zone to prevent unnecessary watering.</p>
+</li>
+<li>
+<p>Rain-interrupt input (simple on/off rain switch) to automatically pause irrigation during rainfall.</p>
+</li>
+<li>
+<p>Internal temperature sensor (built into MCU) to support freeze-protection logic.</p>
+</li>
+</ul>
+<p>Actuation &amp; Control</p>
+<ul>
+<li>
+<p>2–4 zone valve driver outputs using MOSFET or relay control, designed to safely drive 24-V AC irrigation valves.</p>
+</li>
+<li>
+<p>On-device fallback watering schedule stored in non-volatile memory, ensuring irrigation runs even if the phone/app is unavailable.</p>
+</li>
+<li>
+<p>Manual override button for quick physical start/stop of zones.</p>
+</li>
+<li>
+<p>LED status indicators for zone activity, sensor faults, and system health.</p>
+</li>
+</ul>
+<p>Firmware / Embedded Logic</p>
+<ul>
+<li>
+<p>Basic closed-loop control: skip watering when soil moisture is above the threshold.</p>
+</li>
+<li>
+<p>Simple seasonal adjustment factor handled locally by firmware (no complex app).</p>
+</li>
+<li>
+<p>Watchdog-protected firmware for improved reliability.</p>
+</li>
+<li>
+<p>Sensor-failure detection (e.g., out-of-range or constant-high readings).</p>
+</li>
+</ul>
+<p>Hardware Design</p>
+<ul>
+<li>
+<p>Modular connectors for moisture sensors and valve outputs, allowing easy component replacement without opening the enclosure.</p>
+</li>
+<li>
+<p>Small, weather-resistant enclosure intended for outdoor mounting.</p>
+</li>
+<li>
+<p>Low-cost power design using a 5 V DC supply and onboard regulator for the MCU.
 <a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="https://github.com/EGR304-2025-F-101/team101.github.io/blob/main/docs/image/con1.png?raw=true" data-desc-position="bottom"><img alt="Alt Text" src="https://github.com/EGR304-2025-F-101/team101.github.io/blob/main/docs/image/con1.png?raw=true"></a></p>
+</li>
+</ul>
 <h3 id="concept-2">Concept 2</h3>
 <p>The Adaptive Smart Lawn Manager focuses on smarter water management by integrating hyper local weather forecasts and sensor data, all while keeping setup simple. It automatically adjusts for extreme conditions with features like storm skip, freeze protection, and drought mode. To build user trust, it offers transparent and customizable watering algorithms, complemented by an intuitive mobile app that provides clear system feedback. The device is built with durable, weatherproof hardware to ensure long-lasting reliability. This solution is aimed at homeowners who prioritize sustainability and want to see measurable water savings without compromising on ease of use.
 <a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="https://github.com/EGR304-2025-F-101/team101.github.io/blob/main/docs/image/con2.png?raw=true" data-desc-position="bottom"><img alt="Alt Text" src="https://github.com/EGR304-2025-F-101/team101.github.io/blob/main/docs/image/con2.png?raw=true"></a></p>
