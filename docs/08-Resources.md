@@ -13,14 +13,12 @@ title: Resources
 *Figure 2: Showing a component populated view of the soil sensor subsystem.*
 
    <img width="3520" height="1980" alt="TeamSystem_2" src="https://github.com/user-attachments/assets/a4db0469-d9e7-4dd4-947d-d311c1755b3d" />
-*Figure 3:Showing 4 of the 4 Connected Boards*
+*Figure 3: Showing 4 of the 4 Connected Boards*
    
 ## Videos  
-
-
 <!-- YouTube Video Embed -->
 [![Video](https://img.youtube.com/vi/dkqpXmcnoYc/0.jpg)](https://www.youtube.com/watch?v=dkqpXmcnoYc)
 ## ECAD Assemblies  
 
 <img width="2200" height="750" alt="PCB 3D" src="https://github.com/user-attachments/assets/3eb9b990-1e92-4135-a5fe-a012711a8f4f" />
-*Figure 3: Showing a ECAD assembly of components on a PCB design*  
+*Figure 4: Showing a ECAD assembly of components on a PCB design*  
