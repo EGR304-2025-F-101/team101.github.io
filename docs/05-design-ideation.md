@@ -200,7 +200,7 @@ Hardware Design
 + Small, weather-resistant enclosure intended for outdoor mounting.
 
 + Low-cost power design using a 5 V DC supply and onboard regulator for the MCU.
-![Alt Text](https://github.com/user-attachments/assets/4c3de52b-1c94-4d54-9fee-b377a037a6d0)
+![Alt Text](https://github.com/user-attachments/assets/e4959a19-bbe7-48f8-b799-6977ecf7f64e)
 
 ### Concept 2 
 Purpose: A more advanced, sustainability-focused controller that uses multi-sensor environmental data to dynamically adapt watering behavior. This concept serves users who want higher water efficiency than the Essential Smart Water Saver but still value simple setup and autonomy.
