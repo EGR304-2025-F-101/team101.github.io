@@ -25,6 +25,7 @@ The diagram illustrates the signal flow beginning from the central Hub module (R
 | 6   | –           | –         | –                 | not used                |
 | 7   | –           | –         | –                 | not used                |
 | 8   | Ground      | Ground    | Ground            | Ground                  |
+
 *Figure 2: Showing Pin Connector Table for Myles and Raj*  
 | Pin | From          | To            | Type            | Description         |
 |-----|---------------|---------------|-----------------|---------------------|
@@ -36,6 +37,7 @@ The diagram illustrates the signal flow beginning from the central Hub module (R
 | 6   | –             | –             | –               | not used            |
 | 7   | –             | –             | –               | not used            |
 | 8   | Ground        | Ground        | Ground          | Shared Ground       |
+
 *Figure 3: Showing Pin Connector Table for Isaiah and Raj*  
 | Pin | From        | To         | Type            | Description            |
 |-----|-------------|------------|-----------------|------------------------|
@@ -47,4 +49,5 @@ The diagram illustrates the signal flow beginning from the central Hub module (R
 | 6   | –           | –          | –               | not used               |
 | 7   | –           | –          | –               | not used               |
 | 8   | Ground      | Ground     | Ground          | Shared Ground          |
+
 *Figure 4: Showing Pin Connector Table for Liam and Raj*  
