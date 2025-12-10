@@ -360,7 +360,8 @@ Hardware Design
 + Optional solar-powered variant for remote satellite modules
 
 + Dedicated mounting flanges for walls/panels/pump sheds
-![Alt Text](https://github.com/user-attachments/assets/9eac9f77-a4d7-44c6-8a88-56080ec680bc)
+<img width="1536" height="1024" alt="chicken" src="https://github.com/user-attachments/assets/b5d571d1-94b8-4bb4-add8-d1a3edb1c89d" />
+
 
 ## Documentation
 
