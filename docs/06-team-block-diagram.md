@@ -16,7 +16,7 @@ The diagram illustrates the signal flow beginning from the central Hub module (R
 
 <img src="https://github.com/user-attachments/assets/553ceb6a-e3f9-4d4d-83de-6100e2a9e090" style="border: 2px solid black; border-radius: 4px;" />  
 
-*Figure 1: Showing Block Diagram of All Interconnect Subsystems*
+*Figure 1: Showing Block Diagram of All Interconnect Subsystems*  
 | Pin | From        | To        | Type              | Description              |
 |-----|-------------|-----------|-------------------|--------------------------|
 | 1   | Myles (RB0) | Raj (RC7) | 0V / 5V Digital   | Trigger Pin For Speaker |
@@ -28,7 +28,7 @@ The diagram illustrates the signal flow beginning from the central Hub module (R
 | 7   | –           | –         | –                 | not used                |
 | 8   | Ground      | Ground    | Ground            | Ground                  |
 
-*Figure 2: Showing Pin Connector Table for Myles and Raj*
+*Figure 2: Showing Pin Connector Table for Myles and Raj*  
 | Pin | From          | To            | Type            | Description         |
 |-----|---------------|---------------|-----------------|---------------------|
 | 1   | –             | –             | –               | not used            |
@@ -40,7 +40,7 @@ The diagram illustrates the signal flow beginning from the central Hub module (R
 | 7   | –             | –             | –               | not used            |
 | 8   | Ground        | Ground        | Ground          | Shared Ground       |
 
-*Figure 3: Showing Pin Connector Table for Isaiah and Raj*
+*Figure 3: Showing Pin Connector Table for Isaiah and Raj*  
 | Pin | From        | To         | Type            | Description            |
 |-----|-------------|------------|-----------------|------------------------|
 | 1   | Liam (RD0)  | Raj (RD6)  | 0V / 5V Digital | Button Pushed Signal   |
@@ -52,4 +52,4 @@ The diagram illustrates the signal flow beginning from the central Hub module (R
 | 7   | –           | –          | –               | not used               |
 | 8   | Ground      | Ground     | Ground          | Shared Ground          |
 
-*Figure 4: Showing Pin Connector Table for Liam and Raj*
+*Figure 4: Showing Pin Connector Table for Liam and Raj*  
