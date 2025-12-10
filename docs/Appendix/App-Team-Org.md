@@ -27,6 +27,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 |Isaiah LaCombe| Messages | Discord | Email |
 |Liam Mabbutt| Messages | Discord | Email |
 |Ragul Raj| Messages | Discord | Email |
+|Myles White| Messages | Discord | Email |
 
 ### Main Method for Group Communication
 
@@ -49,12 +50,12 @@ _**Appendix Table 2**: Weekly Schedule_
 | 9:00 AM | - | - | I | - | I | - | - |
 | 10:00 AM | - | - | - | - | - | I | - |
 | 11:00 AM | - | - | - | - | - | I | - |
-| 12:00 PM | - | L, R | R | L,R | - | I | - |
-| 1:00 PM | - | L, R | I,R | L,R | I,R | I | - |
-| 2:00 PM | - | L, R | I,R | L,R | I,R | I | - |
-| 3:00 PM | - | - | I,R | - | I | I,R | - |
-| 4:00 PM | - | - | I,R | - | I | I,R | - |
-| 5:00 PM | - | - | I,R, L |  | I, L | I, L | - |
+| 12:00 PM | - | L, R,M | R | L,R,M | - | I, M| - |
+| 1:00 PM | - | L, R, M | I,R,M | L,R,M | I,R | I | - |
+| 2:00 PM | - | L, R,M | I,R,M | L,R,M | I,R | I | - |
+| 3:00 PM | - | - | I,R,M | - | I | I,R,M | - |
+| 4:00 PM | - | - | I,R,M | - | I | I,R,M | - |
+| 5:00 PM | - | - | I,R, L ,M|  | I, L,M | I, L | - |
 | 6:00 PM | - | L | I,R, L | L | I, L | I, L | - |
 | 7:00 PM | - | L | L,R | L | L | L | - |
 | 8:00 PM | - |  | - | - | - | - | - |
@@ -67,6 +68,7 @@ _**Table Legend for Appendix Table 2**_
 | Isaiah | I |
 | Raj | R |
 | Liam | L |
+| Myles | M |
 
 
 ## Meeting Coordination
@@ -91,6 +93,8 @@ _**Appendix Table 2**: Project Roles and Duties_
 | (Everyone)   Meeting recorder  | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned  |
 | (Isaiah LaCombe) Assignment leader | Coordinates the team's work on a given assignment to Canvas before the due date                         |
 | (Ragul Raj)  Project monitor   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
+| (Myles White)  Systems integrator   |Understand Teams main objective and improve our operations for a smooth work schedule among the group memebers and easy synergy among the subsystems during development |
+
 
 ## Conflict Recognition & Resolution
 
@@ -106,4 +110,5 @@ _**Appendix Table 2**: Project Roles and Duties_
 ~Isaiah LaCombe  
 ~Liam Mabbutt  
 ~Ragul Raj  
+~Myles White
 
