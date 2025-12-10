@@ -13,7 +13,9 @@ How can our design scale to different types of users (basic homeowner, tech-enth
 This block diagram illustrates the architecture of the smart water saver system, which is divided into four interconnected modules.
 
 The diagram illustrates the signal flow beginning from the central Hub module (Raj), which initiates communication by requesting sensor data from the Sensor module (Isaiah). The Sensor module measures soil moisture and transmits the corresponding analog data back to the Hub module for processing. The Hub also includes a light sensor to monitor sunlight levels, enabling more intelligent watering decisions based on ambient light conditions. The Speaker module (Myles) receives control signals from the Hub, driven by inputs from the potentiometer and push button, and produces audio feedback using a simple digital on/off control signal. After processing both soil moisture and light data, the Hub sends a digital control signal to the Motor module (Liam), which employs an H-Bridge circuit to activate the water pump. While each module operates with independent power, all share a common ground to maintain signal integrity, and standardized 8-pin connectors are used to interconnect the subsystems. This closed-loop architecture ensures efficient, responsive, and automated watering behavior based on real-time soil and light conditions.  
-<img src="https://github.com/user-attachments/assets/553ceb6a-e3f9-4d4d-83de-6100e2a9e090" style="border: 2px solid black; border-radius: 4px;" />
+
+<img src="https://github.com/user-attachments/assets/553ceb6a-e3f9-4d4d-83de-6100e2a9e090" style="border: 2px solid black; border-radius: 4px;" />  
+
 *Figure 1: Showing Block Diagram of All Interconnect Subsystems*  
 | Pin | From        | To        | Type              | Description              |
 |-----|-------------|-----------|-------------------|--------------------------|
