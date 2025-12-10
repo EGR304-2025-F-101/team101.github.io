@@ -44,5 +44,17 @@ The diagram illustrates the signal flow beginning from the central Hub module (R
 | 7   | –             | –             | –               | not used            |
 | 8   | Ground        | Ground        | Ground          | Shared Ground       |
 
-*Figure 2: Showing Pin Connector Table for Isaiah and Raj*
+*Figure 3: Showing Pin Connector Table for Isaiah and Raj*
 
+| Pin | From        | To         | Type            | Description            |
+|-----|-------------|------------|-----------------|------------------------|
+| 1   | Liam (RD0)  | Raj (RD6)  | 0V / 5V Digital | Button Pushed Signal   |
+| 2   | Raj (RD7)   | Liam (RD1) | 0V / 5V Digital | Signal To Motor        |
+| 3   | –           | –          | –               | not used               |
+| 4   | –           | –          | –               | not used               |
+| 5   | –           | –          | –               | not used               |
+| 6   | –           | –          | –               | not used               |
+| 7   | –           | –          | –               | not used               |
+| 8   | Ground      | Ground     | Ground          | Shared Ground          |
+
+*Figure 4: Showing Pin Connector Table for Liam and Raj*
