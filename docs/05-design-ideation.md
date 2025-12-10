@@ -360,7 +360,7 @@ Hardware Design
 + Optional solar-powered variant for remote satellite modules
 
 + Dedicated mounting flanges for walls/panels/pump sheds
-![Alt Text](https://github.com/EGR304-2025-F-101/team101.github.io/blob/main/docs/stylesheets/turkey.png?raw=true)
+![Alt Text](https://github.com/user-attachments/assets/9eac9f77-a4d7-44c6-8a88-56080ec680bc)
 
 ## Documentation
 
