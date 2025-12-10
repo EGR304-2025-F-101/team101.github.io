@@ -200,7 +200,7 @@ Hardware Design
 + Small, weather-resistant enclosure intended for outdoor mounting.
 
 + Low-cost power design using a 5 V DC supply and onboard regulator for the MCU.
-![Alt Text](https://github.com/EGR304-2025-F-101/team101.github.io/blob/main/docs/image/con1.png?raw=true)
+![Alt Text](https://github.com/EGR304-2025-F-101/team101.github.io/blob/main/docs/stylesheets/chicken.png?raw=true)
 
 
 ### Concept 2 
@@ -266,7 +266,7 @@ Hardware Design
 + Modular internal PCB with expansion headers for future sensors.
 
 + Surge-protected power input for outdoor reliability.
-![Alt Text](https://github.com/EGR304-2025-F-101/team101.github.io/blob/main/docs/image/con2.png?raw=true)
+![Alt Text](https://github.com/EGR304-2025-F-101/team101.github.io/blob/main/docs/stylesheets/balls.png?raw=true)
 
 
 ### Concept 3
@@ -361,7 +361,7 @@ Hardware Design
 + Optional solar-powered variant for remote satellite modules
 
 + Dedicated mounting flanges for walls/panels/pump sheds
-![Alt Text](https://github.com/EGR304-2025-F-101/team101.github.io/blob/main/docs/image/con3.png?raw=true)
+![Alt Text](https://github.com/EGR304-2025-F-101/team101.github.io/blob/main/docs/stylesheets/turkey.png?raw=true)
 
 ## Documentation
 
