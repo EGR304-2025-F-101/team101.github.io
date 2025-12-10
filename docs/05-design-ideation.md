@@ -200,7 +200,7 @@ Hardware Design
 + Small, weather-resistant enclosure intended for outdoor mounting.
 
 + Low-cost power design using a 5 V DC supply and onboard regulator for the MCU.
-![Alt Text](https://github.com/user-attachments/assets/e4959a19-bbe7-48f8-b799-6977ecf7f64e)
+![Alt Text](https://github.com/EGR304-2025-F-101/team101.github.io/blob/main/docs/image/con1.png?raw=true)
 
 ### Concept 2 
 Purpose: A more advanced, sustainability-focused controller that uses multi-sensor environmental data to dynamically adapt watering behavior. This concept serves users who want higher water efficiency than the Essential Smart Water Saver but still value simple setup and autonomy.
@@ -265,7 +265,7 @@ Hardware Design
 + Modular internal PCB with expansion headers for future sensors.
 
 + Surge-protected power input for outdoor reliability.
-![Alt Text](https://github.com/EGR304-2025-F-101/team101.github.io/blob/main/docs/stylesheets/balls.png?raw=true)
+![Alt Text](https://github.com/EGR304-2025-F-101/team101.github.io/blob/main/docs/image/con2.png?raw=true)
 
 
 ### Concept 3
@@ -360,7 +360,7 @@ Hardware Design
 + Optional solar-powered variant for remote satellite modules
 
 + Dedicated mounting flanges for walls/panels/pump sheds
-<img width="1536" height="1024" alt="chicken" src="https://github.com/user-attachments/assets/b5d571d1-94b8-4bb4-add8-d1a3edb1c89d" />
+![Alt Text](https://github.com/EGR304-2025-F-101/team101.github.io/blob/main/docs/image/con3.png?raw=true)
 
 
 ## Documentation
