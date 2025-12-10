@@ -17,6 +17,8 @@ The diagram illustrates the signal flow beginning from the central Hub module (R
 
 ![team-block-diagram-hub](https://github.com/user-attachments/assets/88fb8671-27e1-4214-b07f-8258bab725c1)
 
+*Figure 1: Showing Block Diagram of All Interconnect Subsystems*
+
 
 | Pin | From        | To        | Type              | Description              |
 |-----|-------------|-----------|-------------------|--------------------------|
@@ -29,6 +31,7 @@ The diagram illustrates the signal flow beginning from the central Hub module (R
 | 7   | –           | –         | –                 | not used                |
 | 8   | Ground      | Ground    | Ground            | Ground                  |
 
+*Figure 2: Showing Pin Connector Table for Myles and Raj*
 
 
 
