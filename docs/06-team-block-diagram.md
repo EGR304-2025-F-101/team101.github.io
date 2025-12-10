@@ -18,6 +18,17 @@ The diagram illustrates the signal flow beginning from the central Hub module (R
 ![team-block-diagram-hub](https://github.com/user-attachments/assets/88fb8671-27e1-4214-b07f-8258bab725c1)
 
 
+| Pin | From        | To        | Type              | Description              |
+|-----|-------------|-----------|-------------------|--------------------------|
+| 1   | Myles (RB0) | Raj (RC7) | 0V / 5V Digital   | Trigger pin for speaker |
+| 2   | –           | –         | –                 | not used                |
+| 3   | –           | –         | –                 | not used                |
+| 4   | –           | –         | –                 | not used                |
+| 5   | –           | –         | –                 | not used                |
+| 6   | –           | –         | –                 | not used                |
+| 7   | –           | –         | –                 | not used                |
+| 8   | Ground      | Ground    | Ground            | Ground                  |
+
 
 
 
