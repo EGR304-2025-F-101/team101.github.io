@@ -7,10 +7,10 @@ tags:
 <center>
 <font size="8">Projectz<br>
 <font size="5">Team 101<br>
-**Submission: December 9, 2025**<br>
+December 9, 2025<br>
 Fall 2025<br>
 <font size="4">Arizona State University<br>
-**EGR 304**<br>
+EGR 304<br>
 Myles, Liam, Isaiah, and Raj<br>
   
 <img width="445" height="700" alt="Screenshot 2025-12-06 153015" src="https://github.com/user-attachments/assets/1cf8b062-9850-4aba-bc44-c85c9b1314c0" />
