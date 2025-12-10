@@ -22,7 +22,7 @@ The diagram illustrates the signal flow beginning from the central Hub module (R
 
 | Pin | From        | To        | Type              | Description              |
 |-----|-------------|-----------|-------------------|--------------------------|
-| 1   | Myles (RB0) | Raj (RC7) | 0V / 5V Digital   | Trigger pin for speaker |
+| 1   | Myles (RB0) | Raj (RC7) | 0V / 5V Digital   | Trigger Pin For Speaker |
 | 2   | –           | –         | –                 | not used                |
 | 3   | –           | –         | –                 | not used                |
 | 4   | –           | –         | –                 | not used                |
@@ -33,6 +33,16 @@ The diagram illustrates the signal flow beginning from the central Hub module (R
 
 *Figure 2: Showing Pin Connector Table for Myles and Raj*
 
+| Pin | From          | To            | Type            | Description         |
+|-----|---------------|---------------|-----------------|---------------------|
+| 1   | –             | –             | –               | not used            |
+| 2   | Raj (RD5)     | Isaiah (RB4)  | 0V / 5V Digital | Data Ready Signal   |
+| 3   | –             | –             | –               | not used            |
+| 4   | Isaiah (RC4)  | Raj (RC0)     | 0V / 5V PWM Digital | Sending Data        |
+| 5   | –             | –             | –               | not used            |
+| 6   | –             | –             | –               | not used            |
+| 7   | –             | –             | –               | not used            |
+| 8   | Ground        | Ground        | Ground          | Shared Ground       |
 
-
+*Figure 2: Showing Pin Connector Table for Isaiah and Raj*
 
